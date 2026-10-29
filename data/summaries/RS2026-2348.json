@@ -1,0 +1,11 @@
+{
+ "file": "RS2026-2348",
+ "source_hash": "dbe48752220344a0",
+ "model": "sonnet",
+ "summary": "Recognizes the 48th Annual Joint Meeting of the Southeast U.S./Japan Association and the Japan-U.S. Southeast Association, hosted in Nashville from October 25 to 27, 2026.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0447
+}

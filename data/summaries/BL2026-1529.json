@@ -1,0 +1,13 @@
+{
+ "file": "BL2026-1529",
+ "source_hash": "03e42ed31d199222",
+ "model": "sonnet",
+ "summary": "Gives up the government's rights to keep utility easements at 801 Dominican Drive, on land that used to be parts of Nassau Street and Alleys 514, 516 and 519. The easements are no longer needed, and the Directors of Water and Sewerage Services and Public Property Administration can sign the papers to carry it out.",
+ "topic": "Water, power and environment",
+ "verified": false,
+ "problems": [
+  "name 'Nassau Street and Alleys' not found in the source"
+ ],
+ "attempts": 2,
+ "batch_cost_usd": 0.0551
+}

@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1448",
+ "source_hash": "c1bd8b102c7cde0c",
+ "model": "sonnet",
+ "summary": "Pauses zoning, building, and grading permits for data center developments anywhere in Nashville & Davidson County until November 1, 2026 or until BL2026-1391 and BL2026-1392 take effect, whichever comes first. Small server rooms under 500 square feet inside another main use are not counted as data centers.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0421
+}

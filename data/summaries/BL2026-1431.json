@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1431",
+ "source_hash": "0a1ec643b5197fb2",
+ "model": "sonnet",
+ "summary": "Changes the Metro Code so the mayor appoints the executive director of the commission and the office of entertainment, in consultation with the commission, and the director and any staff are organized under the mayor's office. It also replaces the definitions section, deleting an unreferenced definition and defining entertainment industry, film and television industry, and music industry.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.064
+}

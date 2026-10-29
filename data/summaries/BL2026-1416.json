@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1416",
+ "source_hash": "bb646a306072b40c",
+ "model": "sonnet",
+ "summary": "Applies a Contextual Overlay District to various R20-zoned properties along Shepherd Hills Drive and Twin Hills Drive, southeast of Gallatin Pike (137.6 acres).",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0316
+}

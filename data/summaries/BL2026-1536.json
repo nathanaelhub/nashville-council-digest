@@ -1,0 +1,13 @@
+{
+ "file": "BL2026-1536",
+ "source_hash": "640a8b2727376805",
+ "model": "sonnet",
+ "summary": "Changes Metro's small business grant rules by adding workforce advancement grants that repay training costs (up to $1,000 per trained full-time employee) and legacy business grants for small businesses that have operated in Nashville for at least fifteen years. It also lets blighted property grants cover interior improvements and industrial property, and updates the list of businesses that can't get grants.",
+ "topic": "Budget, grants and contracts",
+ "verified": false,
+ "problems": [
+  "name \"Changes Metro's\" not found in the source"
+ ],
+ "attempts": 2,
+ "batch_cost_usd": 0.0877
+}

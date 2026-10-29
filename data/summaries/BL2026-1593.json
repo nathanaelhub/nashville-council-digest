@@ -1,0 +1,13 @@
+{
+ "file": "BL2026-1593",
+ "source_hash": "4490c72c77b88fd1",
+ "model": "sonnet",
+ "summary": "Lets Metro give up about 94 feet of old eight-inch sewer pipe and easements, and accept about 132 feet of new eight-inch sewer pipe in two types, four manholes and easements at 1713 Primrose Avenue. The text says this costs Metro nothing.",
+ "topic": "Water, power and environment",
+ "verified": false,
+ "problems": [
+  "number '132' not found in the source"
+ ],
+ "attempts": 2,
+ "batch_cost_usd": 0.0853
+}

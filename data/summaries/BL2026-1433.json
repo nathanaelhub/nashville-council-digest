@@ -1,0 +1,13 @@
+{
+ "file": "BL2026-1433",
+ "source_hash": "a13a50f30320594f",
+ "model": "sonnet",
+ "summary": "Replaces \"day care\" with separate \"child care\" and \"adult day services\" uses throughout Metro's zoning and related codes, with size classes and new standards for each. It also updates the rules for permit review priority, short-term rental permits, beer permits, and sex club distances to use the term \"child care.\"",
+ "topic": "Housing and zoning",
+ "verified": false,
+ "problems": [
+  "name \"Metro's\" not found in the source"
+ ],
+ "attempts": 2,
+ "batch_cost_usd": 0.0724
+}

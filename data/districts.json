@@ -1,0 +1,3452 @@
+{
+ "BL2025-1149": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2025-703": {
+  "districts": [
+   24
+  ],
+  "refs": [
+   "10315005800"
+  ],
+  "via": "parcel"
+ },
+ "BL2025-704": {
+  "districts": [
+   24
+  ],
+  "refs": [
+   "4301 HARDING PIKE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1254": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1314": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1360": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1361": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1362": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1386": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "16300012200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1387": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "06916008600"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1388": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "16300005400",
+   "16300005500"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1389": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "532 BELL RD",
+   "538 BELL RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1391": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1392": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1393": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1394": {
+  "districts": [
+   31
+  ],
+  "refs": [
+   "14656 OLD HICKORY BLVD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1395": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "11913021500"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1396": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "08208009400",
+   "08208009500",
+   "08208009600",
+   "08208009700",
+   "08208012000"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1397": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "832 SEYMOUR AVE",
+   "834 SEYMOUR AVE",
+   "836 SEYMOUR AVE",
+   "838 SEYMOUR AVE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1398": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "09202012500"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1399": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "1038 28TH AVE N"
+  ],
+  "via": "address"
+ },
+ "BL2026-1400": {
+  "districts": [
+   33
+  ],
+  "refs": [
+   "17400008300"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1401": {
+  "districts": [
+   33
+  ],
+  "refs": [
+   "5683 CANE RIDGE RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1402": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "13306001700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1403": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "07213008300",
+   "07213018700",
+   "07213018800",
+   "07213018900",
+   "07213019000",
+   "07213019500",
+   "07213019600",
+   "07213019800",
+   "07213019900",
+   "07213020100",
+   "07213022600",
+   "07213022800",
+   "07213022900",
+   "07213023000",
+   "07213023200",
+   "07213023500",
+   "07213023600",
+   "07213023700",
+   "07213036600",
+   "07213036700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1404": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "BL2026-1403"
+  ],
+  "via": "same site as BL2026-1403"
+ },
+ "BL2026-1405": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "08112001800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1406": {
+  "districts": [
+   33
+  ],
+  "refs": [
+   "17400010900",
+   "17400014600",
+   "17400014900",
+   "17400016200",
+   "17400016500"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1407": {
+  "districts": [
+   33
+  ],
+  "refs": [
+   "5601 CANE RIDGE RD",
+   "5621 CANE RIDGE RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1408": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "11905033200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1409": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "05105001700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1410": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "09210014100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1411": {
+  "districts": [
+   33
+  ],
+  "refs": [
+   "18300001300"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1412": {
+  "districts": [
+   33
+  ],
+  "refs": [
+   "13181 OLD HICKORY BLVD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1413": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "11905024700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1414": {
+  "districts": [
+   12
+  ],
+  "refs": [
+   "08700011100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1415": {
+  "districts": [
+   12
+  ],
+  "refs": [
+   "BL2026-1414"
+  ],
+  "via": "same site as BL2026-1414"
+ },
+ "BL2026-1416": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1417": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "07114026800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1418": {
+  "districts": [
+   35
+  ],
+  "refs": [
+   "11400013500"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1419": {
+  "districts": [
+   12
+  ],
+  "refs": [
+   "11000013600"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1420": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1421": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "1232 JOHN L COPELAND BLVD",
+   "1232 JOHN L COPELAND BLVD"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1422": {
+  "districts": [
+   7
+  ],
+  "refs": [
+   "05108004800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1423": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "09102023900"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1424": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "BL2026-1423"
+  ],
+  "via": "same site as BL2026-1423"
+ },
+ "BL2026-1425": {
+  "districts": [
+   8
+  ],
+  "refs": [
+   "15000020400"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1426": {
+  "districts": [
+   8
+  ],
+  "refs": [
+   "3233 HAMILTON CHURCH RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1427": {
+  "districts": [
+   9
+  ],
+  "refs": [
+   "914 HOSPITAL DR"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1428": {
+  "districts": [
+   7
+  ],
+  "refs": [
+   "07207023600",
+   "07207023700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1429": {
+  "districts": [
+   35
+  ],
+  "refs": [
+   "15500007900",
+   "15500008000",
+   "15500020300"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1430": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1431": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1432": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1433": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1434": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1435": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1436": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "3200 KINGS LN"
+  ],
+  "via": "address"
+ },
+ "BL2026-1437": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1439": {
+  "districts": [
+   35
+  ],
+  "refs": [
+   "0 MCCRORY LN"
+  ],
+  "via": "address"
+ },
+ "BL2026-1440": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "4913 WHITES CREEK PIKE"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1441": {
+  "districts": [
+   4
+  ],
+  "refs": [
+   "6435 HOLT RD"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1442": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1443": {
+  "districts": [
+   12
+  ],
+  "refs": [
+   "5047 JOHN HAGAR RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1444": {
+  "districts": [
+   12
+  ],
+  "refs": [
+   "5047 JOHN HAGAR RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1445": {
+  "districts": [
+   18
+  ],
+  "refs": [
+   "10403006600"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1446": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1447": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1448": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1449": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1450": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1451": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1452": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1453": {
+  "districts": [
+   35
+  ],
+  "refs": [
+   "0 MCCRORY LN"
+  ],
+  "via": "address"
+ },
+ "BL2026-1454": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1455": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1456": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1457": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1458": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "101 EASTMORELAND ST"
+  ],
+  "via": "address"
+ },
+ "BL2026-1459": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "825 GALE LN"
+  ],
+  "via": "address"
+ },
+ "BL2026-1460": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1461": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1462": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1463": {
+  "districts": [
+   15
+  ],
+  "refs": [
+   "596 DONELSON PIKE"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1464": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1465": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1466": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1467": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1468": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1469": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "09310000100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1470": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "113 8TH AVE S"
+  ],
+  "via": "address"
+ },
+ "BL2026-1471": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "07005000800",
+   "07009002700",
+   "07009002800",
+   "07009002900"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1472": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "BL2026-1471"
+  ],
+  "via": "same site as BL2026-1471"
+ },
+ "BL2026-1473": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "10501023200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1474": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "08209036700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1475": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1205 2ND AVE N"
+  ],
+  "via": "address"
+ },
+ "BL2026-1476": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "07110017900",
+   "07110018000"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1477": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1478": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "13301011000",
+   "13301011100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1479": {
+  "districts": [
+   9
+  ],
+  "refs": [
+   "04306000500",
+   "04306000600",
+   "04306000700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1480": {
+  "districts": [
+   9
+  ],
+  "refs": [
+   "515 ANDERSON LN"
+  ],
+  "via": "address"
+ },
+ "BL2026-1481": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "06916019000"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1482": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "09205010400"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1483": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "3411 ALBION ST"
+  ],
+  "via": "address"
+ },
+ "BL2026-1484": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "17500003200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1485": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "12802 OLD HICKORY BLVD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1486": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "304 JOYNER AVE"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1487": {
+  "districts": [
+   11
+  ],
+  "refs": [
+   "07600015200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1488": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1489": {
+  "districts": [
+   13
+  ],
+  "refs": [
+   "1415 MURFREESBORO PIKE"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1490": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1491": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1492": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1493": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1494": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1495": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1496": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1497": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1498": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1499": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "1500 DICKERSON PIKE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1500": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1501": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1502": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1503": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1504": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "07009001800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1505": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "2401 BUENA VISTA PIKE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1506": {
+  "districts": [
+   9
+  ],
+  "refs": [
+   "04314005100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1507": {
+  "districts": [
+   3,
+   9
+  ],
+  "refs": [
+   "610 OLD HICKORY BLVD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1508": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "08211004100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1509": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "100 MERIDIAN ST"
+  ],
+  "via": "address"
+ },
+ "BL2026-1510": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "10503024000",
+   "10503024100",
+   "10503024200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1511": {
+  "districts": [
+   8
+  ],
+  "refs": [
+   "17600001300"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1512": {
+  "districts": [
+   7
+  ],
+  "refs": [
+   "07206030700",
+   "07206030800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1513": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1514": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1515": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1516": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1517": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1518": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1519": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1520": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1521": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1522": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "1354 BRICK CHURCH PIKE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1523": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1524": {
+  "districts": [
+   24
+  ],
+  "refs": [
+   "94 WHITE BRIDGE PIKE"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1525": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "329 BEN ALLEN RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1526": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1527": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "723 MAIN ST"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1528": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "2450 BUENA VISTA PIKE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1529": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "801 DOMINICAN DR"
+  ],
+  "via": "address"
+ },
+ "BL2026-1530": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1531": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "2826 HARTFORD DR"
+  ],
+  "via": "address"
+ },
+ "BL2026-1532": {
+  "districts": [
+   12
+  ],
+  "refs": [
+   "5001 BELL RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1533": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "3622 WHITES CREEK PIKE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1534": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1535": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1536": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1537": {
+  "districts": [
+   27
+  ],
+  "refs": [
+   "15180 OLD HICKORY BLVD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1538": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1539": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1540": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1541": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1810 CEMENT PLANT RD",
+   "1815 CEMENT PLANT RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1542": {
+  "districts": [
+   10
+  ],
+  "refs": [
+   "131 LIBERTY LN"
+  ],
+  "via": "address"
+ },
+ "BL2026-1543": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "1313 53RD AVE N"
+  ],
+  "via": "address"
+ },
+ "BL2026-1544": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1545": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1546": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "13301033100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1547": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "09210013700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1548": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "3001 OWEN DR",
+   "3014 OWEN DR",
+   "3021 OWEN DR",
+   "3025 OWEN DR",
+   "3026 OWEN DR",
+   "3034 OWEN DR",
+   "3041 OWEN DR",
+   "3048 OWEN DR"
+  ],
+  "via": "address"
+ },
+ "BL2026-1549": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "17500014300",
+   "17500014400",
+   "17500014500",
+   "17500014600",
+   "17500014800",
+   "17500014900",
+   "17500015000",
+   "17500016000",
+   "17500018300"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1550": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "11901044300"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1551": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "09202037200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1552": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "17400005700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1553": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "09315039900"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1554": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "BL2026-1553"
+  ],
+  "via": "same site as BL2026-1553"
+ },
+ "BL2026-1555": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "11905005900"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1556": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "08111048800",
+   "08111048900"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1557": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "06916011300"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1558": {
+  "districts": [
+   31
+  ],
+  "refs": [
+   "17300007600"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1559": {
+  "districts": [
+   31
+  ],
+  "refs": [
+   "1065 BARNES RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1560": {
+  "districts": [
+   14
+  ],
+  "refs": [
+   "08600005500",
+   "08600005600"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1561": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "06013004400"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1562": {
+  "districts": [
+   27
+  ],
+  "refs": [
+   "16201004100",
+   "16201004200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1563": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "10506016200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1564": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "08209020800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1565": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1566": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1567": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1568": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1569": {
+  "districts": [
+   7
+  ],
+  "refs": [
+   "1059 GWYNN DR"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1570": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1571": {
+  "districts": [
+   8
+  ],
+  "refs": [
+   "3569 PIN HOOK RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1572": {
+  "districts": [
+   26
+  ],
+  "refs": [
+   "5639 VALLEY VIEW RD",
+   "5645 VALLEY VIEW RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1573": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "222 25TH AVE N"
+  ],
+  "via": "address"
+ },
+ "BL2026-1574": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1575": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1576": {
+  "districts": [
+   13
+  ],
+  "refs": [
+   "3128 ELM HILL PIKE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1577": {
+  "districts": [
+   4
+  ],
+  "refs": [
+   "6435 HOLT RD"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1578": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "06904004100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1579": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "BL2026-1578"
+  ],
+  "via": "same site as BL2026-1578"
+ },
+ "BL2026-1580": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1581": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1582": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1583": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1584": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1585": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1508 3RD AVE N"
+  ],
+  "via": "address"
+ },
+ "BL2026-1586": {
+  "districts": [
+   24
+  ],
+  "refs": [
+   "4601 MURPHY RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1587": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1588": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1589": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1590": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1591": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1592": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1593": {
+  "districts": [
+   18
+  ],
+  "refs": [
+   "1713 PRIMROSE AVE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1594": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "BL2026-1396"
+  ],
+  "via": "same site as BL2026-1396"
+ },
+ "BL2026-1595": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "06916006100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1596": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "101 LUTIE ST",
+   "103 LUTIE ST"
+  ],
+  "via": "nearby address"
+ },
+ "BL2026-1597": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "06114000900",
+   "06114002100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1598": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "08004002100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1599": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "1701 COUNTY HOSPITAL RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1600": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "10613000700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1601": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "08212013600"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1602": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "06912021600",
+   "06912021700",
+   "06912021800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1603": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "09205028100",
+   "09205028200",
+   "09205028300",
+   "09205033800",
+   "09205033900"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1604": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "3000 CLIFTON AVE",
+   "3002 CLIFTON AVE",
+   "3008 CLIFTON AVE",
+   "3012 CLIFTON AVE",
+   "3016 CLIFTON AVE"
+  ],
+  "via": "address"
+ },
+ "BL2026-1605": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "08209020800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1606": {
+  "districts": [
+   3,
+   8,
+   9
+  ],
+  "refs": [
+   "4465 LAVERGNE COUCHVILLE PIKE",
+   "610 OLD HICKORY BLVD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1607": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "713 27TH AVE N"
+  ],
+  "via": "address"
+ },
+ "BL2026-1608": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1609": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1610": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1611": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1612": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1613": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1614": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1615": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1616": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1617": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1618": {
+  "districts": [
+   9
+  ],
+  "refs": [
+   "1017 PIERCE RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1619": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1620": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2064": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2070": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "114 28TH AVE N"
+  ],
+  "via": "address"
+ },
+ "RS2026-2071": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2072": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2073": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2074": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2075": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2076": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2077": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2078": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2079": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2080": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2081": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2082": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2083": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2084": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2085": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2086": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2087": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2088": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2089": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2090": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2091": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2092": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2093": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2094": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2095": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2096": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2097": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2098": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2099": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2100": {
+  "districts": [
+   18
+  ],
+  "refs": [
+   "2301 12TH AVE S"
+  ],
+  "via": "address"
+ },
+ "RS2026-2101": {
+  "districts": [
+   25
+  ],
+  "refs": [
+   "3808 CLEGHORN AVE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2102": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "111 4TH AVE S"
+  ],
+  "via": "address"
+ },
+ "RS2026-2103": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1 TITANS WAY"
+  ],
+  "via": "address"
+ },
+ "RS2026-2104": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "0 PORTER ST"
+  ],
+  "via": "address"
+ },
+ "RS2026-2105": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "509 HOUSTON ST"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2106": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2107": {
+  "districts": [
+   14
+  ],
+  "refs": [
+   "4016 ANDREW JACKSON WAY"
+  ],
+  "via": "address"
+ },
+ "RS2026-2108": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "5409 ILLINOIS AVE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2109": {
+  "districts": [
+   6
+  ],
+  "refs": [
+   "1916 EASTLAND AVE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2110": {
+  "districts": [
+   27
+  ],
+  "refs": [
+   "4854 NOLENSVILLE PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2111": {
+  "districts": [
+   3
+  ],
+  "refs": [
+   "1411 DICKERSON PIKE"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2112": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2113": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2114": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2115": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "3539 DICKERSON PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2116": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2117": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2118": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2119": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2120": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2121": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2122": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2123": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2124": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2125": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2126": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2127": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2128": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2129": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2130": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2131": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "210 4TH AVE N"
+  ],
+  "via": "address"
+ },
+ "RS2026-2132": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2133": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2134": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2135": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2136": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "5504 WINN AVE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2137": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2138": {
+  "districts": [
+   18
+  ],
+  "refs": [
+   "1515 WEDGEWOOD AVE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2139": {
+  "districts": [
+   18
+  ],
+  "refs": [
+   "2415 VANDERBILT PL"
+  ],
+  "via": "address"
+ },
+ "RS2026-2140": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2141": {
+  "districts": [
+   8
+  ],
+  "refs": [
+   "3807 HAMILTON CHURCH RD",
+   "3817 HAMILTON CHURCH RD",
+   "3897 HAMILTON CHURCH RD"
+  ],
+  "via": "address"
+ },
+ "RS2026-2142": {
+  "districts": [
+   8
+  ],
+  "refs": [
+   "3807 HAMILTON CHURCH RD",
+   "3817 HAMILTON CHURCH RD"
+  ],
+  "via": "address"
+ },
+ "RS2026-2143": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2144": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "5516 ROME AVE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2145": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2146": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2147": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2148": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2149": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2150": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2151": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2152": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2153": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2154": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2155": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2156": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2157": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2158": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2159": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2160": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2161": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2162": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2163": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2164": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2165": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2166": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2167": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2168": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2169": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2170": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2171": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2172": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2173": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2174": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2175": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2176": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2177": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "301 DEMONBREUN ST 710"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2178": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "1100 16TH AVE S"
+  ],
+  "via": "address"
+ },
+ "RS2026-2179": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2180": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2181": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2182": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2183": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2184": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2185": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2186": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2187": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2188": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2189": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2190": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2191": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2192": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2193": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2194": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2195": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2196": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2197": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2198": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2199": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2200": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2201": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2202": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2203": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2204": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2205": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2206": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2207": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2208": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2209": {
+  "districts": [
+   10
+  ],
+  "refs": [
+   "425 CHURCH ST"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2210": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2211": {
+  "districts": [
+   11
+  ],
+  "refs": [
+   "1109 RIVERSIDE RD"
+  ],
+  "via": "address"
+ },
+ "RS2026-2212": {
+  "districts": [
+   8
+  ],
+  "refs": [
+   "4316 LAVERGNE COUCHVILLE PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2213": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "607 W DUE WEST AVE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2214": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2215": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2216": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "460 JAMES ROBERTSON PKWY"
+  ],
+  "via": "address"
+ },
+ "RS2026-2217": {
+  "districts": [
+   21
+  ],
+  "refs": [
+   "3401 JOHN A MERRITT BLVD"
+  ],
+  "via": "address"
+ },
+ "RS2026-2218": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "1429 12TH AVE S"
+  ],
+  "via": "address"
+ },
+ "RS2026-2219": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2220": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2221": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "716 HITE ST"
+  ],
+  "via": "address"
+ },
+ "RS2026-2222": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "178 2ND AVE N 102"
+  ],
+  "via": "address"
+ },
+ "RS2026-2223": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "178 2ND AVE N 102"
+  ],
+  "via": "address"
+ },
+ "RS2026-2224": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2225": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2226": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2227": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2228": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2229": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2230": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2231": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2232": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "2500 BUENA VISTA PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2233": {
+  "districts": [
+   10
+  ],
+  "refs": [
+   "0 LIBERTY LN",
+   "131 LIBERTY LN"
+  ],
+  "via": "address"
+ },
+ "RS2026-2234": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "204 E TRINITY LN"
+  ],
+  "via": "address"
+ },
+ "RS2026-2235": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2236": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2237": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2238": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2239": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2240": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2241": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2242": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2243": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2244": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2245": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2246": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "509 HOUSTON ST"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2247": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "509 HOUSTON ST"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2248": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "509 HOUSTON ST"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2249": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2250": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2251": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2252": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2253": {
+  "districts": [
+   14
+  ],
+  "refs": [
+   "5771 OLD HICKORY BLVD"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2254": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2255": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2256": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2257": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2258": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2259": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2260": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2261": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2262": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2263": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2264": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2265": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2266": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2267": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "1001 HAWKINS ST"
+  ],
+  "via": "address"
+ },
+ "RS2026-2268": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2269": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2270": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2271": {
+  "districts": [
+   30
+  ],
+  "refs": [
+   "5042 LINBAR DR"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2272": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2273": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2274": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2275": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2276": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2277": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2278": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2279": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2280": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2281": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2282": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2283": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2284": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2285": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2286": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2287": {
+  "districts": [
+   18
+  ],
+  "refs": [
+   "2415 VANDERBILT PL"
+  ],
+  "via": "address"
+ },
+ "RS2026-2288": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2289": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2290": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2291": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2292": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2293": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2294": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1107 DEMONBREUN ST"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2295": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2296": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2297": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2298": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2299": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2300": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2301": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2302": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2303": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2304": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2305": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2306": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2307": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2308": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2309": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2310": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2311": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2312": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2313": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2314": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2315": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2316": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2317": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2318": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2319": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2320": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2321": {
+  "districts": [
+   11
+  ],
+  "refs": [
+   "1000 RIVERSIDE RD"
+  ],
+  "via": "nearby address"
+ },
+ "RS2026-2322": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "15 MUSIC CIR S"
+  ],
+  "via": "address"
+ },
+ "RS2026-2323": {
+  "districts": [
+   13
+  ],
+  "refs": [
+   "2791 COUCHVILLE PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2324": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2325": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2326": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2327": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2328": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1319 6TH AVE N"
+  ],
+  "via": "address"
+ },
+ "RS2026-2329": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2330": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2331": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2332": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2333": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2334": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2335": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2336": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2337": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2338": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2339": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2340": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2341": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2342": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2343": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2344": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1 TITANS WAY"
+  ],
+  "via": "address"
+ },
+ "RS2026-2345": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2346": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "4030 WHITES CREEK PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2347": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2348": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2349": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2350": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ }
+}

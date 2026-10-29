@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1392",
+ "source_hash": "c652576823d17eb2",
+ "model": "sonnet",
+ "summary": "Requires that building walls facing a public right-of-way or a parcel in a non-industrial zoning district be made of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, as part of the data center zoning rules in BL2026-1391. The Zoning Administrator may waive this if the wall can't be seen from the neighboring parcel or the public right-of-way.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0319
+}

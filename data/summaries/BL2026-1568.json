@@ -1,0 +1,13 @@
+{
+ "file": "BL2026-1568",
+ "source_hash": "2018483416a356a5",
+ "model": "sonnet",
+ "summary": "Approves a contract between Metro's Planning Department and Focus Strategies to create a Permanent Supportive Housing Strategic Plan, with an estimated value of $250,000. Any change to the contract would need a Council resolution with at least twenty-one yes votes.",
+ "topic": "Budget, grants and contracts",
+ "verified": false,
+ "problems": [
+  "name \"Metro's Planning Department and Focus Strategies\" not found in the source"
+ ],
+ "attempts": 2,
+ "batch_cost_usd": 0.0925
+}

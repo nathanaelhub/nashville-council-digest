@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1254",
+ "source_hash": "cf48c1078eae6089",
+ "model": "sonnet",
+ "summary": "Requires businesses in Nashville and Davidson County that advertise prices set by an algorithm using a person's own data to show the notice \"THIS PRICE WAS SET BY AN ALGORITHM USING YOUR PERSONAL DATA.\" The Department of Codes Administration would enforce it.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0909
+}

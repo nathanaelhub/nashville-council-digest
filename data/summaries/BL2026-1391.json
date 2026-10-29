@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1391",
+ "source_hash": "ca48900cde392e55",
+ "model": "sonnet",
+ "summary": "Adds data center uses to the zoning code, sorted by size and electricity use into accessory, small, medium, large and campus. Accessory, small, medium and large data centers are allowed in certain zoning districts, with conditions or special exceptions for some, and campus data centers are not permitted anywhere in Davidson County. Small and medium ones must stay at least 100 and 500 feet from homes, day cares, parks and similar uses, and small ones must follow design, cooling, generator, noise and light rules.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0701
+}

@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1488",
+ "source_hash": "9a29ca0af6276c65",
+ "model": "sonnet",
+ "summary": "Fixes errors in the Zoning District Land Use Table in Section 17.08.030 of the Metro Code, as shown in Exhibit A. The errors were made when two earlier ordinances, BL2025-908 (beer and cigarette market rules) and BL2025-909 (commercial compatibility overlay), were adopted.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0537
+}

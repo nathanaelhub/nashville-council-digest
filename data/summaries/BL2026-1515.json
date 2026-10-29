@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1515",
+ "source_hash": "033b35c7b0efb9fc",
+ "model": "sonnet",
+ "summary": "Sets rules for rounding in-person cash payments to Metro to the nearest five cents when the payer can't give exact change and pennies are not available. Departments that take cash must post a notice, can't refuse cash, and the exact price or fee does not change.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0697
+}

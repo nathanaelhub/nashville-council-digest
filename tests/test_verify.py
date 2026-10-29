@@ -38,3 +38,10 @@ def test_names_from_the_source_and_common_words_pass():
 def test_district_list_parsing():
     assert district_numbers("Districts 2, 5 and 19") == {2, 5, 19}
     assert district_numbers("Council District 7") == {7}
+
+
+def test_possessives_and_plurals_of_source_names():
+    src = "Nassau Street and Alley No. 514, under the Metropolitan Code"
+    assert check("Closes part of Nassau Street and Alleys 514.", src) == []
+    assert check("Changes words across Metropolitan's code.", src) == []
+    assert [p.kind for p in check("Closes Dominican Drive.", src)] == ["name"]

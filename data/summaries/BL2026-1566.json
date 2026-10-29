@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1566",
+ "source_hash": "6c79a2bef49a6328",
+ "model": "sonnet",
+ "summary": "Allows door-to-door solicitation only from 10:00 a.m. to 8:00 p.m. during daylight saving time and from 10:00 a.m. to sunset during standard time. It also requires permit holders to check the no-solicitation registry at least once every thirty days, and lets Metro issue warnings and penalties and suspend or revoke permits for repeat violations.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0925
+}

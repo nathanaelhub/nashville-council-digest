@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1420",
+ "source_hash": "bfef186dca3c70bf",
+ "model": "sonnet",
+ "summary": "Applies a Contextual Overlay District to various RS40-zoned properties along Cumberland Hills Drive and Northside Drive, south of Gallatin Pike (68.2 acres).",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0332
+}

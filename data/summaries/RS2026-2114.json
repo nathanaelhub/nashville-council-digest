@@ -1,0 +1,11 @@
+{
+ "file": "RS2026-2114",
+ "source_hash": "49cd4cdfccac621b",
+ "model": "sonnet",
+ "summary": "Approves an agreement between the Davidson County Criminal Court Clerk and the Tennessee Bureau of Investigation to scan and index old criminal court records from about 1985 through 2013. The TBI gives the digital copies to the Clerk at no cost, and the scanning is meant to make criminal history records and firearm background checks more complete and accurate.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.043
+}

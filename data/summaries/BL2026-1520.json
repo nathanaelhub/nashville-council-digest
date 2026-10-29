@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1520",
+ "source_hash": "34d6da474a673055",
+ "model": "sonnet",
+ "summary": "Changes the zoning code definition of \"boarding house\" to mean a residential facility or part of a home for the temporary stay of people or families in a rooming unit, whether or not they pay. The Metropolitan Clerk must publish a notice of the change in a newspaper within five days after final passage.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0696
+}

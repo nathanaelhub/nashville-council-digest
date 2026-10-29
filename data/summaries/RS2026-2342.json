@@ -1,0 +1,13 @@
+{
+ "file": "RS2026-2342",
+ "source_hash": "a6b80bcbb9d320ee",
+ "model": "sonnet",
+ "summary": "Accepts a Land and Water Conservation Fund grant of up to $2 million from the Tennessee Department of Environment and Conservation to the Metropolitan Board of Parks and Recreation, with no cash match required, to develop \"The Farm\" area of Mill Ridge Park. Authorizes the Metropolitan Mayor to sign the grant and puts the money in the Metropolitan Nashville Parks Department's budget.",
+ "topic": "Parks, libraries and arts",
+ "verified": false,
+ "problems": [
+  "name \"Metropolitan Nashville Parks Department's\" not found in the source"
+ ],
+ "attempts": 2,
+ "batch_cost_usd": 0.0493
+}

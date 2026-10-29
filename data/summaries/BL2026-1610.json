@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1610",
+ "source_hash": "7914032bc02c9b76",
+ "model": "sonnet",
+ "summary": "Requires zoning map change notices to be mailed to every dwelling unit on and within 1,000 feet of the property, not just to property owners. Multi-family or mobile home park properties must also post a sign at each entrance and exit, and the change starts January 1, 2028.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.043
+}

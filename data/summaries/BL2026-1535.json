@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1535",
+ "source_hash": "7c429cce3ad196a8",
+ "model": "sonnet",
+ "summary": "Rounds property tax amounts and central business improvement district special assessments to the nearest dollar, starting with the 2026 tax year. Amounts ending in $0.01 to $0.49 round down and $0.50 to $0.99 round up, and interest or penalties on late taxes are not rounded.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0647
+}

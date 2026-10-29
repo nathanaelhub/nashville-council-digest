@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1513",
+ "source_hash": "f8c4a8dc4032e064",
+ "model": "sonnet",
+ "summary": "Changes the rules for Barnes Fund affordable housing grants so the Housing Trust Fund Commission can cancel a contract and reclaim the money, if the contract allows it, when preservation or rehabilitation projects aren't finished within 24 months, or new construction projects within 36 months.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0697
+}

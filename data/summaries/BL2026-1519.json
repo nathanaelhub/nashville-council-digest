@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1519",
+ "source_hash": "1144123c5b427538",
+ "model": "sonnet",
+ "summary": "Changes the encroachment rules so that things built in, on, or under a street, alley, sidewalk, or other public way need a permit from the Department of Transportation (NDOT) and then a Council resolution. Things that go over or across public ways, like aerial cables, canopies, and signs, would need only an NDOT permit.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0696
+}

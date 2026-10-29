@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1494",
+ "source_hash": "b75c40f4ac37a2e7",
+ "model": "sonnet",
+ "summary": "Adopts the property identification maps on file with the Metropolitan Planning Commission and the Metropolitan Clerk as the official maps for identifying real estate for tax assessment, showing property as of January 1, 2026.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0909
+}

@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1498",
+ "source_hash": "a716826f2e818f49",
+ "model": "sonnet",
+ "summary": "Sets rules for police drone-as-first-responder programs, allowing drones for active shooters, hostage situations, searches for missing persons, and up to ten days during a mayor-declared emergency or natural disaster. Bans facial recognition technology, self-flying drones, and drones flown by people who don't work for Metro, and limits the exceptions to Council approval for ongoing surveillance technology.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0599
+}

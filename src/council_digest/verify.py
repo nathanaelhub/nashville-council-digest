@@ -78,6 +78,14 @@ def district_numbers(text: str) -> set[int]:
     return out
 
 
+def found(word: str, low_source: str) -> bool:
+    """A name word is in the source, allowing a possessive or a plural ("Metro's", "Alleys")."""
+    w = word.lower().strip(".")
+    if w.endswith("'s"):
+        w = w[:-2]
+    return w in low_source or (w.endswith("s") and len(w) > 3 and w[:-1] in low_source)
+
+
 def check(summary: str, source: str) -> list[Problem]:
     s, src = norm(summary), norm(source)
     low = src.lower()
@@ -107,7 +115,7 @@ def check(summary: str, source: str) -> list[Problem]:
         if SENTENCE_START.search(s[:m.start()]):
             words = words[1:]  # "Pays for ..." is a verb, not a name
         words = [w for w in words if w.lower() not in COMMON]
-        missing = [w for w in words if w.lower().strip(".") not in low]
+        missing = [w for w in words if not found(w, low)]
         if missing:
             problems.append(Problem("name", name.rstrip(".")))
     return problems

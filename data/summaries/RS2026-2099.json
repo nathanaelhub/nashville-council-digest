@@ -1,0 +1,11 @@
+{
+ "file": "RS2026-2099",
+ "source_hash": "7178e28b6053d806",
+ "model": "sonnet",
+ "summary": "Adopts the annual list of public roads in Davidson County, using the Geographic Information Systems Street and Alley Centerline Layer plus the attached public county road list, as state law requires.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0613
+}

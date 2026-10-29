@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1314",
+ "source_hash": "b2730465768ef899",
+ "model": "sonnet",
+ "summary": "Fixes typos, wrong references, repeated text and old department names in several parts of the Metro Code, including tree and zoning rules. It changes \"the department of public works\" to \"the department of transportation and multimodal infrastructure\" and removes two unused definitions, \"Green infrastructure\" and \"Green street.\"",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0701
+}

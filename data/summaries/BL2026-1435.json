@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1435",
+ "source_hash": "cc9935ab1d40a026",
+ "model": "sonnet",
+ "summary": "Bans new unmetered water connections as of July 21, 2026, and deletes the code sections that set up permits, bonds and sworn statements for them. The water director may inspect previously approved unmetered connections, and other code rules on unmetered connections now apply only to existing ones.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.064
+}

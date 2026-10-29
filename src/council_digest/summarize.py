@@ -70,6 +70,10 @@ def cached(item: Item) -> dict | None:
     if p.exists():
         d = json.loads(p.read_text(encoding="utf-8"))
         if d.get("source_hash") == key(item):
+            # The current checker decides, not the one that ran when this was written.
+            if d.get("summary"):
+                d["problems"] = [str(p) for p in check(d["summary"], source(item))]
+                d["verified"] = not d["problems"]
             return d
     return None
 

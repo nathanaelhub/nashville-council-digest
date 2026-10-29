@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1518",
+ "source_hash": "6f5b0492f15f8125",
+ "model": "sonnet",
+ "summary": "Changes the solid waste generator fee so it applies to waste collected, hauled, received, processed or disposed of in Davidson County, even if it came from outside the county. The fee stays at six dollars per ton, with only one fee owed on each ton and no fee on recovered materials, yard waste or waste handled by or for Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0696
+}

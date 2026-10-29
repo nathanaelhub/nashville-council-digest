@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1517",
+ "source_hash": "9471e91f6d932903",
+ "model": "sonnet",
+ "summary": "Changes driver permit rules for entertainment transportation vehicles and seated sightseeing vehicles so drivers need either a commercial license with a passenger (P) endorsement or another license with a for-hire (F) endorsement, depending on the vehicle's size.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0697
+}

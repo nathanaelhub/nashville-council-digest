@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1401",
+ "source_hash": "e4f9493afc4bb626",
+ "model": "sonnet",
+ "summary": "Requires the buildings in the 68-unit development at 5683 Cane Ridge Road to have facades of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless detailed elevations with the Preliminary SP say otherwise.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0385
+}

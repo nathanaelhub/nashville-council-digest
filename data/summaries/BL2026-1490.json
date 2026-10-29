@@ -1,0 +1,11 @@
+{
+ "file": "BL2026-1490",
+ "source_hash": "13c099690f64369a",
+ "model": "sonnet",
+ "summary": "Changes the pedicab and pedal carriage rules so the MTLC treats pedicabs as a necessary and useful mode of transportation and pedal carriages only as entertainment vehicles. Pedal carriages may not use bicycle lanes, while pedicabs may use them as long as they don't interfere with existing bicycle traffic.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0537
+}
