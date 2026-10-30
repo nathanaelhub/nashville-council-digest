@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1838",
+ "source_hash": "15fe75cc96ca1bcf",
+ "model": "sonnet",
+ "summary": "Accepts a U.S. Housing and Urban Development grant of up to $152,036 for the Office of Homeless Services to grow its homeless data system to more than 265 users and buy more user software licenses. It requires a $37,000 cash match, and the grant period runs November 1, 2025, to October 31, 2026.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0373,
+ "judge": {
+  "key": "b26202d6eec18115",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

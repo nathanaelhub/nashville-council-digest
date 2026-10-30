@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1921",
+ "source_hash": "7e749bdf3c708aba",
+ "model": "sonnet",
+ "summary": "Accepts about 429 linear feet of new eight-inch water main and one fire hydrant assembly at 4240 Westcap Road, also known as Cubby Holes Self Storage.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0439,
+ "judge": {
+  "key": "441c44bad77b2c15",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

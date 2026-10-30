@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1937",
+ "source_hash": "59b9f356344bf60c",
+ "model": "sonnet",
+ "summary": "Approves a change to a Greater Nashville Regional Council grant to Metropolitan Social Services for nutrition services for eligible seniors and rides for elderly people who can't drive. The grant grows by $224,324, from $971,246 to $1,195,570, and the required cash match rises by $22,234.67, from $66,222.33 to $88,457.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0458,
+ "judge": {
+  "key": "3ad902e71cc80d28",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

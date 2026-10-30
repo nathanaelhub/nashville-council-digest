@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1920",
+ "source_hash": "deb43179d98e633d",
+ "model": "sonnet",
+ "summary": "Lets Iconic Broadway Nashville, LLC build, install and maintain one neon blade sign that hangs over the public right-of-way at 312 Broadway. The company must pay all costs, cover Metro against claims, and carry at least $2 million in liability insurance before the permit is granted.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0439,
+ "judge": {
+  "key": "82d25b4548734e6e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

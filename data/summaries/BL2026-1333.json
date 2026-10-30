@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1333",
+ "source_hash": "dbb1cbce1afb140f",
+ "model": "sonnet",
+ "summary": "Allows Metro to negotiate for, condemn and accept permanent and temporary easements on six properties on Kenwood Drive, Winding Way and Eastdale Avenue for the Kenwood Drive Stormwater Improvement Project.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0444,
+ "judge": {
+  "key": "96cbeda6df741a9c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

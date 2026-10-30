@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1294",
+ "source_hash": "a8f8c2dcef11bcb7",
+ "model": "sonnet",
+ "summary": "Lets the water and sewerage director give a one-time bill credit after the January 2026 winter storm: $25.51 for residential and $23.37 for commercial customers who pay water and sewer, and $10.07 residential or $7.93 commercial for water-only customers. Also lets the director pause shut-offs for non-payment and late charges, and approve payment plans of up to six months.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.045,
+ "judge": {
+  "key": "c445ceeec87672f5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

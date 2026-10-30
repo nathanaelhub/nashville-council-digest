@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1779",
+ "source_hash": "ef4dfc5dcd9174ba",
+ "model": "sonnet",
+ "summary": "Allows the Department of Law to settle George Brooks's discrimination and retaliation claims against Metro for $100,000. The Waste Services Department would pay $25,196.31 and the Judgments and Losses fund would pay $74,803.69.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0463,
+ "judge": {
+  "key": "4824b7fddb7cdced",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

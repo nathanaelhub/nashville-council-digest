@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1817",
+ "source_hash": "e9bbe4374f8afd16",
+ "model": "sonnet",
+ "summary": "Approves the fourth amendment to a Tennessee Department of Transportation grant for the Opry Mills Greenway Connector, a multi-modal path and elevated boardwalk from the Cumberland River Pedestrian Bridge to the Opry Mills Complex. It raises the grant from $1 million to $11,332,929 and the required cash match from $250,000 to $6,983,382.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "74af815a8f2eec0c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

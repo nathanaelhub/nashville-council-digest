@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1895",
+ "source_hash": "389dac3ac2ff9bdf",
+ "model": "sonnet",
+ "summary": "Recognizes April 2026 as Child Abuse Prevention Month in Nashville and Davidson County and encourages residents to support families and protect children from abuse and neglect. It also thanks the professionals and volunteers who work to prevent child abuse and help children and families.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0356,
+ "judge": {
+  "key": "8d702060bbe64c32",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

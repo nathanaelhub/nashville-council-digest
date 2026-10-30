@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1272",
+ "source_hash": "d17bdb82f1255c2a",
+ "model": "sonnet",
+ "summary": "Rezones 1103 West Grove Avenue, about 79 feet west of 11th Avenue South (0.17 acres), from R8 to R6-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0364,
+ "judge": {
+  "key": "b9340731b6b55e39",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

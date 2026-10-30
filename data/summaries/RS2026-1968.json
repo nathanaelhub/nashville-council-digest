@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1968",
+ "source_hash": "2e50e2b9e3e7327c",
+ "model": "sonnet",
+ "summary": "Approves a third amendment to a Tennessee Department of Health grant for the Board of Health's work on sexually transmitted infection prevention, testing, diagnosis, treatment and surveillance. It raises the grant by $218,400, from $2,071,373 to $2,289,773.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0684,
+ "judge": {
+  "key": "35bbbf45f4ff08bc",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

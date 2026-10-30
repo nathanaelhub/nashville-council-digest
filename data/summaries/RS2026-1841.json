@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1841",
+ "source_hash": "3759eefbcd4fcc03",
+ "model": "sonnet",
+ "summary": "Moves a $465,701 federal Continuum of Care planning grant from the Metropolitan Development and Housing Agency to the Office of Homeless Services, which the Continuum of Care has chosen as its lead applicant. The grant expires June 30, 2026.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "91b272ba3b4eaf0c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

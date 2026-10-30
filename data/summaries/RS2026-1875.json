@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1875",
+ "source_hash": "01f57a6dce35a529",
+ "model": "sonnet",
+ "summary": "Approves the Nashville Public Library applying for a $179,841.25 National Leadership Grant for Libraries from the Institute of Museum and Library Services, with no cash match required. If awarded, it would help teach youth and adults Artificial Intelligence (AI) literacy skills.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0376,
+ "judge": {
+  "key": "b03f71e4ca486457",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

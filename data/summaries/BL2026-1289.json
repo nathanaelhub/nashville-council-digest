@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1289",
+ "source_hash": "4fc4316bc2682ea3",
+ "model": "sonnet",
+ "summary": "Gives the Electric Power Board an overhead and pole placement easement on property the Metropolitan Government owns at 2907 Booker Street, for supplying electricity. It lets the Director of Public Property Administration grant the easement and sign the papers.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0592,
+ "judge": {
+  "key": "c124db18d3093da4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

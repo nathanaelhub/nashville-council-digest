@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1790",
+ "source_hash": "1908d4f421e66ca0",
+ "model": "sonnet",
+ "summary": "Accepts grants of up to $1,571,300 from the Nashville Public Library Foundation to the Nashville Public Library to pay for certain program positions and program enhancements. No cash match is required, and the grant period runs from July 1, 2025, to June 30, 2026.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0379,
+ "judge": {
+  "key": "e89bd337bfc5fd7d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

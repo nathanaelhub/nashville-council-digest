@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1891",
+ "source_hash": "c8625d3b5974849a",
+ "model": "sonnet",
+ "summary": "Affirms the creation of an Emergency Preparedness Working Group to develop a guidebook that helps Council Members assist residents in weather and non-weather emergencies. Asks that the group's outcomes be presented to the Council by August 17, 2027.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0422,
+ "judge": {
+  "key": "6e383fa99641c216",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1207",
+ "source_hash": "acb5f069091a260e",
+ "model": "sonnet",
+ "summary": "Approves a contract with Gresham Smith for technical and engineering services such as multimodal planning, design, traffic signals, and construction inspection, for any Metro department to use. It can cost up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0407,
+ "judge": {
+  "key": "fc22dd2d525026e1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

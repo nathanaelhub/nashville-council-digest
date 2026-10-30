@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1769",
+ "source_hash": "ea388efe13717dea",
+ "model": "sonnet",
+ "summary": "Approves an agreement with Sumiden Wire Products Corporation to run a foreign-trade subzone within Foreign-Trade Zone No. 78, once the federal Foreign-Trade Zones Board approves it. Sumiden would pay Metro $20,000 a year in administration fees, and the agreement lasts five years.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "4d7d5d6a9c48c50d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

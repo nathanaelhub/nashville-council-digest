@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1378",
+ "source_hash": "2c02e81ba20d4cbf",
+ "model": "sonnet",
+ "summary": "Sets the property tax rate for fiscal year 2026-2027 at $2.782 per $100 of assessed value in the General Services District. Also declares the Urban Services District needs $18,441,100 from property taxes and directs a rate of $0.032 per $100 there.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0559,
+ "judge": {
+  "key": "26b1cdc19adebd98",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

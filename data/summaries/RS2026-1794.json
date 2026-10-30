@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1794",
+ "source_hash": "b0bcf206f6092873",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a Sourcewell master agreement with Scranton Manufacturing Co., Inc. dba New Way Trucks so Metro can buy refuse and recycling equipment for the Department of Waste Services. The anticipated project value is $2.5 million, with anticipated savings of $190,071, and the agreement expires December 28, 2027.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0379,
+ "judge": {
+  "key": "cb540a6ba1d4bd41",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

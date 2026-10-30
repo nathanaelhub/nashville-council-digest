@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1898",
+ "source_hash": "49b32d262e869949",
+ "model": "sonnet",
+ "summary": "Exempts Monell's Dining & Catering at 1235 6th Avenue North from the minimum distance rules for getting a beer permit. The exemption is requested because the business is within 100 feet of a residence.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0391,
+ "judge": {
+  "key": "8382815810ba478f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

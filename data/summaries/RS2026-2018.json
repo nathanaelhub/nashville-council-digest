@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2018",
+ "source_hash": "65c0ea4045a42c84",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $133,000 from the United States Office of National Drug Control Policy for the Metro Nashville Police Department to help investigate drug-related deaths, with no cash match required.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "b2ea5acdf4e8e0bb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

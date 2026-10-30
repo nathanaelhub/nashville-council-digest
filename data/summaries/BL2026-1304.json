@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1304",
+ "source_hash": "965dfbc965991867",
+ "model": "sonnet",
+ "summary": "Amends a Specific Plan for 12.15 acres at 2304 Hobson Pike to allow a day care center for up to 75 inside the existing religious institution building. The plan still allows up to 59 detached multi-family units and a religious institution, and bans short term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0416,
+ "judge": {
+  "key": "656b6c2b1d6b1ea9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

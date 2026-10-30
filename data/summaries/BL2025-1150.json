@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1150",
+ "source_hash": "49036d296abfaea4",
+ "model": "sonnet",
+ "summary": "Approves a development agreement, a ground lease and a campus operations agreement with the Tennessee Performing Arts Center Management Corporation (TPAC) for a performing arts facility on part of the East Bank stadium campus. TPAC pays all costs, including overruns, and must line up $500 million in state funding and $100 million in donor contributions, plus debt financing, before construction starts.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0739,
+ "judge": {
+  "key": "22480c0b27a1e7a5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
+}

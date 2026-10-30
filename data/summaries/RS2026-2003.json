@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2003",
+ "source_hash": "9b34e909d47f80ea",
+ "model": "sonnet",
+ "summary": "Appropriates $21,775,500 from fund balances: $21,625,500 from the General Services District General Fund and $150,000 from the Urban Services District Debt Fund. The largest pieces are $13.1 million for correctional healthcare and $6,282,300 for Sheriff Annex Facility salaries and benefits, with the rest going to tornado siren repairs, other Administrative Department costs, other Sheriff Annex Facility costs, and debt service.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0653,
+ "judge": {
+  "key": "231e7ca239e18635",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.01
+ }
+}

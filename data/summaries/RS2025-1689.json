@@ -1,0 +1,18 @@
+{
+ "file": "RS2025-1689",
+ "source_hash": "f40d3a1cbb932f7f",
+ "model": "sonnet",
+ "summary": "Approves the Twelfth Amendment to Metro's lease with Square Investment Holdings, LLC for the Washington Square Building at 222 Second Avenue North. It adds 2,487 rentable square feet (suite 230) for Metro Nashville Network at $23.87 per square foot to start, with rent rising over time and new carpet and paint at the landlord's expense.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0552,
+ "judge": {
+  "key": "6276826c25f7fa4f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

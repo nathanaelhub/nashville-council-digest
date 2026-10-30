@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1196",
+ "source_hash": "4ebb37e6a11a358b",
+ "model": "sonnet",
+ "summary": "Approves an agreement with Piedmont Natural Gas, Inc. to relocate a natural gas pipeline on the Nissan Stadium campus for the new performing arts center. Metro pays the estimated $5,166,200 cost, including $2,583,100 in advance within 15 days of the agreement's effective date.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0368,
+ "judge": {
+  "key": "d165f59ba71cd0c4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

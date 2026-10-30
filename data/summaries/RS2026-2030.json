@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2030",
+ "source_hash": "8ed9696de2fbb3f7",
+ "model": "sonnet",
+ "summary": "Approves a change to Metro's contract with National Safety Council for teaching and student materials for the General Sessions Court Traffic School. The change adds an additional course to the pricing and drops the contract-number requirement from the proof of insurance section; the estimated contract value stays at $1,098,840.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0456,
+ "judge": {
+  "key": "2cdb90de1224a7f5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

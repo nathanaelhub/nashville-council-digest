@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1938",
+ "source_hash": "e3041310ea433c93",
+ "model": "sonnet",
+ "summary": "Approves a change to a Tennessee Department of Children's Services grant to the Office of Family Safety, which supports services for families who have experienced domestic violence and child abuse or neglect. The grant grows by $164,000, from $486,400 to $650,400, and the end date moves to June 30, 2027.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0458,
+ "judge": {
+  "key": "69bdf6c73e5789a2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

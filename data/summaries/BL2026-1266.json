@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1266",
+ "source_hash": "f68c072a4a5794f2",
+ "model": "sonnet",
+ "summary": "Rezones 4046 and 4060 Murfreesboro Pike, about 399 feet southwest of Maxwell Road (10.12 acres), from AR2a to RM15-A-NS zoning. The land is within the Murfreesboro Pike Urban Design Overlay District.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.038,
+ "judge": {
+  "key": "84167287474fed9e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

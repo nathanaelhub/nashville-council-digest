@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1072",
+ "source_hash": "302ef9430b7b134e",
+ "model": "sonnet",
+ "summary": "Allows sandwich board signs in non-residential districts, which the zoning code now treats as a prohibited portable sign. Each sign can be up to ten square feet per side and four feet tall, must sit on a sidewalk or plaza outside the four foot walking clearance, and can be out only while the business is open.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0603,
+ "judge": {
+  "key": "9458c7eb13d21997",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The summary says signs can be out only while the business is open, which is accurate, but it leaves the 'twenty square feet total' fine. The real problem is that it presents the ordinance as simply allowing the signs, when the analysis says the Council Office expects it to be withdrawn; however, that is an omission. The actual inaccuracy: the summary says the signs 'must sit on a sidewalk or plaza', but the text allows public or private sidewalks or plazas, which is consistent. On closer reading, every stated detail matches the text (10 sq ft per side, 4 ft tall, outside the 4 ft clearance, displayed only when open, currently a prohibited portable sign), so there is no real discrepancy.",
+  "cost_usd": 0.0081
+ }
+}

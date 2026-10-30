@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1159",
+ "source_hash": "de9ed4e71e141973",
+ "model": "sonnet",
+ "summary": "Adopts the Geographic Information Systems Street and Alley Centerline Layer, with the renamings, additions and deletions of accepted and abandoned streets and alleys recorded to date, as Metro's official street and alley acceptance and maintenance record. It also says the Nashville Department of Transportation and Multimodal Infrastructure (NDOT) will submit changes for adoption each year.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0739,
+ "judge": {
+  "key": "5fab64aefeb69987",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

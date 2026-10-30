@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2017",
+ "source_hash": "2c21ea5d4c98e482",
+ "model": "sonnet",
+ "summary": "Approves an application from the Office of Family Safety for a $5,000 Heal the Healers grant from the Joyful Heart Foundation, with no cash match required, to pay for a retreat with self-care activities for case managers and advocates.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "f3a1d307985049f9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1885",
+ "source_hash": "6a6536bbd219402b",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement with Hydromax USA, LLC for valve exercising, hydrant maintenance and related services for Water and Sewerage Services, which other Metro departments can also use. Metro's participation can last no more than sixty months.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0422,
+ "judge": {
+  "key": "98f0741f07d04530",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

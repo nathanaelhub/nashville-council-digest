@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1784",
+ "source_hash": "6c9ee9137fb00493",
+ "model": "sonnet",
+ "summary": "Recognizes Metro employees in departments including NDOT, Waste Services, NES, Water Services, Emergency Management, Fire, Emergency Communications, Police, Parks, Social Services and Homeless Services for their work planning for and responding to the January 2026 winter storm, and thanks them and volunteers for their efforts.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "e6054a80ad0278ce",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

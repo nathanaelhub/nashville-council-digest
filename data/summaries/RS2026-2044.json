@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2044",
+ "source_hash": "022dce02c85c131d",
+ "model": "sonnet",
+ "summary": "Gives $1,718,603 more to Depaul USA, Inc. through the Office of Homeless Services for property management, on-site support, and case management at Strobel House Permanent Supportive Housing. It also extends the contract to June 30, 2027, and changes the scope of services.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0644,
+ "judge": {
+  "key": "613b2571d6bbd80c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

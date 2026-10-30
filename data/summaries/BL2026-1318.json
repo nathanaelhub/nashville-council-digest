@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1318",
+ "source_hash": "1f09e93933ee056a",
+ "model": "sonnet",
+ "summary": "Rewrites Metro's home occupation rules. Customers may visit by appointment, up to 12 customers a day, and only one employee who lives elsewhere is allowed. Permits last three years, and one vehicle may be tied to the business. Animal grooming and car manufacture or repair are not allowed.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0523,
+ "judge": {
+  "key": "33a3f65ab1245888",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0105
+ }
+}

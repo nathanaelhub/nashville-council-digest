@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1854",
+ "source_hash": "df2cd564ad9752cc",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 297 feet of old 10-inch sewer pipe and accept one new sewer manhole for properties at 401 S 4th Street, known as Shelby House Phase 2.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0393,
+ "judge": {
+  "key": "cb32d949bcbd14fc",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

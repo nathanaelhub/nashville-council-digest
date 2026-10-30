@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1221",
+ "source_hash": "70bf8e67518bd82c",
+ "model": "sonnet",
+ "summary": "Approves a contract with AECOM Technical Services, Inc. for technical and engineering services such as transportation planning, design, traffic signals, inspection and survey work. Pays up to $44.2 million, runs three years with five one-year extensions, and any Metro department can use it.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0401,
+ "judge": {
+  "key": "8df3d4b84ad46c4a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

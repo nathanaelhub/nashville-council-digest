@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1344",
+ "source_hash": "43c98a202ccfaa0d",
+ "model": "sonnet",
+ "summary": "Rezones 0.21 acres at 1304 and 1306 Jones Avenue, about 191 feet north of Douglas Avenue, from RS5 to MUN-A-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "59a1cc116bb9168d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

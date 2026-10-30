@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1961",
+ "source_hash": "3e2cf1202ebeead0",
+ "model": "sonnet",
+ "summary": "Lowers the local sales tax on groceries (food and food ingredients) in Davidson County by one-half percent, from 2.25% to 1.75%. The Department of Finance says this will reduce revenue by $9.2 million in Fiscal Year 2027.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "e5a7a51974c9eb39",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0086
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1975",
+ "source_hash": "35b4cadd1589ff06",
+ "model": "sonnet",
+ "summary": "Approves a change to a grant of improvements from Greenways for Nashville to Metro Parks for greenway trailhead and signage sites. It raises the estimated maximum value from $270,000 to $310,000, revises project locations, adds more greenways, and extends the project by two years.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0507,
+ "judge": {
+  "key": "fa241b71452f69c0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

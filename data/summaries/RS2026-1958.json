@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1958",
+ "source_hash": "c40c20bdba3c3858",
+ "model": "sonnet",
+ "summary": "Recognizes May 2026 as Asian American, Native Hawaiian, and Pacific Islander Heritage Month in Nashville and Davidson County.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.049,
+ "judge": {
+  "key": "89f044ba113e43e1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

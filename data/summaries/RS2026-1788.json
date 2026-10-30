@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1788",
+ "source_hash": "5f7c6fca41e762d2",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $10,000 from the Marjorie A. Neuhoff Private Foundation, Inc. to the Metropolitan Board of Health to pay for the care of shelter animals at Metro Animal Care and Control, with no cash match required.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0505,
+ "judge": {
+  "key": "cde9041ed9f38a02",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

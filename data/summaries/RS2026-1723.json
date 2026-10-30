@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1723",
+ "source_hash": "61113a622c592465",
+ "model": "sonnet",
+ "summary": "Approves an amendment to Metro's property and boiler insurance contract with Arthur J. Gallagher Risk Management Services, Inc. It extends the contract to June 30, 2027 and adds $14 million, for a new total of $44 million.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0464,
+ "judge": {
+  "key": "852ed5fd5e952c2e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

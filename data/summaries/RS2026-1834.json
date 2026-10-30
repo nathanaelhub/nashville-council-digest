@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1834",
+ "source_hash": "fec901c31d290a8f",
+ "model": "sonnet",
+ "summary": "Gives $150,000 from the Community Safety Fund to Southern Word, Inc. for writing, presentation, and school-based mentorship for school-age children to reduce and mitigate violence. The 12-month grant would host 400 young adults in a 12-week program.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0373,
+ "judge": {
+  "key": "fa537290c07fe991",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

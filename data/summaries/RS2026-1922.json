@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1922",
+ "source_hash": "55b810d215d13800",
+ "model": "sonnet",
+ "summary": "Changes an earlier ordinance so Metro accepts about 1,852 feet of six-inch sewer force main instead of about 2,152 feet, which is 300 feet less, for Nolensville Town Square - Phase 1 Revision 1 at 7375 Nolensville Road in Williamson County. The rest of the sewer pump station, mains, manholes and easements being accepted stays the same.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0439,
+ "judge": {
+  "key": "08332b7365ecd9eb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

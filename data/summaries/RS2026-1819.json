@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1819",
+ "source_hash": "0efe5f2989019796",
+ "model": "sonnet",
+ "summary": "Approves an agreement with the Tennessee Department of Transportation for the Connect Downtown Adaptive Signal System, which updates downtown traffic signals with software that adjusts red, yellow and green timing automatically to traffic patterns. It is paid for by a $3,512,179 Carbon Reduction Program grant with no cash match required.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.046,
+ "judge": {
+  "key": "60d3cd53ec695b1a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

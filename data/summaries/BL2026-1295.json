@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1295",
+ "source_hash": "7c1977881bef63fa",
+ "model": "sonnet",
+ "summary": "Changes the community meeting rules for leasing metropolitan government-owned property to a private entity for more than five years. It raises the land value that triggers a meeting from $1 million to $5 million, requires notice by mail or email at least 14 days ahead and signs on the property, and has the district council member schedule the meeting within 45 days of the lessee's written request, or the lessee schedules it.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0609,
+ "judge": {
+  "key": "96d90690a49ecbde",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

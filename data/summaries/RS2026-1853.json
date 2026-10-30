@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1853",
+ "source_hash": "f05b4d730024c1c7",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 1,177 feet of old six-inch water pipe and accept about 11 feet of new six-inch, about 170 feet of new eight-inch and about 1,003 feet of new 12-inch water pipe. The work is for three properties at 1401 Church Street, 15th Avenue North (unnumbered) and Grundy Street (unnumbered), known as CCB Phase 1A.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0393,
+ "judge": {
+  "key": "281c0d1aa6734220",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

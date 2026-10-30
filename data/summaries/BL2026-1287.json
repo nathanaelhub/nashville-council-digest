@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1287",
+ "source_hash": "27cf5b27d863007b",
+ "model": "sonnet",
+ "summary": "Removes the sunset date from Chapter 5.11 of the Metro Code, so the tree canopy funding program no longer has to be extended again. As amended, it also allows money from the general fund or by transfer to be used for planting, replacing, watering and caring for trees.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0592,
+ "judge": {
+  "key": "e9ab19931c941dcd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

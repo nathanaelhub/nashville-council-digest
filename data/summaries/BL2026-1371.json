@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1371",
+ "source_hash": "0abcdf4574737e62",
+ "model": "sonnet",
+ "summary": "Approves an agreement that lets Vanderbilt University's police department use Metro Police training facilities, equipment, curriculum and staff so its employees can earn Tennessee Peace Officer Standards and Training certification. The agreement costs Metro nothing.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.049,
+ "judge": {
+  "key": "16051de8afb2a2ca",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

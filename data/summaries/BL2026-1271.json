@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1271",
+ "source_hash": "e123e521958d1373",
+ "model": "sonnet",
+ "summary": "Rezones 50 Vantage Way, at the corner of French Landing Drive and Vantage Way (3.43 acres), from IWD to MUG-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0364,
+ "judge": {
+  "key": "175f57ecfcbd62bc",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

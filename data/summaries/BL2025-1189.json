@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1189",
+ "source_hash": "3231252441a517f6",
+ "model": "sonnet",
+ "summary": "Sets up a program for Fiscal Year 2026 to help low-income elderly residents, using $6,847,000 in the Property Tax Relief Program account. People who qualified for the state Property Tax Relief Program for tax year 2025 and earn no more than $37,530 are eligible, the Trustee decides payment amounts, and the program ends June 30, 2026.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0397,
+ "judge": {
+  "key": "63013acaaee7f9b4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

@@ -16,6 +16,9 @@ def test_condo_maps_are_skipped_not_misread():
 
 
 def test_addresses():
+    assert addresses("located at 253 Leon Loop, approximately") == [("253", "LEON%LOOP")]
+    assert addresses("located at 9320, 9323, 9315 Highway 100, Highway 100 (unnumbered)") == [
+        ("9315", "HIGHWAY%100"), ("9320", "HIGHWAY%100"), ("9323", "HIGHWAY%100")]
     assert addresses("an aerial encroachment at 501 Houston Street. (Proposal") == [("501", "HOUSTON%ST")]
     assert addresses("located at 1319 6th Avenue North from the") == [("1319", "6TH%AVE%N")]
     assert addresses("property located at 1616 Ashton Ave, approximately") == [("1616", "ASHTON%AVE")]

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1178",
+ "source_hash": "fcb00350beb5c94c",
+ "model": "sonnet",
+ "summary": "Amends a specific plan (SP) and rezones 7435 Old Hickory Boulevard, about 632 feet west of Blevins Road (34.74 acres), from AR2a to SP. It allows a mixed use development with up to 208,000 square feet of non-residential uses such as office, retail, light manufacturing and warehouse, and bans short term rentals. It also sets conditions, including no outdoor storage.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0347,
+ "judge": {
+  "key": "ab4294fd161d2724",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

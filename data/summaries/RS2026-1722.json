@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1722",
+ "source_hash": "05818bb89fe1f562",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $176,100 from the Martha O'Bryan Center for the Metropolitan Action Commission, with no local cash match. The money pays for two family-centered coaches working on Our Chance TN, and the grant runs from November 1, 2025 to October 31, 2026.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0464,
+ "judge": {
+  "key": "69340c09de49524f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

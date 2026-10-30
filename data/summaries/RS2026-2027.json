@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2027",
+ "source_hash": "46ec523314a595e8",
+ "model": "sonnet",
+ "summary": "Congratulates Nashville Soccer Club on its 100th all-time win, a 3-0 victory over the New England Revolution on May 13, 2026, and Hany Mukhtar on scoring his 100th goal with the team.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0499,
+ "judge": {
+  "key": "bdf322daee1696c1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1856",
+ "source_hash": "17024031a4402198",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 84 feet of new two-inch sewer force main pipe (PVC) for the property at 1263 1st Avenue South.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0393,
+ "judge": {
+  "key": "b43860b9b76dd7f8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1240",
+ "source_hash": "6bb10b84de212cc1",
+ "model": "sonnet",
+ "summary": "Lets Metro give up one sewer manhole and take over new sewer pipes, 12 manholes, a wetwell change and easements at 1686 Reynolds Road, Reynolds Road (unnumbered) and 600 Airpark Commerce Drive. The new pipes are about 331 feet of 12-inch main, about 1,497 feet of eight-inch main and about 718 feet of eight-inch main, at no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.065,
+ "judge": {
+  "key": "8e308786f260941d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

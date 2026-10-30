@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1249",
+ "source_hash": "5e6f39f100d61409",
+ "model": "sonnet",
+ "summary": "Requires buildings in the Merritt Avenue, Martin Street and Hamilton Avenue development (BL2026-1248) to have facades of brick, brick veneer, stone, cast stone, cementitious siding and glass, or very similar materials, unless detailed building elevations in the preliminary plan approve something else.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0387,
+ "judge": {
+  "key": "23abe95f1e9af7e5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

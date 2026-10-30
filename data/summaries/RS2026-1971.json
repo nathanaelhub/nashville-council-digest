@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1971",
+ "source_hash": "842955a1101e0a00",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $20,909 from the Friends of Sevier Park to repair the flooring at the Stone House in front of Sunnyside Mansion and replace the baseball backstop at the park's multi-use field. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0351,
+ "judge": {
+  "key": "2fa822f55744a990",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

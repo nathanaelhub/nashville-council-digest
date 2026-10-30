@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1343",
+ "source_hash": "74a193e57fb9b7a3",
+ "model": "sonnet",
+ "summary": "Requires building facades in the Melvin Road and North New Hope Road specific plan (BL2026-1342) to be brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless detailed elevations approved with the plan show otherwise.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "b17243e3d5e8bcae",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

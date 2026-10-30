@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1948",
+ "source_hash": "ab4085d8d9a26882",
+ "model": "sonnet",
+ "summary": "Changes an earlier ordinance so Metro accepts about 382 feet of new eight-inch sewer main and six manholes, down from about 914 feet and 11 manholes. The six original properties are now two, at 3533 B Dickerson Pike and 550 Dusky Drive.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.037,
+ "judge": {
+  "key": "a988bc1066d3641d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

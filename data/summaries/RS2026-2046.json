@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2046",
+ "source_hash": "72533e90425816af",
+ "model": "sonnet",
+ "summary": "Gives a total of $2,452,026 from the Nashville Public Library to 12 nonprofit organizations for free after school and summer programs through the Library's Nashville After Zone Alliance. It also lets Metro sign grant contracts with each group.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0644,
+ "judge": {
+  "key": "feebe500fef66952",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

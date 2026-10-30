@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1390",
+ "source_hash": "19aee1bd5447ca15",
+ "model": "sonnet",
+ "summary": "Sets up a temporary \"Special Event Zone\" in parts of downtown Nashville for the 2026 July 4th Celebration, from 9:00 p.m. on July 2, 2026 to 11:59 p.m. on July 5, 2026. Within the zone, unapproved vending, alcohol sales, tents, free-product giveaways, firearms, knives, fireworks and drones are barred, and shared urban mobility devices are not allowed, while public participation areas are set aside for people to express themselves.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0653,
+ "judge": {
+  "key": "3e6ad72f2c8a7c93",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.01
+ }
+}

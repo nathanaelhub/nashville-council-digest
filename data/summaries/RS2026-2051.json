@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2051",
+ "source_hash": "bda2bb8ccaec7471",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $46,660.89 from the Friends of Warner Parks to pay for seasonal workers in the S.W.E.A.T. (Special Work Education and Trails) program at Warner Parks. It would fund one winter crew worker and five summer crew workers, including a crew leader, from July 1, 2026, to June 30, 2027, with no cash match required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0457,
+ "judge": {
+  "key": "23d004afb6ac4a45",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

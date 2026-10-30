@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1927",
+ "source_hash": "ca9196de3dc3b06c",
+ "model": "sonnet",
+ "summary": "Lets the Interim Director and Special Counsel of the Metropolitan Council Office make personnel decisions for the office until a contracted successor is employed.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0544,
+ "judge": {
+  "key": "9f9983477e95995c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

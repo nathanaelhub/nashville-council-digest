@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1900",
+ "source_hash": "fe772c794ee1ffe4",
+ "model": "sonnet",
+ "summary": "Sets the 2026 State of the Metropolitan Government Address for Wednesday, April 29, 2026, at 10 a.m. at Nissan Stadium, 1 Titans Way, at a special called Council meeting open to the public.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0391,
+ "judge": {
+  "key": "c0d97f2a7df00123",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

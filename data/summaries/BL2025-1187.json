@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1187",
+ "source_hash": "c6aa1279fb4c792e",
+ "model": "sonnet",
+ "summary": "Rezones 0.33 acres at 3827 Cleghorn Avenue, about 490 feet north of Abbott Martin Road, from OR20 to MUL-A-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0552,
+ "judge": {
+  "key": "fd8b79be3aaab42b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

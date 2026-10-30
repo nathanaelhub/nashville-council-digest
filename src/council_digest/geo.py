@@ -36,13 +36,15 @@ SUFFIX = {
     "dr": "DR", "pike": "PIKE", "lane": "LN", "ln": "LN", "boulevard": "BLVD", "blvd": "BLVD",
     "court": "CT", "ct": "CT", "place": "PL", "pl": "PL", "way": "WAY", "circle": "CIR", "cir": "CIR",
     "parkway": "PKWY", "pkwy": "PKWY", "trail": "TRL", "bend": "BND", "highway": "HWY", "hwy": "HWY",
-    "alley": "ALY", "terrace": "TER", "row": "ROW",
+    "alley": "ALY", "terrace": "TER", "row": "ROW", "loop": "LOOP",
 }
 DIRECTION = {"north": "N", "south": "S", "east": "E", "west": "W"}
 ADDRESS = re.compile(
     r"\b(?:at|located at)\s+(\d{1,5}[A-Z]?(?:\s*(?:,|and|&|,\s*and)\s*\d{1,5}[A-Z]?)*)\s+"
     r"((?:[A-Z0-9][\w.'’]*\s+){0,4}?)(" + "|".join(SUFFIX) + r")\b\.?"
     r"(\s+(?:North|South|East|West))?", re.I)
+# "9320, 9323, 9315 Highway 100": numbered state highways, spelled HIGHWAY in the parcel layer
+HIGHWAY = re.compile(r"\b(?:at|located at)\s+(\d{1,5}(?:\s*(?:,|and|&|,\s*and)\s*\d{1,5})*)\s+(?:Highway|Hwy\.?)\s+(\d{1,3})\b", re.I)
 
 
 def parcel_ids(text: str) -> list[str]:
@@ -68,6 +70,8 @@ def addresses(text: str) -> list[tuple[str, str]]:
         if direction.strip():
             pattern += "%" + DIRECTION[direction.strip().lower()]
         out += [(re.sub(r"\D", "", h), pattern) for h in re.findall(r"\d{1,5}", houses)]
+    for houses, road in HIGHWAY.findall(text or ""):
+        out += [(h, f"HIGHWAY%{road}") for h in re.findall(r"\d{1,5}", houses)]
     return sorted(set(out))
 
 

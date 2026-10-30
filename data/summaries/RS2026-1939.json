@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1939",
+ "source_hash": "79c11890ce31dfe7",
+ "model": "sonnet",
+ "summary": "Approves a second change to Metro's contract with ImageTrend, LLC for EMS and Fire Department data collection and reporting software. The contract value drops by $83,605.88 to $2,194,394.12, and the price sheet is replaced to remove the Fire Investigations module.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0458,
+ "judge": {
+  "key": "a8c94a85d66dcc9a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

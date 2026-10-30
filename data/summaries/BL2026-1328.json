@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1328",
+ "source_hash": "540a32967c0ad488",
+ "model": "sonnet",
+ "summary": "Updates the Fire Marshal's Office fee schedule in Metro Code 10.64.018. It sets permit fees, such as $151 for many permit types and $88 for a Knox Box, a $65 re-inspection fee, and formulas for plan review and inspection fees on building projects.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0566,
+ "judge": {
+  "key": "216c7e9c0b42821c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0091
+ }
+}

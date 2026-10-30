@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1725",
+ "source_hash": "91a986eb31e85e1f",
+ "model": "sonnet",
+ "summary": "Confirms Metro has adopted and reviewed or revised its financial policies in the last twelve months, and authorizes the Director of Finance or her designee to apply for the Tennessee Comptroller's Financial Excellence Award for Fiscal Year 2026.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0341,
+ "judge": {
+  "key": "59f1d597a262f583",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

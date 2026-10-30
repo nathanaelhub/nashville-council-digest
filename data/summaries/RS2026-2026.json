@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2026",
+ "source_hash": "3a2f2c77ee42038c",
+ "model": "sonnet",
+ "summary": "Changes an earlier resolution so Metro can accept about 442 feet of new eight-inch water main for six properties on Richmond and Wilmington Streets, up from about 127 feet for three properties.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0499,
+ "judge": {
+  "key": "8a786d8729945db1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

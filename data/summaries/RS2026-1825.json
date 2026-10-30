@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1825",
+ "source_hash": "4be537d8ee36b0f9",
+ "model": "sonnet",
+ "summary": "Urges the Tennessee General Assembly to support House Bill 1893/Senate Bill 1702, which would let metropolitan governments tax food at a lower rate than the city rate or exempt it from the city tax entirely.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0609,
+ "judge": {
+  "key": "52df3fb32971333c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1312",
+ "source_hash": "921bb04dc65e9a5c",
+ "model": "sonnet",
+ "summary": "Amends the River North Urban Design Overlay for properties on Cowan Street, Cowan Court and Waterside Drive (165.21 acres) to create a new Subdistrict 3 and update the general standards on future streets and open space. It also sets conditions, including coordinating on the street network and consulting Metro Parks and Greenways on the Riverfront Greenway.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0363,
+ "judge": {
+  "key": "6dcc47cbbda96946",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

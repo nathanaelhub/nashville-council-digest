@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2058",
+ "source_hash": "4b68af4b8c82d89e",
+ "model": "sonnet",
+ "summary": "Approves the second change to a U.S. Department of Transportation Safe Streets for All grant for safety work along Nolensville Pike. It pushes the project schedule back by about 3 months on average and adds a 15 percent indirect cost rate.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0408,
+ "judge": {
+  "key": "e336e72953ab041e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

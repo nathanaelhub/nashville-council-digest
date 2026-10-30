@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1283",
+ "source_hash": "ddc68322bb43ade8",
+ "model": "sonnet",
+ "summary": "Rezones part of 1900 Acklen Avenue, about 265 feet east of 20th Avenue South (0.14 acres), from OR20 to MUL. The land is partly in the Hillsboro Village Urban Design Overlay.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0378,
+ "judge": {
+  "key": "6168bb118b21765b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

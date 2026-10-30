@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1164",
+ "source_hash": "90ea188da6bf344c",
+ "model": "sonnet",
+ "summary": "Requires building fronts at the Buena Vista Pike and Cliff Drive development (BL2025-1163) to be made of brick, brick veneer, stone, cast stone, cementitious siding, and glass, or substantially similar materials, unless other materials are approved on detailed building drawings.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0402,
+ "judge": {
+  "key": "813f705d5ccd1ab1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

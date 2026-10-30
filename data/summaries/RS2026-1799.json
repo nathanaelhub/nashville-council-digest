@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1799",
+ "source_hash": "016ecd70a1f95ed4",
+ "model": "sonnet",
+ "summary": "Backs the Davidson County General Sessions Court's new Winter Storm Housing Support Docket, which helps renters facing eviction over storm-related money problems, and urges the court to pause or limit evictions as much as possible for sixty days.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0505,
+ "judge": {
+  "key": "0a055cf4895284a7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

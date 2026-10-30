@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1796",
+ "source_hash": "e982f9ecfcc1b46d",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle Phene Wardlaw's property damage claim for $53,954.40, paid from the Self-Insured Liability Fund. Raw sewage from a blocked sewer main entered her home at 1405 Woodland Street on September 25, 2025.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0546,
+ "judge": {
+  "key": "5222f1a60bb954c2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

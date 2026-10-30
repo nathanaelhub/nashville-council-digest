@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1973",
+ "source_hash": "9a26e638fb9dd521",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant worth $78,500 from the McCabe Park Little League for field lighting upgrades to the small baseball field at McCabe Park. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0351,
+ "judge": {
+  "key": "161ba4405680b253",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

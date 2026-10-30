@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1813",
+ "source_hash": "009ca5ca65259340",
+ "model": "sonnet",
+ "summary": "Approves three amendments to the Healthy Start grant from the U.S. Department of Health and Human Services that raise it from $497,200 to $1,100,000 for services to reduce infant mortality for pregnant and parenting women. It also moves $67,311 from personnel and fringe benefits and $16,000 from doula services to other budget uses.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "fd2c6932331dae41",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

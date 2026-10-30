@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1837",
+ "source_hash": "b554e5adbe0a3985",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $630 from Plumber's Choice, LLC (d/b/a Flow-Tech Home) to the Board of Health to support adoption efforts for dogs who have waited the longest for a home. No cash match is required.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0373,
+ "judge": {
+  "key": "fcbac373e710c661",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

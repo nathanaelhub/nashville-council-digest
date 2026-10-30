@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1251",
+ "source_hash": "84d284fefa2b48dd",
+ "model": "sonnet",
+ "summary": "Rezones various properties along Rolland Road, east of Wilson Boulevard and west of Carden Avenue (2.4 acres), from R8 to RS10.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "e6ffbb625ee07d92",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

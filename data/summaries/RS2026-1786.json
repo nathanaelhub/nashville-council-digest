@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1786",
+ "source_hash": "9e3e23c6cff58413",
+ "model": "sonnet",
+ "summary": "Recognizes January 2026 as Muslim American Heritage Month in Nashville and Davidson County to honor the achievements, traditions and contributions of Muslim Americans.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "fc470334d70ecab2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

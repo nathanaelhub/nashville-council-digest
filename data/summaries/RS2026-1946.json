@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1946",
+ "source_hash": "7d444a93fbaf01d6",
+ "model": "sonnet",
+ "summary": "Approves an agreement with Legacy South Builders, LLC, which will build new sewer mains and 14 manholes to serve the Walton Station development and other nearby properties. Metro will pay half the actual cost, up to $1,150,000, and will operate and maintain the sewer afterward.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0392,
+ "judge": {
+  "key": "c338ffcb2b09bc18",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1912",
+ "source_hash": "88ce7f3e8b595804",
+ "model": "sonnet",
+ "summary": "Approves an application by the Office of Family Safety for a $100,000 Statewide Fatality Review Technical Assistance grant from the state, with no cash match required. If awarded, it would fund the Fatality Review Coordinator on the fatality review team.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "dcf76895f6610628",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

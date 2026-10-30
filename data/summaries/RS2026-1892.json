@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1892",
+ "source_hash": "e4824e1d63238f1a",
+ "model": "sonnet",
+ "summary": "Honors the life and legacy of the Reverend Dr. Bernard Lafayette, Jr., who died March 5, 2026. Recognizes his commitment to nonviolent resistance and his contributions to the Civil Rights Movement, including the Nashville sit-ins and the Freedom Rides.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0583,
+ "judge": {
+  "key": "74e342d9ce4319f9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

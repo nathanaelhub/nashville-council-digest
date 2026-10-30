@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1934",
+ "source_hash": "65c9c39c742d41c0",
+ "model": "sonnet",
+ "summary": "Gives Inspiritus, Inc., a nonprofit, a $1 million grant from the Barnes Fund for Affordable Housing to replace a grant that expired. The money is for building and fixing up affordable or workforce housing, in a rental project with 80 Barnes Fund homes.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0673,
+ "judge": {
+  "key": "a4663966974a2d78",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

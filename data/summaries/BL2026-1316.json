@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1316",
+ "source_hash": "f8d3db3640a7597c",
+ "model": "sonnet",
+ "summary": "Requires the operator of each shopping center to provide one rubbish and garbage container for every three tenant bays. The containers must be visible and reachable by the public and kept clean and sanitary.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0893,
+ "judge": {
+  "key": "6a9c061029e5f1df",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0105
+ }
+}

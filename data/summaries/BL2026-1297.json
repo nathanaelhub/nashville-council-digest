@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1297",
+ "source_hash": "5f4a6c5634ba1740",
+ "model": "sonnet",
+ "summary": "Approves a change to Metro's contract with iTEDIUM, Inc. for COBRA benefits administration and billing. It extends the contract through February 22, 2027, past the 60-month limit, and adds $20,000 for a new total of $220,000.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0398,
+ "judge": {
+  "key": "cf9e725a8018e9d5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

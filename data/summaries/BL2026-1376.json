@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1376",
+ "source_hash": "9d55d0a86c589824",
+ "model": "sonnet",
+ "summary": "Accepts $379,770.86 in settlement money from Tyco Fire Products LP and Chemguard, Inc. over PFAS chemical contamination claims and puts it in the Water and Sewer Revenue Fund for Metro Water and Sewerage Services. It also allows Metro to accept and add any further settlement payments from those companies.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "02b33e6cb0cef982",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

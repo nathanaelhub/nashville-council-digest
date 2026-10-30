@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1192",
+ "source_hash": "c0bd29ee5182e42c",
+ "model": "sonnet",
+ "summary": "Renames Roehrig Court, from Jones Circle to the cul-de-sac, to \"Magnolia Shores.\" The Roehrig Estates Homeowners Association asked for the change because the spelling and pronunciation of the old name made it hard to communicate for delivery and emergency services.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0397,
+ "judge": {
+  "key": "42d655b81449d8be",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
+}

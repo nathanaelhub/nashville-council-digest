@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1293",
+ "source_hash": "391a2b6b6bbd1670",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 1,607 linear feet of new eight-inch sewer main, 10 sewer manholes and easements for two properties at West Division Street (unnumbered) and Lawler Lane (unnumbered) in Mt. Juliet, Wilson County, known as Canebrake Phase 3A Revision 01.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.045,
+ "judge": {
+  "key": "41eaa548eb472572",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1754",
+ "source_hash": "8cce0ba1b7d4997a",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 40 feet of new 10-inch sewer pipe, about 3,058 feet of new eight-inch sewer pipe, and 20 manholes for three properties in Williamson County (Sugar Mill Road, 2335 Rocky Fork Road and 7356 Nolensville Road), known as Greenbrook South Revision 2.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0509,
+ "judge": {
+  "key": "fdb4c7ce76c28705",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

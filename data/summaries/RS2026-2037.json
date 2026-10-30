@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2037",
+ "source_hash": "bcd858b2d8125948",
+ "model": "sonnet",
+ "summary": "Approves a change to the grant contract with Urban League of Middle Tennessee, which received $2,007,417.42 to build 50 affordable housing units at 720 Madison Square, to clarify that the money is not from American Rescue Plan Act funds.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0382,
+ "judge": {
+  "key": "7cc3c062eb20344b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

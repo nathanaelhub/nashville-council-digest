@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1807",
+ "source_hash": "892252d80c9d45a8",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $188,500 from the Tennessee Department of Transportation to the Davidson County Sheriff's Office for litter pickup and litter prevention education in Davidson County. No cash match is required, and the money goes to the Sheriff's Office.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0501,
+ "judge": {
+  "key": "8e751764ab6e024c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

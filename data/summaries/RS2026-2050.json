@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2050",
+ "source_hash": "74c8658c823e9567",
+ "model": "sonnet",
+ "summary": "Accepts a $24,215.05 grant from the Centennial Park Conservancy to Metro Parks to pay for one part-time position in the Parthenon Museum Store. No cash match is required, and the grant runs from July 1, 2026, to June 30, 2027.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0457,
+ "judge": {
+  "key": "707e0392a508dde1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

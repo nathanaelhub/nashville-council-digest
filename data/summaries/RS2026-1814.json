@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1814",
+ "source_hash": "d32d57b44eadcef9",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $10,000 from the Tennessee Department of Disability and Aging for the Nashville Public Library to buy and install a powered, adult-sized changing table in the single occupancy restroom of the Green Hills Branch Library. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "dca6148fbbdf32a0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

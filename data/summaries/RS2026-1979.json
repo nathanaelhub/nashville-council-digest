@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1979",
+ "source_hash": "2b5c06351a269902",
+ "model": "sonnet",
+ "summary": "Approves a change to the agreement with GS Gallatin Pike Apartments Owner, LLC for a sidewalk in front of 1401 Gallatin Pike. It adds $200,000 to the cost the city may cover, for a total of no more than $700,000.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0507,
+ "judge": {
+  "key": "8cdc15ea2a3cecd1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

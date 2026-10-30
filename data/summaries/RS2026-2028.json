@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2028",
+ "source_hash": "5d512619971d7889",
+ "model": "sonnet",
+ "summary": "Honors the 100th anniversary of the Vanderbilt University Power Plant and thanks its past and present employees.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0499,
+ "judge": {
+  "key": "8d456778f8e58a5a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

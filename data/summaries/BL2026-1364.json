@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1364",
+ "source_hash": "699acf03803fb31d",
+ "model": "sonnet",
+ "summary": "Approves a 10-year lease for Metro to use 74,374 square feet of office space at 1283 Murfreesboro Pike, owned by Hessel Properties, GP. Rent is $1,601,272.22 in the first year and goes up about 3% each year to $2,089,165.66 in year 10, and Metro gets a $1,200,000 allowance for interior improvements.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0544,
+ "judge": {
+  "key": "15bcce4356a7e64e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

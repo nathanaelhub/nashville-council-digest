@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1806",
+ "source_hash": "17c5888e02b2c467",
+ "model": "sonnet",
+ "summary": "Approves an application to Bloomberg Philanthropies for a $50,000 Youth Climate Action Fund grant, with no cash match required. The money would create a Neighborhood Youth Climate Captains program with the Cumberland River Compact, and lets the Office of the Mayor submit the application.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0501,
+ "judge": {
+  "key": "cfedebaf5400a997",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

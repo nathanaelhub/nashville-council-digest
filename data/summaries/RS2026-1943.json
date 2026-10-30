@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1943",
+ "source_hash": "4eec94ecb0ee1f7c",
+ "model": "sonnet",
+ "summary": "Approves a preliminary engineering agreement with CSX Transportation, Inc. for design work on proposed bridge repairs over CSXT rail at Cleveland Street, Hamilton Avenue, Myatt Drive, and Sidco Drive. The Nashville Department of Transportation and Multimodal Infrastructure would reimburse CSXT an estimated $32,043.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0392,
+ "judge": {
+  "key": "2dfd5bfa4ec43962",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

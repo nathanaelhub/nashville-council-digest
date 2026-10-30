@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1380",
+ "source_hash": "12774334289b5f5e",
+ "model": "sonnet",
+ "summary": "Adopts the 2026-2027 through 2031-2032 Capital Improvements Budget as Metro's official capital budget for fiscal year 2026-2027, starting July 1, 2026. No building or improvement project can be funded unless it is in this budget, except in a public emergency passed by a two-thirds vote of the Council.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0663,
+ "judge": {
+  "key": "f10bb1995e1f66c4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

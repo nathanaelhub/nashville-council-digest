@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1175",
+ "source_hash": "1315ebd764104982",
+ "model": "sonnet",
+ "summary": "Applies a Neighborhood Conservation Zoning Overlay District to about 38 acres of RS10 and R10 property north of Shackleford Road, west of Belmont Boulevard, east of Oriole Place and south of Glen Echo Road.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0347,
+ "judge": {
+  "key": "aa2b938f516530a4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

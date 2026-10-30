@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1285",
+ "source_hash": "41d9a59b544dd5ff",
+ "model": "sonnet",
+ "summary": "Rezones 5.94 acres on Hobson Pike, about 460 feet northeast of Hamilton Church Road, from RS10 to SP for a mixed-use development. It allows 52 multi-family units plus CN uses, but bars beer and cigarette markets, bars and nightclubs, and short-term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0378,
+ "judge": {
+  "key": "a5b2a1059349e9fd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

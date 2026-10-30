@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1760",
+ "source_hash": "c0e239fe1440d376",
+ "model": "sonnet",
+ "summary": "Honors the life of Steve Cropper, the guitarist, songwriter and producer who was a member of Booker T. and the M.G.'s and died in Nashville on December 3, 2025, at age 84.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0368,
+ "judge": {
+  "key": "ea86a32caae79e7e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

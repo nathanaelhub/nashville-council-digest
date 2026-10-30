@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1262",
+ "source_hash": "98350270f0c9dd6e",
+ "model": "sonnet",
+ "summary": "Rezones 228 and 230 Elberta Street, at the corner of Burbank Avenue (0.56 acres), from RS5 to SP to allow four new multi-family units plus one existing duplex unit. Short-term rentals are banned, and the plan sets design, landscaping and parking conditions.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "2ede3d372767e657",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

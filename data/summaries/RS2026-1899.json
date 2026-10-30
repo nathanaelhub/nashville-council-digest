@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1899",
+ "source_hash": "20427f6d63e26333",
+ "model": "sonnet",
+ "summary": "Exempts 201 Lucy Lane from the minimum distance rules for getting a Short Term Rental Property - Not Owner-Occupied permit. The exemption is requested because the property is within 100 feet of a school.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0391,
+ "judge": {
+  "key": "d152c6d3bd24e890",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

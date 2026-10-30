@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2024",
+ "source_hash": "1fefe5b414317239",
+ "model": "sonnet",
+ "summary": "Lets Nashville Phase III Property Holder LLC build and maintain a blade sign that sticks out over the public right-of-way at 1208 Martin Street. The company must carry at least $2 million in liability insurance and cover all costs and claims.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0499,
+ "judge": {
+  "key": "4c791fc6f7710d4f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

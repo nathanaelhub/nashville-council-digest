@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1896",
+ "source_hash": "b63b06a4d12e4d1c",
+ "model": "sonnet",
+ "summary": "Recognizes April 19 to April 25, 2026, as National Library Week and April 19, 2026, as National Library Workers Day in Nashville and Davidson County, and thanks Nashville Public Library staff and volunteers.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0566,
+ "judge": {
+  "key": "ca55980a16174bec",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0091
+ }
+}

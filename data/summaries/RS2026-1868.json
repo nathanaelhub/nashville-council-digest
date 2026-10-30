@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1868",
+ "source_hash": "80e7b56f27dbbf75",
+ "model": "sonnet",
+ "summary": "Accepts the terms of an agreement between Region 4 Education Service Center in Texas and ADP, Inc. so Metro can buy human capital management systems and managed business solutions for the Finance Department. The project is valued at $660,000, with estimated savings of $64,571, and the agreement runs through December 31, 2028.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0452,
+ "judge": {
+  "key": "14ffc88a5a29eb06",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

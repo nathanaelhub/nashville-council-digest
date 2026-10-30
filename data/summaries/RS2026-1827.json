@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1827",
+ "source_hash": "dc705ebe932e33f9",
+ "model": "sonnet",
+ "summary": "Exempts Sally's Stay Awhile at 611 Wedgewood Avenue from the minimum distance rules for getting a beer permit. The business is within 100 feet of a single-family residence.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0448,
+ "judge": {
+  "key": "8069016581199af9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

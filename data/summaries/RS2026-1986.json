@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1986",
+ "source_hash": "9c15942885bb3f93",
+ "model": "sonnet",
+ "summary": "Approves Amendment Number 1 to Metro's sole source contract with Guthrie Sales and Services Co., Inc. for Water and Sewerage Services. It adds Carter Pump Brand products, parts and services and replaces the pricing exhibit to include them.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0606,
+ "judge": {
+  "key": "faa1615209840cd8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

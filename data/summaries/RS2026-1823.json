@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1823",
+ "source_hash": "c190236da0b33e94",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon old water and sewer mains, a fire hydrant and two manholes, and accept new water and sewer mains, a fire hydrant and five manholes, at 110 Berry Street. The new lines include about 57 feet of eight-inch and 365 feet of 12-inch water main, and sewer mains of 63, 260 and 167 feet.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.046,
+ "judge": {
+  "key": "d7d7855dcdd975dd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

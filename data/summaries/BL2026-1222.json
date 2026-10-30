@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1222",
+ "source_hash": "b733d257e4cce9af",
+ "model": "sonnet",
+ "summary": "Approves a contract with Alfred Benesch & Company for technical and engineering services such as transportation planning, design, traffic signals, public relations and CAD work. Pays up to $44.2 million, runs three years with five one-year extensions, and any Metro department can use it.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0401,
+ "judge": {
+  "key": "67e38163d73a5c73",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

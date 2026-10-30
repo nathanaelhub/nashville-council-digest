@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1323",
+ "source_hash": "5404c517d2a5f4ab",
+ "model": "sonnet",
+ "summary": "Lets Metro negotiate for, condemn and accept permanent and temporary easements at 1013 Maynor Avenue for the Maynor Avenue Stormwater Improvement Project.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0523,
+ "judge": {
+  "key": "ee161a6864e5dd28",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

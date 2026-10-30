@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1851",
+ "source_hash": "1cb798b6e22f3385",
+ "model": "sonnet",
+ "summary": "Allows DH Holliday, LLC to build and keep a projecting neon sign that extends into the public right-of-way at 112 2nd Avenue North. The company must carry at least $2 million in liability insurance and cover all costs and claims tied to the sign.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0461,
+ "judge": {
+  "key": "006d60dc2cbb6fc9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

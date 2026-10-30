@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2049",
+ "source_hash": "cc679a45b9718028",
+ "model": "sonnet",
+ "summary": "Approves a grant of up to $140,000 to the Conservancy for the Parthenon and Centennial Park, acting for Celebrate Nashville, to provide cultural event management services. The money would pay for the Celebrate Nashville Cultural Festival at Centennial Park, with the grant running from July 16, 2026, to July 15, 2028.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0457,
+ "judge": {
+  "key": "f9db0fef4d3dd3c0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

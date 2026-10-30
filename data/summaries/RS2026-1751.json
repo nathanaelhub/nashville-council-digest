@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1751",
+ "source_hash": "97e0a383008c33cc",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 960 feet of old six-inch water main and three fire hydrants, and accept about 1,006 feet of new eight-inch water main, about 13 feet of new six-inch water main, four fire hydrants and two sewer manholes at 1717 Hayes Street (VOCE).",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0604,
+ "judge": {
+  "key": "48d81cef9597c39a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

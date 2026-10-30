@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1778",
+ "source_hash": "679ccfb8cae19c89",
+ "model": "sonnet",
+ "summary": "Lets TN Printers Hotel Owner LLC build and maintain string lights over the public right-of-way at 315-323 Union Street. The company must carry at least $2 million in liability insurance naming Metro as an insured party and must cover all costs and claims.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0463,
+ "judge": {
+  "key": "4bf6277d870cf64b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

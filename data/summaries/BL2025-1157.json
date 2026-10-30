@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1157",
+ "source_hash": "01d1fcb7eae4a15a",
+ "model": "sonnet",
+ "summary": "Accepts a donated greenway conservation easement of 2.01 acres from Ingram Industries, Inc. at 4400 Harding Pike, for greenway improvements. It costs Metro nothing.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0739,
+ "judge": {
+  "key": "128f8f123af69ca7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
+}

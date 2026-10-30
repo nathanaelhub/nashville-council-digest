@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1883",
+ "source_hash": "102ab6f6c94a79fa",
+ "model": "sonnet",
+ "summary": "Approves an application for a license agreement with the Tennessee Department of Transportation to put a permanent art installation on state property at the north point of Clarksville Highway and Rosa L. Parks Blvd. The art would replace the existing \"Welcome to Bordeaux\" sign, and the project budget rose from $185,000 to $300,000.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0495,
+ "judge": {
+  "key": "337824fd58477a77",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

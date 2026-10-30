@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1844",
+ "source_hash": "3dea6c3ba55ba68f",
+ "model": "sonnet",
+ "summary": "Increases three Nashville After Zone Alliance grant contracts for added summer programming: $32,000 for An Array of Charms Camps for Youth Development, $24,000 for Carnegie Writers and $30,720 for Rocklife Youth. The added money pays for slots in a summer camp at an MDHA property.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "1d1e646c8c1b4bc7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

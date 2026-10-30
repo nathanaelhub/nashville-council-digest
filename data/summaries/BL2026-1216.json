@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1216",
+ "source_hash": "23aeeee15a010f50",
+ "model": "sonnet",
+ "summary": "Approves a contract with Borra, Himakara Gupta dba Borra Consulting for technical and engineering services, paid up to $44.2 million, that any Metro department can use. It lasts three years with five one-year extensions, and covers traffic signals, communications and public relations, development services and survey/CAD work.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0404,
+ "judge": {
+  "key": "a0e71c3045f0f60c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

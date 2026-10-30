@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1768",
+ "source_hash": "a34deb31804a1ba7",
+ "model": "sonnet",
+ "summary": "Changes the General Government pay plan to give eligible employees permanently assigned to the Sheriff's Office Mobile Command Unit an extra $576.92 per two-week pay period, starting February 14, 2026.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "ef9cda8c19460da6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

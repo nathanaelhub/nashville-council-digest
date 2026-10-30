@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1179",
+ "source_hash": "7d8a4bbbfa524379",
+ "model": "sonnet",
+ "summary": "Requires building facades facing a public street to be made of masonry or similar materials at 7435 Old Hickory Boulevard, unless other designs are approved on the building elevations with the preliminary SP. This goes with the mixed-use zoning plan in BL2025-1178.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0365,
+ "judge": {
+  "key": "ec420054cbbc96b8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

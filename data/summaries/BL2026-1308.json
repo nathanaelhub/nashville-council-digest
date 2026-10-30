@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1308",
+ "source_hash": "7c10d07d50f32abe",
+ "model": "sonnet",
+ "summary": "Rezones 14.07 acres at 911, 920 and 921 Perimeter Court, about 285 feet southeast of Perimeter Place Drive, from IWD, ORI and SP to MUL-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0416,
+ "judge": {
+  "key": "ff13ddee0bebba73",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

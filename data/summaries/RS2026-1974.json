@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1974",
+ "source_hash": "99f5cb46749541ae",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant worth up to $1.2 million from the Friends of Warner Parks to fund the renovation of the Warner Park Nature Center barn and shed. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0351,
+ "judge": {
+  "key": "e64dc25e5eef8cef",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

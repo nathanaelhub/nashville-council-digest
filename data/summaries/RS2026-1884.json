@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1884",
+ "source_hash": "ea1871defee4deec",
+ "model": "sonnet",
+ "summary": "Approves an agreement with Swami - Shreeji Hermitage, LLC, which will build about 592 feet of 12-inch and 1,871 feet of 15-inch sewer main for the Avid Hotel development and improve about 991 more feet of public sewer main. Metro will pay up to $549,842.39 (50% of shared costs) plus up to $450,157.61 to reimburse the extra work, for $1 million total.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0422,
+ "judge": {
+  "key": "65bd4890eaa38c05",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

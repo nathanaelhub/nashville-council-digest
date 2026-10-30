@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1957",
+ "source_hash": "ee9e12853e8becbc",
+ "model": "sonnet",
+ "summary": "Recognizes May 2026 as ALS Awareness Month in Nashville and Davidson County, to educate the public about ALS and honor people and families living with it, along with their caregivers and healthcare providers.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.049,
+ "judge": {
+  "key": "1673b37fb5bc3a94",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

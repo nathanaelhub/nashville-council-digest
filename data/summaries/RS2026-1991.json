@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1991",
+ "source_hash": "5cba198ab9bd3d8d",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 149 feet of 12-inch water main and one fire hydrant assembly, and accept about 129 feet of new 12-inch water main and one fire hydrant assembly at 501 South 2nd Street.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0436,
+ "judge": {
+  "key": "5b1e6eb7570bcdb8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
+ }
+}

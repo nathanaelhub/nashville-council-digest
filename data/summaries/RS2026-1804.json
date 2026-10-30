@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1804",
+ "source_hash": "048692d1e8bc9bbd",
+ "model": "sonnet",
+ "summary": "Directs the director of codes administration to waive building, electrical, gas/mechanical and/or plumbing permit fees for repairing or rebuilding homes and businesses damaged by the January 2026 winter storm. Owners must get permits on or before August 31, 2026 and show the work is due to storm damage.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0546,
+ "judge": {
+  "key": "71953243e11fa8a1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

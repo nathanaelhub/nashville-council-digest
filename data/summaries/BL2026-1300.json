@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1300",
+ "source_hash": "cf6c27d0eca1a975",
+ "model": "sonnet",
+ "summary": "Gives 3rd Avenue South between Broadway and Symphony Place the honorary name \"Johnny Cash Way\" and directs the transportation department to put up signs. No resident or business has to change its address.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0398,
+ "judge": {
+  "key": "c4ae353d45e1fee3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

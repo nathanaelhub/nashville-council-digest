@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2035",
+ "source_hash": "4ab3957922798fa1",
+ "model": "sonnet",
+ "summary": "Replaces Exhibit A of Ordinance BL2022-1170 to change the Mixed Income PILOT Program, which gives property tax breaks to housing developments that include income-restricted units. It drops the tier system for a calculation-based method and lowers the total yearly tax break limit from $3 million to $2 million.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0456,
+ "judge": {
+  "key": "80bef00f1bcb4a91",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

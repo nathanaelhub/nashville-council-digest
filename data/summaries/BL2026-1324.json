@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1324",
+ "source_hash": "70cc8598d86d0a6b",
+ "model": "sonnet",
+ "summary": "Lets Metro accept new eight-inch water and sewer pipes, three fire hydrant assemblies, 19 sewer manholes and easements at Lucile Street (unnumbered), also known as City Vista II. The water main is about 1,139 feet long and the sewer mains are about 1,555 feet and 607 feet long, at no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0583,
+ "judge": {
+  "key": "c5d02c97c50fd44b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

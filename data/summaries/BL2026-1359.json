@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1359",
+ "source_hash": "e1e67eb6d7c3272b",
+ "model": "sonnet",
+ "summary": "Changes the law on removing obstructions from streets and sidewalks so that temporary seating with solid colors is not treated as abandoned property. The seating must be in the public right-of-way, not block its use, not be hazardous, and follow all federal, state, and local laws.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.1241,
+ "judge": {
+  "key": "bfe8c6176a603bc7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0125
+ }
+}

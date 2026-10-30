@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2055",
+ "source_hash": "ae3000188ff6817d",
+ "model": "sonnet",
+ "summary": "Accepts a Victims of Crime Act grant of up to $474,455 for the Metropolitan Nashville Police Department, with no cash match required, to pay for counselor and victim advocate positions, supplies, and travel. The grant runs from July 1, 2026, to June 30, 2027.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0408,
+ "judge": {
+  "key": "70ad7c0845297795",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

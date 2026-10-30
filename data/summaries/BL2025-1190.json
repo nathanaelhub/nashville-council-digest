@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1190",
+ "source_hash": "7145b0bfaf6b8ea5",
+ "model": "sonnet",
+ "summary": "Approves an agreement between Metro Parks and Vanderbilt University Medical Center so Parks can join a six-week research program that supports healthy weight for children ages 6-11. Vanderbilt will reimburse Metro up to $20,000, either as payment or as equipment of equal value.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0397,
+ "judge": {
+  "key": "95823bf5a1f0286d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

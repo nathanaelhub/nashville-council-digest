@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1976",
+ "source_hash": "e608848f45c9d241",
+ "model": "sonnet",
+ "summary": "Accepts an Emergency Management Performance grant of up to $180,049.50 from the Tennessee Emergency Management Agency for the Office of Emergency Management's program for Nashville/Davidson County. Metro must provide a matching cash amount of $180,049.50.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0507,
+ "judge": {
+  "key": "7ff5ae51a376351f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

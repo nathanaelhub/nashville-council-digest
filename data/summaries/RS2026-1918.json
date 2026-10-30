@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1918",
+ "source_hash": "6eb6e4fa1b5c0ded",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement between Sourcewell, a Minnesota government agency, and ST Engineering LeeBoy, Inc. so Metro can buy roadway maintenance equipment for the Nashville Department of Transportation & Multimodal Infrastructure. Metro's participation can last no more than sixty months, and any Metro department may use the agreement.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0406,
+ "judge": {
+  "key": "870ac3c91efdc53a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1321",
+ "source_hash": "22a512f5f3ac2efc",
+ "model": "sonnet",
+ "summary": "Approves a donated greenway conservation easement of about 0.612 acres at 2518 W Heiman Street from 2500 W Heiman, LP. It costs Metro nothing to acquire.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0523,
+ "judge": {
+  "key": "90dc878e368cadf8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0105
+ }
+}

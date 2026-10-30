@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1758",
+ "source_hash": "c475d122d6ba4e67",
+ "model": "sonnet",
+ "summary": "Allows the Department of Law to settle the property damage claim of Ludlow Flats Unit Owners/O.I.C. Ludlow Flats Amended for $82,954.90, paid from the Self-Insured Liability Fund. The claim is for damage after raw sewage, water, and debris flooded the garage level of the condominium building at 1125 Tenth Avenue on December 26, 2024.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0509,
+ "judge": {
+  "key": "832faa460f48e2b2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

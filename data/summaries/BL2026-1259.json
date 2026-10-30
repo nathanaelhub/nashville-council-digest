@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1259",
+ "source_hash": "efe35228ad77c72f",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 1,529 feet of new eight-inch sewer pipe, seven manholes and easements for two properties on West Division Street (unnumbered) in Mt. Juliet, known as Canebrake Subdivision - Phase 2B. It has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "83c85c0cbfb22b62",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

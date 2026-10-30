@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1744",
+ "source_hash": "f19231879badeaa9",
+ "model": "sonnet",
+ "summary": "Lets Nashville Phase III Property Holder 2, LLC build and maintain a blade sign that hangs over the public right-of-way at 440 Chestnut Street. The company must carry at least $2 million in liability insurance and cover all costs and claims tied to the sign.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0484,
+ "judge": {
+  "key": "19adb62f592d1d6b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.007
+ }
+}

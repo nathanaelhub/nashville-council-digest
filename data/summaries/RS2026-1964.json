@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1964",
+ "source_hash": "016ffc8ef70d3e3c",
+ "model": "sonnet",
+ "summary": "Exempts Momotaro, Middleman and Alla Vita at 519 Houston Street (BOKA WH Management, LLC) from the minimum distance rules for getting a beer permit, and directs the Clerk to send a copy to the Beer Board's Executive Director.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "afc16064dc6fe3a4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0086
+ }
+}

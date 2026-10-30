@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1967",
+ "source_hash": "fa4dd55d4c3b090e",
+ "model": "sonnet",
+ "summary": "Approves an application to the Tennessee Department of Economic and Community Development for a $100,000 Broadband Ready Communities grant with no cash match. Information Technology Services would use it for programs to increase digital adoption, including access to affordable internet, technology and digital skills.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0684,
+ "judge": {
+  "key": "4da37fdcd1caeaee",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

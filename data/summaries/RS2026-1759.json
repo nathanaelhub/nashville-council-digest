@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1759",
+ "source_hash": "bc0f6babbaba1204",
+ "model": "sonnet",
+ "summary": "Directs the Metropolitan Council Office to prepare at least two options for changing the Council's size, structure, pay and staff support so they comply with a 2023 state law capping the Council at no more than twenty members. The office must report back within ninety days of adoption.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0509,
+ "judge": {
+  "key": "5a14955b90ea5cca",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

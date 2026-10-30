@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1336",
+ "source_hash": "c1a3778297f3689b",
+ "model": "sonnet",
+ "summary": "Lets Metro accept the vertical relocation of about 20 feet of existing eight-inch water main, about 803 feet of new eight-inch sewer main, five new sewer manholes and easements for 3332 Murfreesboro Pike and Mt. View Road (unnumbered), known as Mt. View Wawa. The text says it costs Metro nothing.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.041,
+ "judge": {
+  "key": "c465853d949c9070",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

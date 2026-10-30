@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1944",
+ "source_hash": "dfc59753fe969895",
+ "model": "sonnet",
+ "summary": "Approves an application to the Tennessee Department of Health for a $20,000 REACH grant, with no cash match required, for the Nashville Department of Transportation. The money would support community engagement efforts like the Open Streets Program in areas with mostly racial or ethnic minority populations.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0392,
+ "judge": {
+  "key": "afe5f93e36cdc7d4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

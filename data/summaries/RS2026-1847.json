@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1847",
+ "source_hash": "142f4ac495e661d6",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle Stream Realty Partners' property damage claim for $35,280.30, paid from the Self-Insured Liability Fund. The claim comes from an August 6, 2025 incident when a Nashville Fire Department ambulance hit a support pillar at 500 28th Avenue North.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0461,
+ "judge": {
+  "key": "f8e37320453825e7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

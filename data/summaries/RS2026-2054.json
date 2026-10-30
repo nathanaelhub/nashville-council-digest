@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2054",
+ "source_hash": "eb2622b5bd02f60f",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $100,000 from the Tennessee Office of Criminal Justice Programs for the Office of Family Safety, with no cash match required, to support a team approach to improving how the justice system responds to sexual assault, domestic violence, dating violence, and stalking. The grant runs from July 1, 2026, to June 30, 2027.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0408,
+ "judge": {
+  "key": "85ee13a882867ff2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

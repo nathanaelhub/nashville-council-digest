@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1816",
+ "source_hash": "b66615961dd0cd6d",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $5,500 from the Hillsboro-West End Neighborhood Association to pay for yearly maintenance and repair of the mosaic Sea Serpent sculpture, \"the dragon,\" at Fannie Mae Dees Park. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "f073fce350c5281f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

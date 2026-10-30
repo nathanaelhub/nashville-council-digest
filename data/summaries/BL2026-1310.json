@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1310",
+ "source_hash": "5888987260ac1d90",
+ "model": "sonnet",
+ "summary": "Rezones 2507 Meharry Boulevard, about 166 feet west of 25th Avenue North (0.17 acres), from RS5 to R6-A. The property is within a Detached Accessory Dwelling Unit Overlay District.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0363,
+ "judge": {
+  "key": "f95836d769ee1420",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

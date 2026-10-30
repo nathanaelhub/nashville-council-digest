@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1382",
+ "source_hash": "00f6e19074fef9d3",
+ "model": "sonnet",
+ "summary": "Creates an eviction right to counsel program run by the Planning Department's Housing Division. Through nonprofit groups, it gives free legal representation, plus outreach and education, to renters facing eviction whose household income is low enough to qualify, with services offered in languages commonly spoken by those renters.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0663,
+ "judge": {
+  "key": "83db3c76d7a3c340",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1209",
+ "source_hash": "baeacc801efc26ec",
+ "model": "sonnet",
+ "summary": "Approves a contract with H.W. Lochner, Inc. for technical and engineering services, such as transportation planning, design, traffic signals and construction inspection, that any Metro department can use. It is worth up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "966000262365b2f2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

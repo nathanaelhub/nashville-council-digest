@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1201",
+ "source_hash": "cb73ca707eba5b56",
+ "model": "sonnet",
+ "summary": "Approves a lease letting Chiqui Cafe, LLC run the Sunnyside Mansion Cafe in 357 square feet at 3021 Lealand Lane. Chiqui pays $1,000 per month, and the lease runs from February 20, 2026 to February 21, 2029.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0377,
+ "judge": {
+  "key": "40e480937c39c59a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1176",
+ "source_hash": "dfbc7e031903f1de",
+ "model": "sonnet",
+ "summary": "Authorizes building material restrictions and requirements for the proposed Conservation Zoning Overlay District in BL2025-1175 (38 acres near Shackleford Road, Belmont Boulevard, Oriole Place and Glen Echo Road). Requests for a waiver go to the Metropolitan Historic Zoning Commission when applying for a historic preservation permit.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0347,
+ "judge": {
+  "key": "34ec6b23c5910881",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

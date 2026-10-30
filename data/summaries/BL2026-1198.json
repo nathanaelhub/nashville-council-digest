@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1198",
+ "source_hash": "deb8ac29b3b0b64a",
+ "model": "sonnet",
+ "summary": "Approves a ten-year agreement letting Metro's Department of Human Resources use cubicle office space and shared areas at Operation Stand Down Tennessee's building at 1125 12th Ave South at no cost.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0377,
+ "judge": {
+  "key": "5f001d52ff93accf",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

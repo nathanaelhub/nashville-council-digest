@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1217",
+ "source_hash": "bf1e3ff2da1122f7",
+ "model": "sonnet",
+ "summary": "Approves a contract with CDM Smith Inc. for technical and engineering services, paid up to $44.2 million, that any Metro department can use. It lasts three years with five one-year extensions, and covers planning, design, traffic signals, construction inspection, communications, surveys and program management.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0404,
+ "judge": {
+  "key": "c5afac97f566af40",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1307",
+ "source_hash": "0da18930c290c0ec",
+ "model": "sonnet",
+ "summary": "Rezones 0.34 acres at 100 Kenner Avenue, in the Harding/White Bridge Urban Design Overlay, from OR20 to a Specific Plan for a mixed use development. It allows up to 2,000 square feet of restaurant and take-out and up to 2,500 square feet of commissary kitchen, and bans short term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0416,
+ "judge": {
+  "key": "a4ca55c2c00b1ac4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

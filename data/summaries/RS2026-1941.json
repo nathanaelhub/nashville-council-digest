@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1941",
+ "source_hash": "076b665fdc96e2b7",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement between Sourcewell, a Minnesota government agency, and Governmentjobs.com, Inc. for workforce management software requested by the Metro Nashville Police Department, which any Metro department can use. The project is expected to cost $175,000 and save Metro $23,821, and Metro's participation can last no more than sixty months.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0392,
+ "judge": {
+  "key": "a3e9059fbb8ad645",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

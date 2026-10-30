@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1303",
+ "source_hash": "51e35a8aad7e6bb9",
+ "model": "sonnet",
+ "summary": "Rezones 0.32 acres at 800 Gwynn Drive, at the southeast corner of Patapsco Street and Gwynn Drive, from RS7.5 to R8-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0416,
+ "judge": {
+  "key": "6542e80704da7a7d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

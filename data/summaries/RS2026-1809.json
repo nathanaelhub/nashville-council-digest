@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1809",
+ "source_hash": "1d0f03019f075368",
+ "model": "sonnet",
+ "summary": "Approves a change to a grant agreement with the National League of Cities for the Southern Cities Economic Initiative, run by the Metropolitan Finance Department. The change extends the grant period to June 30, 2026 and updates the Planning Phase Budget.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0501,
+ "judge": {
+  "key": "47e9a34369432781",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

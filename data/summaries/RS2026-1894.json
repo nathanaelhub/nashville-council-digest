@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1894",
+ "source_hash": "01fa87ff45039e57",
+ "model": "sonnet",
+ "summary": "Honors Alkebu-Lan Images Bookstore for 40 years in business and recognizes April 7, 2026, as National Black Bookstore Day in Nashville and Davidson County.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0566,
+ "judge": {
+  "key": "67f12fa012a50421",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

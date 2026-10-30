@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1859",
+ "source_hash": "e1593cd7d8c42f69",
+ "model": "sonnet",
+ "summary": "Honors Danny Herron for his 16 years as president and CEO of Habitat for Humanity of Greater Nashville as he retires, and for his work expanding affordable homeownership in Nashville and Davidson County.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0893,
+ "judge": {
+  "key": "66be9b72d8268c43",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

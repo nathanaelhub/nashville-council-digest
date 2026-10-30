@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1985",
+ "source_hash": "db21e678571192b5",
+ "model": "sonnet",
+ "summary": "Moves control and management of the former Nashville Fire Department headquarters at 63 Hermitage Avenue to the Department of Water and Sewerage Services. The department will pay Metro a one-time $6,240,000, the property's appraised value, and must honor the existing lease approved by RS2025-1568.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0606,
+ "judge": {
+  "key": "defc82aeed618903",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

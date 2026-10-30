@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-883",
+ "source_hash": "c1d4b22e49213ecd",
+ "model": "sonnet",
+ "summary": "Requires building facades in the 55-unit Specific Plan at 1007 and 1009 Solley Drive to be made of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless detailed elevations in the preliminary plan say otherwise.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "35fc6d29e4a2d1a7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

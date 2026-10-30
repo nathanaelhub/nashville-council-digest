@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1770",
+ "source_hash": "ad733c34b3b5909c",
+ "model": "sonnet",
+ "summary": "Approves an agreement with Dorman Products, Inc. to run a foreign-trade subzone within Foreign-Trade Zone No. 78, once the federal Foreign-Trade Zones Board approves the request. Authorizes the Mayor to sign it.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0627,
+ "judge": {
+  "key": "d5d08be105d3dca5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

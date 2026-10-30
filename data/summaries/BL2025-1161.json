@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1161",
+ "source_hash": "ad404e861d4f7e58",
+ "model": "sonnet",
+ "summary": "Rezones 3208, 3210, 3212 and 3218 Glencliff Road, at the northeast corner of Glencliff Road and Antioch Pike (6.88 acres), from RS7.5 to SP zoning to allow up to 80 multi-family residential units. Short-term rentals are banned, and a 20-foot buffer must be kept along the edge of the site.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0402,
+ "judge": {
+  "key": "3e72b27b9dea124c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2045",
+ "source_hash": "7e2e0856e4670578",
+ "model": "sonnet",
+ "summary": "Gives a total of $1,926,099 from the Nashville Public Library to nine groups for free after school and summer programs through the Nashville After Zone Alliance. The largest amounts go to Metro Parks Department ($411,481), Why We Can't Wait, Inc. ($380,350) and Rocklife Youth, LLC ($349,287).",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0644,
+ "judge": {
+  "key": "402f320f95ab9710",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1236",
+ "source_hash": "81c5807b37a57287",
+ "model": "sonnet",
+ "summary": "Renames Alley #569, from Morrison Street to 11th Avenue North, as \"Clowder Alley\" and Alley #535, from Jackson Street to Alley #569, as \"Catamount Alley\". A developer is building townhomes reached only by alley, and the new names should help emergency services find the units.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.044,
+ "judge": {
+  "key": "b6d5716c7b5d1272",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

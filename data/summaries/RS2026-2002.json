@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2002",
+ "source_hash": "914dc1b412479c3a",
+ "model": "sonnet",
+ "summary": "Spends $26,484,000 from the General Fund Reserve Fund on equipment and building repairs for Metro departments. The largest amounts are $10 million for General Services, $4 million for the Fire Department, $2.8 million for the Police Department and $2,786,000 for the Nashville Public Library.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0653,
+ "judge": {
+  "key": "15e0aae47615a0fa",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.01
+ }
+}

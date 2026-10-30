@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1845",
+ "source_hash": "bd59a1e9b596431e",
+ "model": "sonnet",
+ "summary": "Increases the Nashville After Zone Alliance grant contract with Bethlehem Centers of Nashville by $25,600 for additional summer programming. This is the contract's second amendment.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "79f8b90130352684",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

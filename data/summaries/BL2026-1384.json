@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1384",
+ "source_hash": "8454c2617cdc17f0",
+ "model": "sonnet",
+ "summary": "Renames Alley #581, from 27th Avenue North to its dead end, as \"Birdsong Alley.\" The Department of Emergency Communications asked for the change because new homes were built off the alley with no street access, and the new name will help emergency services find them.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0663,
+ "judge": {
+  "key": "e2917951eab7be88",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

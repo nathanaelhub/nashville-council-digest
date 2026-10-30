@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1935",
+ "source_hash": "79d70b748886d643",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a cooperative purchasing agreement between Sourcewell, a Minnesota government agency, and Hustler Turf Equipment, Inc. so Metro can buy grounds maintenance and landscaping equipment for the Parks and General Services Departments. The anticipated project value is $500,000, with estimated savings of $107,571, and the agreement runs to January 31, 2029.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0458,
+ "judge": {
+  "key": "9958f8f57f2f7273",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

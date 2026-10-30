@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1740",
+ "source_hash": "5489d1d1e14d49f6",
+ "model": "sonnet",
+ "summary": "Approves amendment one to a Safe Streets for All grant from the U.S. Department of Transportation for safety work along Nolensville Pike, and lets the Metro Mayor sign it. The amendment updates grant language to reflect the California v. Duffy court order on immigration enforcement terms and changes a date in the general terms to November 4, 2025.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "a981194f5eda4793",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

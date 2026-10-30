@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1228",
+ "source_hash": "c9b2f3e0d29488df",
+ "model": "sonnet",
+ "summary": "Approves a contract with KCI Technologies, Inc. for technical and engineering services that any Metro department can use, costing up to $44.2 million. It lasts three years, with five one-year extensions possible, and is paid from Fund 40025.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.041,
+ "judge": {
+  "key": "9721a69609d6f606",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

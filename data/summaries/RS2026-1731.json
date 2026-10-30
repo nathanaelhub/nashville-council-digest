@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1731",
+ "source_hash": "3f0a34d06039fec0",
+ "model": "sonnet",
+ "summary": "Accepts a Violent Crime Intervention Fund grant of up to $15,119,155 from the Tennessee Department of Finance and Administration to the Metro Police Department, with no cash match required. The money goes to proven strategies to fight violent crime and to develop, build or rehabilitate infrastructure.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0413,
+ "judge": {
+  "key": "d5d8727d276e8d03",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

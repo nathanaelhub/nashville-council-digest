@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2056",
+ "source_hash": "0ff0d015a07f2271",
+ "model": "sonnet",
+ "summary": "Accepts a Project Safe Neighborhood grant of up to $156,401 for the Metropolitan Nashville Police Department, with no cash match required, to pay for overtime to investigate violent crimes involving guns. The grant runs from July 1, 2026, to June 30, 2027.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0408,
+ "judge": {
+  "key": "dbd646a2ab32fa51",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

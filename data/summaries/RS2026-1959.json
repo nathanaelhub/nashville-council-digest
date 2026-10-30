@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1959",
+ "source_hash": "d1c720d6b7b2ecc2",
+ "model": "sonnet",
+ "summary": "Recognizes May 11 through 17, 2026, as Period Poverty Awareness Week in Nashville and Davidson County, to raise awareness about the need to make period products easier to get.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.049,
+ "judge": {
+  "key": "bd8b1799e434bdef",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

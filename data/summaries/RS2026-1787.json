@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1787",
+ "source_hash": "55a5d0e160f61b42",
+ "model": "sonnet",
+ "summary": "Extends the tree canopy funding rules in Chapter 5.11 of the Metro Code until March 1, 2029, or until the rule that ends the program (Section 5.11.060) is repealed. The program pays to plant and care for trees on private property.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0505,
+ "judge": {
+  "key": "9b957054acb780c0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

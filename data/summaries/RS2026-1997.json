@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1997",
+ "source_hash": "61b992a74265400b",
+ "model": "sonnet",
+ "summary": "Recognizes the Frist Art Museum on its 25th anniversary.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "549d79adbb4d2956",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0086
+ }
+}

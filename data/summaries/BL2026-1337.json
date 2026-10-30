@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1337",
+ "source_hash": "f77eab3991525faa",
+ "model": "sonnet",
+ "summary": "Amends part of a Planned Unit Development overlay on 11.23 acres at Old Lebanon Dirt Road (unnumbered) and 1704 Robards Way, at the end of Dutchfalls Cove, zoned RM9, to allow up to 77 multi-family homes. It also sets conditions, including working with a neighboring owner to improve an access easement.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.041,
+ "judge": {
+  "key": "97b289423c619f6f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

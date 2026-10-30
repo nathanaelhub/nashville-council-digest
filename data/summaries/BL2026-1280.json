@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1280",
+ "source_hash": "c3fb164d3b985030",
+ "model": "sonnet",
+ "summary": "Rezones 0.17 acres at 109 Elberta Street, about 245 feet east of Foster Avenue, from RS5 to R6-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "2856c27871769506",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

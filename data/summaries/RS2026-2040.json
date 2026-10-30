@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2040",
+ "source_hash": "e61951bd369b695a",
+ "model": "sonnet",
+ "summary": "Gives $573,833 from the Metropolitan Board of Health to Park Center, Inc. for recovery support services for people with opioid use disorder, including care coordination for people in its 21 sober living units in Davidson County. The grant contract would run from July 1, 2026 to June 30, 2028.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0382,
+ "judge": {
+  "key": "10815b0d483f6c44",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

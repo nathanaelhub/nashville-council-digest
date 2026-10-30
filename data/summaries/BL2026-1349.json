@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1349",
+ "source_hash": "896df6c32b222a82",
+ "model": "sonnet",
+ "summary": "Cancels part of a Planned Unit Development Overlay District at 5309 Weber Road, about 85 feet west of Andrew Jackson Parkway (2.02 acres, zoned R10).",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "9e68b3879796f123",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

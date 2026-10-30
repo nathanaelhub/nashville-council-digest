@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2012",
+ "source_hash": "8502e9c835fb7eb6",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant worth up to $500,000 from the Nashville Parks Foundation, if funds are available, to renovate the Elizabeth Senior Center kitchen. The work includes more food prep space, updated appliances and a safer, more functional kitchen.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "11e202b273e44a1c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

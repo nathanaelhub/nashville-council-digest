@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1385",
+ "source_hash": "6eafe3d88a73a403",
+ "model": "sonnet",
+ "summary": "Allows Metro to abandon about 2,860 feet of 66-inch and about 75 feet of 24-inch sewer force main and easements, and to accept about 3,108 feet of new 66-inch and about 2,086 feet of new 30-inch sewer force main and easements. This covers 18 properties on Cowan Street, Cowan Court, Waterside Drive, River North Boulevard and North 9th Street, in the Oracle Force Main Relocation project.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0663,
+ "judge": {
+  "key": "b024e16bada359fd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

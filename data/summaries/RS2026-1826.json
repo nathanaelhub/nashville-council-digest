@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1826",
+ "source_hash": "19951e66be23e3e4",
+ "model": "sonnet",
+ "summary": "Asks the Metropolitan Board of Parks and Recreation to review its permits for how well the public can access parks and send the review to the Council by August 3, 2026. It also asks that future permits keep park use open and regular for the public.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0609,
+ "judge": {
+  "key": "3b62a1945bd76046",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

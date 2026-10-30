@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1181",
+ "source_hash": "9e4f375470d877e4",
+ "model": "sonnet",
+ "summary": "Requires building facades at 14768 Old Hickory Blvd to be made of brick, brick veneer, stone, cast stone, cementitious siding and glass, or similar materials, unless other designs are approved on the building elevations with the preliminary SP. This goes with the 135-unit zoning plan in BL2025-1180.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0365,
+ "judge": {
+  "key": "37e075f0459097d3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

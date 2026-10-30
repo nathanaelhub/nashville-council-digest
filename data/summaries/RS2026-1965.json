@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1965",
+ "source_hash": "e26e905d48c82eda",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant from the U.S. Green Building Council, worth an estimated $27,850 with no cash match, to help the Office of the Mayor collect and report data for LEED for Cities certification and work with other local governments.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0684,
+ "judge": {
+  "key": "064934e4e1e58ed5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

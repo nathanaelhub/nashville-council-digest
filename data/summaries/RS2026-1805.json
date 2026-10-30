@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1805",
+ "source_hash": "b40b95d3699320c1",
+ "model": "sonnet",
+ "summary": "Elects the people on the attached list as notaries public for Davidson County.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.045,
+ "judge": {
+  "key": "7db5f911a7608f65",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

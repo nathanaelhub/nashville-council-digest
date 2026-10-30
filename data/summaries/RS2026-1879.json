@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1879",
+ "source_hash": "813d49fd0e83fedf",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle the injury claims of Kierra Sims and her minor child, Jazele Sampson, for $40,000, paid from the Self-Insured Liability Fund. The claims come from a February 13, 2024 accident involving a Metro Parks vehicle near 1403 Turner Street, Old Hickory.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0495,
+ "judge": {
+  "key": "8c932e72b0cd05d1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

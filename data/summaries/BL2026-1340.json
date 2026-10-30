@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1340",
+ "source_hash": "e046217507a28749",
+ "model": "sonnet",
+ "summary": "Requires building fronts for the 280-unit development at 915 and 927 Skyline Ridge Drive (BL2026-1339) to be brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless the preliminary SP's detailed building elevations approve something else.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.041,
+ "judge": {
+  "key": "f70cba916fda1db5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

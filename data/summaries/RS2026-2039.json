@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2039",
+ "source_hash": "8f49305a01ede06a",
+ "model": "sonnet",
+ "summary": "Approves a third change to the grant contract with Urban League of Middle Tennessee, which received $2 million for affordable housing at 590 Joseph Avenue, extending the contract by 12 months to 48 months after it was first signed.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0382,
+ "judge": {
+  "key": "693b9a78c5d26724",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

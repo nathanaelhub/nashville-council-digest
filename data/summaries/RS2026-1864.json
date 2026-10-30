@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1864",
+ "source_hash": "005d76ce1be929a5",
+ "model": "sonnet",
+ "summary": "Approves a first amendment to the affordable housing construction grant contract with Urban Housing Solutions, which received $1,312,500. It changes the payment schedule so money is drawn when the first 55, 110 and 165 units are finished, and after final Metro Code inspections.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0356,
+ "judge": {
+  "key": "d30b5c9b0fac91ba",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

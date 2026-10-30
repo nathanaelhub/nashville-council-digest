@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2057",
+ "source_hash": "7b6f1218361da667",
+ "model": "sonnet",
+ "summary": "Approves an application for a $720,000 Internet Crimes Against Children grant, with no cash match required, so the Metropolitan Nashville Police Department can keep funding its Internet Crimes Against Children Unit.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0408,
+ "judge": {
+  "key": "5023615dd7889399",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

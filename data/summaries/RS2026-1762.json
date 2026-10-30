@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1762",
+ "source_hash": "766a03adbf0b2d6e",
+ "model": "sonnet",
+ "summary": "Honors Mina Johnson for her service as President of Sister Cities of Nashville from January 2023 to January 2026, and thanks her for her work.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0603,
+ "judge": {
+  "key": "4a0d18727b05baa2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

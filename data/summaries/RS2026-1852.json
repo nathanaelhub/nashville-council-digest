@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1852",
+ "source_hash": "ba94024d6c84ce35",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 401 feet of new eight-inch sewer pipe (PVC), about 90 feet of new eight-inch sewer pipe (DIP) and three manholes for four properties on Holt Hills Road and Christiansted Lane, known as the Holt Hills Public Sewer Extension.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0393,
+ "judge": {
+  "key": "36217c00af2eddab",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

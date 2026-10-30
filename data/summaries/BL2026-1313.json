@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1313",
+ "source_hash": "0c74604d71dc4b3f",
+ "model": "sonnet",
+ "summary": "Sets building material rules for the River North Urban Design Overlay on Cowan Street, Cowan Court and Waterside Drive (165.21 acres). Building faces visible from a public street, open space or interstate must use materials such as masonry, textured metal, metal paneling or precast concrete, with spandrel glass allowed on upper stories only.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0363,
+ "judge": {
+  "key": "38c965e2176ab9bd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

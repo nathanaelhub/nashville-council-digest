@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2009",
+ "source_hash": "94aed17ade199988",
+ "model": "sonnet",
+ "summary": "Approves a new Attachment D to a Tennessee Department of Economic and Community Development grant contract with Metro's Information Technology Services Department for the Broadband Connected Community Facilities program, and authorizes the Mayor to sign it. The grant amount and local cash match stay the same, and the grant expires October 31, 2026.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0414,
+ "judge": {
+  "key": "cae6d788eefad129",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

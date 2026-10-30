@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1223",
+ "source_hash": "f61dd239918587ae",
+ "model": "sonnet",
+ "summary": "Approves a contract with Alta Planning + Design, Inc. for technical and engineering services such as transportation planning, design, traffic signals, public relations, survey and program management. Pays up to $44.2 million, runs three years with five one-year extensions, and any Metro department can use it.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0401,
+ "judge": {
+  "key": "4d0953e648420ee6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

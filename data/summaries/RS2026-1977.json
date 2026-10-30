@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1977",
+ "source_hash": "b561b1b018962cec",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $250,000 from the U. S. Department of Justice, with no cash match required, for the Metropolitan Nashville Police Department to send sexual assault kits to private vendors for forensic sample analysis. The goal is to reduce the backlog in DNA analysis.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0507,
+ "judge": {
+  "key": "bc323370e698b62c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

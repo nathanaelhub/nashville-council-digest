@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1167",
+ "source_hash": "6fe7b06729e0cfb9",
+ "model": "sonnet",
+ "summary": "Rezones 220, 230 and 240 Great Circle Road, about 428 feet north of Vantage Way (15.07 acres), from IWD to MUG-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "1af70bb5a5ed47ca",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

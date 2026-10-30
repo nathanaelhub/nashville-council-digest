@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1924",
+ "source_hash": "ce8bf36cca774ece",
+ "model": "sonnet",
+ "summary": "Settles Jose Gustavo Mujica Arcos's personal injury claim against Metro for $74,000, paid from the Self-Insured Liability Fund. The claim comes from a April 21, 2021 car accident at Antioch Pike and Harding Place.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0439,
+ "judge": {
+  "key": "81ef73dee55f9806",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0125
+ }
+}

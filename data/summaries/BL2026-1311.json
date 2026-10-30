@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1311",
+ "source_hash": "225f508e4a29c5f1",
+ "model": "sonnet",
+ "summary": "Amends part of a Planned Unit Development at 201 Gifford Place, at the corner of Gifford Place and Whites Creek Pike (3.11 acres), to allow 120 multi-family residential units within the existing building. Short-term rentals are banned across the whole development.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0363,
+ "judge": {
+  "key": "5e0ca1021d989c0b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

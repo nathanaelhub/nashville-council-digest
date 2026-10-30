@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1791",
+ "source_hash": "8a007e2ea7629022",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle the personal injury claims of Jerry and Reba Hayes for $48,000, paid from the Self-Insured Liability Fund. The claims come from a March 14, 2025 crash in which a Nashville Fire Department ambulance rear-ended their truck at Skyline Ridge Drive and Due West Avenue.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0379,
+ "judge": {
+  "key": "94c74a19fdc1a967",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

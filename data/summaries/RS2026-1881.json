@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1881",
+ "source_hash": "275fbe2f8379ba4f",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a cooperative purchasing master agreement between N Ear Inc. and the United States General Services Administration so Metro can buy radio earpieces for the Metropolitan Nashville Police Department. The anticipated project value is $200,000, and the agreement would expire on March 5, 2030.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0495,
+ "judge": {
+  "key": "deb24f183823fae7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

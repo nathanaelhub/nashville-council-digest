@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1363",
+ "source_hash": "777b07847bc304a1",
+ "model": "sonnet",
+ "summary": "Creates a temporary \"Special Event Zone\" in parts of downtown Nashville from 6:00 a.m. on June 3, 2026, to midnight on June 8, 2026, for the 2026 CMA Fest. Within the zone, it limits street vending, alcohol sales, unlicensed CMA Fest merchandise, tents and temporary structures, free giveaways, vehicles, shared mobility devices, firearms, knives, fireworks and drones unless approved by CMA or Metro, and it requires at least one Public Participation Area for public expression.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.1241,
+ "judge": {
+  "key": "97c60db05603c838",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The summary ends the list with 'unless approved by CMA or Metro', which makes the exception cover firearms, knives and drones. The text allows no such exception for those items. Firearms, knives and fighting devices are flatly banned, and the zone is a 'no fly zone'. Vehicles are allowed as directed by police, not by CMA approval.",
+  "cost_usd": 0.0125
+ }
+}

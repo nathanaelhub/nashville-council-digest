@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1987",
+ "source_hash": "ba583ef662f75e48",
+ "model": "sonnet",
+ "summary": "Repeals the earlier approval of a sewer participation agreement with Elmington Capital Group and refunds the $516,000 it paid, because a full capacity payment had already been made on the parcel in 2022.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0436,
+ "judge": {
+  "key": "7ccee398b5df7bcf",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

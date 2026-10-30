@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1243",
+ "source_hash": "d5a0aa13d6cb2407",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon old water and sewer pipes and accept new water and sewer pipes, manholes, two relocated fire hydrant assemblies and easements for Vanderbilt University - CUI Phase A & B at 2415 Vanderbilt Place. It abandons about 630 feet of six-inch and 61 feet of 20-inch water main and about 495 feet of eight-inch sewer main, and it replaces one manhole.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.065,
+ "judge": {
+  "key": "19be4cbea600a577",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

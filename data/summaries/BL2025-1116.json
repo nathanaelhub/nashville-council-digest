@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1116",
+ "source_hash": "14d2dd15e0599444",
+ "model": "sonnet",
+ "summary": "Adds electric vehicle charging stations to the zoning code as an accessory use allowed in all zoning districts. Level 2 chargers are allowed in all districts, while fast chargers (DCFC) are not allowed in AR2a, RS, R, RN and RL districts and must be at least 20 feet from adjacent properties in those districts or RM, with screening required within 100 feet.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "3ecec7996f099dc1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

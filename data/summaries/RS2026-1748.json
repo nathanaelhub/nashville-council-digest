@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1748",
+ "source_hash": "f0aeca46ea2252e7",
+ "model": "sonnet",
+ "summary": "Approves a sole source contract with Crawford Electric Supply Co., LLC to supply Allen Bradley/Rockwell products, parts and service to the Department of Water and Sewerage Services. The estimated value is $4 million over 60 months.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0604,
+ "judge": {
+  "key": "da3709b38116e2cf",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

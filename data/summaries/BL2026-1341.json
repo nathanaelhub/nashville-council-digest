@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1341",
+ "source_hash": "a062cbd35783a2d7",
+ "model": "sonnet",
+ "summary": "Rezones 0.6 acres at 1703 River Drive, about 275 feet east of Hydes Ferry Road, from RS10 to R10.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "8d5bbf3d4a17ba69",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1742",
+ "source_hash": "892181c2ecd7556e",
+ "model": "sonnet",
+ "summary": "Approves Amendment Number 1 to the sole source contract with Temple, Inc. for Carmanah traffic control devices, products, equipment, and parts, raising the contract's estimated value by $2 million, from $2 million to $4 million. The contract will be used to order safety beacons such as school zone flashers and rectangular rapid flash beacons.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0484,
+ "judge": {
+  "key": "b19ea4b197dab2de",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.007
+ }
+}

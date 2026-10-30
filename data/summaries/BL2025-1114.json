@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1114",
+ "source_hash": "482e19158863fd88",
+ "model": "sonnet",
+ "summary": "Requires the Department of Human Resources to give anonymous annual surveys to employees of Metro departments, boards and commissions about leadership and management, workplace culture, professional growth and contributing to goals. Results go to the mayor, the department director, and the board or commission, and to the Council on request.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.045,
+ "judge": {
+  "key": "c76f2752c7d27f2f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

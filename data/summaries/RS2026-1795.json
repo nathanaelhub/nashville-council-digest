@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1795",
+ "source_hash": "ced954a0cc240753",
+ "model": "sonnet",
+ "summary": "Allows Metro to accept about 2,597 feet of new eight-inch sewer main and 16 sewer manholes for three properties at 2183 Kidd Road, Fly Road (unnumbered) and Kidd Road (unnumbered) in Williamson County, known as 2183 Kidd Road Phase 1B. The water and public property directors may sign the needed documents.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0546,
+ "judge": {
+  "key": "c4a35111624e5361",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

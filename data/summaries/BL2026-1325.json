@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1325",
+ "source_hash": "fa14e79bf69dec05",
+ "model": "sonnet",
+ "summary": "Lets Metro give up older water and sewer lines, 11 fire hydrant assemblies, 22 manholes and easements, and accept new water and sewer lines, four fire hydrant assemblies, nine manholes and easements. This covers 17 properties at Cowan Street, Waterside Drive, River North Boulevard and North 9th Street, known as River North Early Works, at no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0583,
+ "judge": {
+  "key": "be2aea1c63e9d4a7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

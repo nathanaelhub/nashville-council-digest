@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1797",
+ "source_hash": "6c03decc6d22d4ef",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle Metro's claim against MasTec North America, Inc. for $135,000, paid to the Water Operating Fund 67331. MasTec's directional drilling damaged a 36-inch water main at 8th Avenue South and Division Street on February 23, 2021.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0546,
+ "judge": {
+  "key": "cf22b650db67abaf",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

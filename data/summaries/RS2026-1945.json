@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1945",
+ "source_hash": "ba2b1736583cd598",
+ "model": "sonnet",
+ "summary": "Accepts a U.S. Environmental Protection Agency grant of up to $2,440,000, with no cash match required, for the Nashville Department of Waste Services. It pays for the first phase of a plan to improve collection infrastructure and specialized equipment, including recycling sorting and baling equipment and smart public litter baskets, from May 1, 2026 to April 30, 2029.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0392,
+ "judge": {
+  "key": "33b4aa290e26e45d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

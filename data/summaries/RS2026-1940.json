@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1940",
+ "source_hash": "778af870da6c3091",
+ "model": "sonnet",
+ "summary": "Approves a sixth change to the lease between Metro's Police Department and Signature Center, L.P. for office space used by the Police Advocacy Support Services (PASS) Program, extending the lease by five years. The space is two suites totaling 7,217 square feet at 1900 Church Street, and the lease would run until June 30, 2032.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0458,
+ "judge": {
+  "key": "3b102c3ef80f333e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

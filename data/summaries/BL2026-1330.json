@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1330",
+ "source_hash": "049093606a627452",
+ "model": "sonnet",
+ "summary": "Lets Riverwalk Nashville Homeowners Association remove old light posts and install five pole lights on 25-foot poles in the public right-of-way at 6161 Rivervalley Drive. The association pays all costs, must protect Metro from claims, and must carry at least $4 million in liability insurance.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0444,
+ "judge": {
+  "key": "85e621f2974fd954",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0091
+ }
+}

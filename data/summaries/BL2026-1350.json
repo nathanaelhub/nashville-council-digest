@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1350",
+ "source_hash": "d6e6bca75dc29e1e",
+ "model": "sonnet",
+ "summary": "Rezones 5309 Weber Road (2.02 acres) from R10 to SP to permit up to 18 multi-family residential units, and bans short-term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "6581bd27d232750b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

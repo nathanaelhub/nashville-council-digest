@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1257",
+ "source_hash": "7d743497dc8df016",
+ "model": "sonnet",
+ "summary": "Allows a detached accessory dwelling unit (DADU) to be built behind a single-family home on a legally created lot that is smaller than its district's minimum lot size, as long as the lot is at least 3,750 square feet and the DADU meets all other Metro Code rules.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "d7eb7447eab09ac6",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The summary says the DADU is built 'behind' the single-family home. Nothing in the text places the DADU behind the house. It only allows a DADU as an accessory to a single-family structure, subject to Subsection 17.16.030.G and other Code requirements.",
+  "cost_usd": 0.0078
+ }
+}

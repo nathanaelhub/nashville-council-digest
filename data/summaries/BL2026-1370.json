@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1370",
+ "source_hash": "bf0a698440749aea",
+ "model": "sonnet",
+ "summary": "Approves an agreement letting Metro's Police and Fire Departments dock two to four police and fire boats at Nashville Riverboats, LLC's commercial boat dock at 1941 Cement Plant Road on the Cumberland River. It costs Metro nothing, runs until April 30, 2030, and any change must be approved by a Council resolution with at least 21 votes.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "7299c4b8b0371249",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

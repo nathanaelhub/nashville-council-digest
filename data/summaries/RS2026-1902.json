@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1902",
+ "source_hash": "3da5f6f12081a8d4",
+ "model": "sonnet",
+ "summary": "Approves a settlement of opioid-related claims with the Remnant Defendants, estimated at about $150,000, and lets the Metropolitan Mayor sign the agreement and take other needed steps.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "92f71a8d273f9f5b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

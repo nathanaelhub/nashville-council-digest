@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1291",
+ "source_hash": "9aec7aa5ecdd8c29",
+ "model": "sonnet",
+ "summary": "Approves an agreement with KIPP Nashville that lets Metro do shoring and related work on KIPP's property at 917 Bell Road so the Global Mall demolition can be finished. Metro would hire the contractor and pay the costs, with work starting no earlier than May 22, 2026 and finishing by July 31, 2026.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0592,
+ "judge": {
+  "key": "607287a721f527d9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

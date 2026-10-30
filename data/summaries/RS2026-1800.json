@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1800",
+ "source_hash": "19c6e48a889b5b52",
+ "model": "sonnet",
+ "summary": "Asks the Planning Department Housing Division to keep studying and carrying out new housing solutions, and asks MDHA to research and use such solutions on surplus Metro or MDHA land suited for homes. Also asks that the work be funded in the Fiscal Year 2026-2027 operating budget at an amount recommended by the Planning Director and the MDHA President & CEO.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0546,
+ "judge": {
+  "key": "f3f2b40c4620bb56",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

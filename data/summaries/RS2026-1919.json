@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1919",
+ "source_hash": "6ee0cf120f90c110",
+ "model": "sonnet",
+ "summary": "Allows Herschend Family Entertainment Corporation to build and maintain one main guitar canopy and six awnings that extend over the public right-of-way at 211 Commerce Street. The company must pay all costs, protect Metro from claims, and carry at least $2 million in liability insurance before the permit is granted.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0406,
+ "judge": {
+  "key": "ad95fe0836b65c06",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

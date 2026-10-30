@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1733",
+ "source_hash": "0eef22ff7664a909",
+ "model": "sonnet",
+ "summary": "Accepts a $150,000 donation from the Nashville Downtown Partnership, Inc. to the Metro Police Department to help buy fifteen Axis video cameras. The cameras are to be used only as traditional video cameras at existing camera locations.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "85d4f2a67c08c6e8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

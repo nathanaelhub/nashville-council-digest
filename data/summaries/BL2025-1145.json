@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1145",
+ "source_hash": "1d34112fc27150b2",
+ "model": "sonnet",
+ "summary": "Rezones 4016 Meadow Road, about 385 feet south of Cedar Circle (0.33 acres), from RS15 to R15.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0718,
+ "judge": {
+  "key": "150fd70dd8f2bcd3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

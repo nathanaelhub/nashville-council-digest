@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1345",
+ "source_hash": "99d5cc0572c944e2",
+ "model": "sonnet",
+ "summary": "Rezones 8.48 acres at 3854 Abernathy Road, about 549 feet west of Clarksville Pike, from RS15 to a specific plan (SP) allowing 63 detached multi-family units with 9 accessory apartments. Short-term rentals are banned and individual platted lots are not allowed.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "545ab49bf4552e2c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

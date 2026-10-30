@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2015",
+ "source_hash": "5efe3c9d13ed18ed",
+ "model": "sonnet",
+ "summary": "Accepts a state grant of up to $309,500 from the Office of Criminal Justice Programs for the Office of Family Safety, with no cash match required. The money would help pay for staffing at both Family Safety Centers.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "6eb36d4cf56eb671",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

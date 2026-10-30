@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1184",
+ "source_hash": "d065f8a70d25385e",
+ "model": "sonnet",
+ "summary": "Rezones 3055 Lebanon Pike and unnumbered Lebanon Pike land (21.73 acres), about 305 feet west of Jackson Downs Boulevard, from OR20 and MUL to SP zoning to allow a mixed-use development.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0365,
+ "judge": {
+  "key": "5a2f0f82aab5f569",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

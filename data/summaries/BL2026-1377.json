@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1377",
+ "source_hash": "1b2b34274f3d032a",
+ "model": "sonnet",
+ "summary": "Sets Metro's operating budget for the fiscal year running July 1, 2026 to June 30, 2027, and spends money for Metro departments and debt payments. It includes up to $67,879,500 for the Hospital Authority (Nashville General Hospital), with up to $3,600,000 of Hospital Authority funds for inmate medical care, and requires the Hospital Authority and Metro Nashville Public Schools to send regular financial reports.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0559,
+ "judge": {
+  "key": "d95d245cd019566f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
+ }
+}

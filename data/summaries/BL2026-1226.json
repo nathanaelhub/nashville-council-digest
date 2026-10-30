@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1226",
+ "source_hash": "f368c2079bc6ce46",
+ "model": "sonnet",
+ "summary": "Approves a contract with Jacobs Engineering Group, Inc. for technical and engineering services such as transportation planning, design, traffic signals, construction inspection and program management. Pays up to $44.2 million, runs three years with five one-year extensions, and any Metro department can use it.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0401,
+ "judge": {
+  "key": "9d6cd1df2a2aff98",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1182",
+ "source_hash": "8823e2a666a41d0e",
+ "model": "sonnet",
+ "summary": "Rezones properties at 9320, 9323 and 9315 Highway 100, unnumbered Highway 100 land, and part of 8540 Old Harding Pike (2.89 acres) from CN, MUL and AR2A to SP zoning for a mixed-use development. Uses are limited to building contractor supply, retail and restaurants, and one parcel is limited to building contractor supply only.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0365,
+ "judge": {
+  "key": "2812864c84c225d0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1180",
+ "source_hash": "19663e543fa1ddd9",
+ "model": "sonnet",
+ "summary": "Rezones 14768 Old Hickory Blvd (20.24 acres), about 3,275 feet south of Bell Rd, from AR2a to SP zoning to allow up to 135 multi-family homes. Short-term rentals are banned, and the plan sets conditions on roads, sidewalks, access easements and fire access.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0365,
+ "judge": {
+  "key": "2b02d49055d86b86",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

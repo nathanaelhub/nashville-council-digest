@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1273",
+ "source_hash": "eb1163c96d8adf61",
+ "model": "sonnet",
+ "summary": "Replaces the Downtown Code with a new version that adds an East Bend Subdistrict on the East Bank, bounded by I-24 on the south and east, Korean Veterans Blvd on the north, and the Cumberland River on the west. It also tells planning staff to work with other Metro groups on a street grid plan and to send the East Bend Public Realm Design Framework to the Downtown Code Design Review Committee.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0364,
+ "judge": {
+  "key": "6ee502a19ef7b29c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1774",
+ "source_hash": "dd3c59c079208ad5",
+ "model": "sonnet",
+ "summary": "Approves an application by the Office of Family Safety for a $10,000 Predators Foundation Helper Grant, with no cash match. The money would pay for the third annual Back to School Fair for families impacted by interpersonal violence.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0627,
+ "judge": {
+  "key": "d6522a6ed0aa51bd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

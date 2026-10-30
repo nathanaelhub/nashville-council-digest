@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1320",
+ "source_hash": "08b11b218d172428",
+ "model": "sonnet",
+ "summary": "Approves a donated greenway conservation easement of about 3.14 acres at 552 Misty Creek Court from Domain Timberlake Multistate 2, LLC. It costs Metro nothing to acquire.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0523,
+ "judge": {
+  "key": "786d03548f4a3e6e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0105
+ }
+}

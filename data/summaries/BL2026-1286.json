@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1286",
+ "source_hash": "6bb9b7bd1c7cc8a4",
+ "model": "sonnet",
+ "summary": "Requires buildings at the Hobson Pike mixed-use development (BL2026-1285) to have facades of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0378,
+ "judge": {
+  "key": "9f158e0ee5901897",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

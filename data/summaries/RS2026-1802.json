@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1802",
+ "source_hash": "3159b5c3a2edeed7",
+ "model": "sonnet",
+ "summary": "Honors the life and legacy of former Council Member Walter Hunt, Sr., who died on January 26, 2026, at age 87 and represented District 3 on the Council from 2006 to 2015.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0505,
+ "judge": {
+  "key": "296f9b64018cfcc0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

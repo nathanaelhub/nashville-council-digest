@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-XXX(Toombs)",
+ "source_hash": "d86c8ece267795bb",
+ "model": "sonnet",
+ "summary": "Gives $1.5 million in leftover American Rescue Plan Act money to The Hospitality Hub of Memphis and amends its grant contract, raising the most Metro can owe to $3,969,671. The money pays for interim housing and case management services at 95 Wallace Road.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0609,
+ "judge": {
+  "key": "5e647e587a603658",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

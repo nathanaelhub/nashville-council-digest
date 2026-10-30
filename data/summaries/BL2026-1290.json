@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1290",
+ "source_hash": "7b34a72dc04eeedf",
+ "model": "sonnet",
+ "summary": "Approves a second change to Metro's contract with InspectionReportsOnline.net Inc. for fire protection system inspection reports, extending it to July 31, 2026 and adding required language about the boycott of Israel. The contract costs Metro nothing, and the Fire Department still receives $10 per report.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0592,
+ "judge": {
+  "key": "d9784c462d0337c6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

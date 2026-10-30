@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1352",
+ "source_hash": "c4f92105501f2fb7",
+ "model": "sonnet",
+ "summary": "Rezones 2400, 2402 and 2404 Brick Church Pike (0.95 acres) from CL and RS7.5 to MUL-A-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "32d37174299459c4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

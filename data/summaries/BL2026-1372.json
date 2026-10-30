@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1372",
+ "source_hash": "90763ea60cdc9c62",
+ "model": "sonnet",
+ "summary": "Lets Metro negotiate and accept permanent and temporary easements on two properties, 6937 Nolensville Road and Rocky Fork Road (unnumbered) in Brentwood, for the Nolensville Trunk Sewer Project.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "097c26fb149a2f52",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

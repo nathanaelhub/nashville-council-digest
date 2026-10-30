@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1890",
+ "source_hash": "eb6da5af66ec5f48",
+ "model": "sonnet",
+ "summary": "Asks Metro, through the Department of Finance, to study tax rates and services in the Urban Services District and General Services District, including merging the districts and special funds for street lighting, trash and fire services. Asks for a report to the Budget and Finance Committee by January 4, 2027.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0583,
+ "judge": {
+  "key": "6c8c6e7951578e64",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

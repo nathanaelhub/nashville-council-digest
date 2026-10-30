@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2007",
+ "source_hash": "67d1e47f52bd8503",
+ "model": "sonnet",
+ "summary": "Approves the Metropolitan Board of Equalization's appointment of additional hearing officers to hold preliminary hearings and look into complaints before the Board for the 2026 Assessment Year. The analysis says eight more Davidson County citizens are being added.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0414,
+ "judge": {
+  "key": "18bad3daf2e52939",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

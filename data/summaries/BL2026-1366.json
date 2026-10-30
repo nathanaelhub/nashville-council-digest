@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1366",
+ "source_hash": "591a3ba3232b57d3",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 2,016 feet of new eight-inch water main, about 943 feet of new eight-inch sewer main, four fire hydrant assemblies, seven sewer manholes and easements at 3124 Murfreesboro Pike and 3201 Hamilton Church Road (Antioch 15 Phase 2). The text says this has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0544,
+ "judge": {
+  "key": "6b54c39bb2d380f6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

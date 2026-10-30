@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1909",
+ "source_hash": "c7c205b8d4a38d87",
+ "model": "sonnet",
+ "summary": "Gives $180,000 from the Office of Homeless Services to Room in the Inn, Inc. for Day Shelter and Guest House services that provide shelter, food, clothing and help finding resources for people experiencing homelessness. Approves the grant contract.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "6b020d8015c06f25",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

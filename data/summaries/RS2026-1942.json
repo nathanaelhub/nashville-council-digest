@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1942",
+ "source_hash": "3d39b33cb8785084",
+ "model": "sonnet",
+ "summary": "Approves an application to the U.S. Department of Justice for an Edward Byrne Memorial Justice Assistance Grant of $567,370 for the Metro Nashville Police Department, with no cash match required. The money would go toward equipment upgrades, supplies, and training for criminal investigation and crime reduction.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0392,
+ "judge": {
+  "key": "cc28fbdebd349c39",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

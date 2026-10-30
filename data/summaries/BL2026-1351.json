@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1351",
+ "source_hash": "87bb2e7a1108416b",
+ "model": "sonnet",
+ "summary": "Requires building facades at the 5309 Weber Road development to be made of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless other materials are approved on the detailed elevations.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "c2625800c28ebdf7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

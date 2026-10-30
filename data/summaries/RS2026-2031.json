@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2031",
+ "source_hash": "645a526da638252f",
+ "model": "sonnet",
+ "summary": "Sets pay for the Metropolitan Board of Equalization at $100 per session for the chair or acting chair and $90 per session for other members, starting June 1, 2026. The pay was $100 and $90 per day before, so members now get paid for each session when they hear more than one in a day.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0456,
+ "judge": {
+  "key": "14d81e0a7f58b975",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

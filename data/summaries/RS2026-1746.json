@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1746",
+ "source_hash": "bdc841a235812e9c",
+ "model": "sonnet",
+ "summary": "Accepts a recycling rebate grant of up to $189,568.38 from the Tennessee Department of Environment and Conservation for the Department of Waste Services, with a required cash match of $189,568.38. The money is for buying curbside recycling carts and using AI technology to identify contamination in recycling.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0484,
+ "judge": {
+  "key": "cdc7dfd6c7551c10",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.007
+ }
+}

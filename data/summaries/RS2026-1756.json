@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1756",
+ "source_hash": "0d05864f1bf9a4a3",
+ "model": "sonnet",
+ "summary": "Changes an earlier ordinance so Metro accepts about 292 feet of new eight-inch sewer pipe, one manhole and easements at 935 Barnes Road, instead of about 330 feet of pipe and two manholes.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0509,
+ "judge": {
+  "key": "c34b2d9ca2cbebf3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

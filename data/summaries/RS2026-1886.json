@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1886",
+ "source_hash": "066bb8d1c1cef3ab",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 1,662 feet of new 15-inch, 514 feet of 16-inch and 199 feet of 18-inch sewer main, plus fourteen sewer manholes, for property at 117B Straton Lane, also known as Broadmoor Offsite Sewer.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0422,
+ "judge": {
+  "key": "f207ba3c85952789",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

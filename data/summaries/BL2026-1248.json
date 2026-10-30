@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1248",
+ "source_hash": "f2877e3f6689d34d",
+ "model": "sonnet",
+ "summary": "Rezones 4.03 acres at 513 and 525 Merritt Avenue, 1300 and 1312 Martin Street, and 548 Hamilton Avenue from IWD and RM20-A-NS to SP to allow a mixed use development. It caps the site at 150 hotel rooms, 7,500 square feet of retail and restaurant space, and 175 apartments, limits the hotel building to 75 feet tall, and bans short term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0387,
+ "judge": {
+  "key": "64360e0063d6bf25",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

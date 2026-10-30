@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1781",
+ "source_hash": "97af923753f6739c",
+ "model": "sonnet",
+ "summary": "Changes the East Bank stormwater ordinance (BL2024-381) so the director of Water and Sewerage Services can waive stormwater rules and technical guidelines in the East Bank Stormwater District when Metro's interests and good engineering practice require it. Any waiver and the reasons for it must be in writing.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0463,
+ "judge": {
+  "key": "fcbe5e4cecb8ccb9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

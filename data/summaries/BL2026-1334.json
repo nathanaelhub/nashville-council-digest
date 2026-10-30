@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1334",
+ "source_hash": "4a527e5831cbfdcf",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 61 feet of old 10-inch reservoir drain line and accept about 381 feet of new eight-inch sanitary sewer main, three manholes and easements at 1431 Vultee Boulevard, also known as Jetway Logistics. The text says it has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0444,
+ "judge": {
+  "key": "acdee62e9b6d837c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

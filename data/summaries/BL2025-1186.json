@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1186",
+ "source_hash": "da9d163793c3de2e",
+ "model": "sonnet",
+ "summary": "Rezones 0.86 acres at 919 C Gallatin Avenue, about 160 feet north of Petway Avenue, from OR20 to SP to allow a mixed-use development. Uses are limited to those of MUN-A-NS plus artisan manufacturing, short term rentals are banned, and any expansion is capped at 1,500 square feet and two stories.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0552,
+ "judge": {
+  "key": "11ca8ced5740ab92",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

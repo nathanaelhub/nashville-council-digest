@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1953",
+ "source_hash": "d167f3c94385b503",
+ "model": "sonnet",
+ "summary": "Allows Metro to accept about 119 feet of new 12-inch sewer main, about 180 feet of new eight-inch sewer main, and three new sewer manholes at 501 South 2nd Street, also known as East Bank Flats.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0353,
+ "judge": {
+  "key": "69f5d61d9be7837d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

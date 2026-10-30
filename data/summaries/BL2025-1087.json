@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1087",
+ "source_hash": "2f91cedca1122408",
+ "model": "sonnet",
+ "summary": "Rezones property at Old Hickory Boulevard (unnumbered), about 249 feet east of Farris Avenue (1.44 acres), from RS10 to RM9-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "67dda100aa76d978",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1219",
+ "source_hash": "0cd28ad7823ad45b",
+ "model": "sonnet",
+ "summary": "Approves a contract with Consor North America Inc. for technical and engineering services, paid up to $44.2 million, that any Metro department can use. It lasts three years with five one-year extensions, and covers planning, design, traffic signals, construction inspection, communications, surveys and program management.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0404,
+ "judge": {
+  "key": "46f2f1b0f90d09d1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

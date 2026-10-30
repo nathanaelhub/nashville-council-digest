@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1354",
+ "source_hash": "9eabd615b5ad861a",
+ "model": "sonnet",
+ "summary": "Rezones 100 Taylor Street, about 194 feet east of 2nd Avenue North (1.32 acres), from IG to SP to permit a mixed-use development. Uses are limited to general office, artisan manufacturing, multi-media production, restaurants, personal care services, retail and up to 2,000 square feet of indoor commercial amusement, and short-term rentals are prohibited.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0391,
+ "judge": {
+  "key": "61f2471fa98682c6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

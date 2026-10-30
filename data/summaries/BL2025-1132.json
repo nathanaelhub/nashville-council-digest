@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1132",
+ "source_hash": "41953ae8af6fc092",
+ "model": "sonnet",
+ "summary": "Rezones 400 and 408 Maple Street, at the southeast corner of Maple Street and 4th Avenue (0.5 acres), from RS5 to a Specific Plan (SP) district. It allows a maximum of three detached homes and bans short-term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0718,
+ "judge": {
+  "key": "da053315ed93bc06",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0081
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1811",
+ "source_hash": "e62cca2aacc96d40",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $539,700 from the Tennessee Department of Health to the Metropolitan Board of Health, with no cash match required. The money helps uninsured and under insured people get healthcare through navigation, enrollment help, and connection to programs like Presumptive Eligibility, Family Planning, and the Tennessee Breast and Cervical Screening Program.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0501,
+ "judge": {
+  "key": "ef70f69a06a462ce",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

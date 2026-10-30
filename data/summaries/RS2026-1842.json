@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1842",
+ "source_hash": "b9c814b0782b431d",
+ "model": "sonnet",
+ "summary": "Extends grant contracts through June 30, 2026 for Park Center, Colby's Army, Step Up on Second Street, Mending Hearts, United Neighborhood Health Services and Room in the Inn. The contracts fund services for people experiencing homelessness and help maintain housing opportunities.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "49a0a705f2704a68",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

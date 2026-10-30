@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1889",
+ "source_hash": "23abf5b9b4abfe4a",
+ "model": "sonnet",
+ "summary": "Urges the Tennessee General Assembly to support House Bill 1289/Senate Bill 1247, as amended, the Alyssa Lotkis Safety Act. The bills would have state departments work with local governments on a uniform safety plan for parks.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0583,
+ "judge": {
+  "key": "796b6e5b8821d876",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

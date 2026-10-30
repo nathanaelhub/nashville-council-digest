@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1785",
+ "source_hash": "905fb3fc7dce631b",
+ "model": "sonnet",
+ "summary": "Recognizes February 2026 as Black History Month in Nashville and Davidson County, and notes the history and contributions of Black residents in Nashville.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0696,
+ "judge": {
+  "key": "806a688b8ea04625",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

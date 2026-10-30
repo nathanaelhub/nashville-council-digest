@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1162",
+ "source_hash": "99a6174d15887459",
+ "model": "sonnet",
+ "summary": "Requires building fronts at the Glencliff Road and Antioch Pike development (BL2025-1161) to be made of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless other materials are approved on the building drawings.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0402,
+ "judge": {
+  "key": "f8a0505101be7485",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

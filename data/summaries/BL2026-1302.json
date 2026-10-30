@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1302",
+ "source_hash": "08548bc0110c36ca",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 4,015 feet of new eight-inch water main, about 4,156 feet of new eight-inch sewer main, eight fire hydrant assemblies, 36 sewer manholes and easements at 6103 Mt. View Road. It has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0398,
+ "judge": {
+  "key": "230bacd4bfe94a0b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

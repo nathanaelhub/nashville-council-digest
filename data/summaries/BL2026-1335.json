@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1335",
+ "source_hash": "5846f82716d9c153",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 1,671 feet of new eight-inch sewer pipe (PVC), about 2,282 feet of new eight-inch sewer pipe (DIP), 29 sewer manholes and easements for six properties on Nolensville Road and Williams Road in Williamson County, known as Darsey. The text says it costs Metro nothing.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.041,
+ "judge": {
+  "key": "f3600efb4dc309d5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

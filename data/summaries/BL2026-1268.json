@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1268",
+ "source_hash": "36bc154d971c046f",
+ "model": "sonnet",
+ "summary": "Rezones 3, 3B, 5, 7, 9, 11, 13A, 13B, 13C and 13D Fern Avenue and 101, 103, 105 and 107 Elmhurst Avenue (0.61 acres) from RM20-A to SP zoning. It allows all RM20-A uses plus short-term rentals where the owner does not live, and lists conditions the plans must meet.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.038,
+ "judge": {
+  "key": "cc6f3f67e3aaee32",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

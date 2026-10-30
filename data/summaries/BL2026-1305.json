@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1305",
+ "source_hash": "94c79d63f385ad72",
+ "model": "sonnet",
+ "summary": "Rezones 0.14 acres at 1027 Wade Avenue, at the southeast corner of Wade Avenue and 11th Avenue South, from R8 to a Specific Plan allowing four multi-family residential units. Short term rentals are banned.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0416,
+ "judge": {
+  "key": "7a53c639117a896c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1872",
+ "source_hash": "1043bd54ae40ec8d",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement with CORT Business Services Corporation, set up through Sourcewell, for home and office furniture rental for the Office of Homeless Services. The expected value is $200,000, with an estimated savings of $55,071, and the agreement runs to December 4, 2027.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0376,
+ "judge": {
+  "key": "9f3e89db9fa17991",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

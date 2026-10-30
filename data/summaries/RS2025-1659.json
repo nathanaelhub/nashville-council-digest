@@ -1,0 +1,18 @@
+{
+ "file": "RS2025-1659",
+ "source_hash": "70b2e9999828ae04",
+ "model": "sonnet",
+ "summary": "Approves a letter of agreement and a memorandum of understanding with the Nashville Downtown Partnership for its application for the FY26 Downtown Public Safety Grant from the State of Tennessee. Metro agrees not to apply itself, and the Partnership may spend the grant only on a listed set of items; the state set aside $15,028,698 for Metro's area.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0552,
+ "judge": {
+  "key": "30bebbcffa679732",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

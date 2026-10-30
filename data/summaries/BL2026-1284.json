@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1284",
+ "source_hash": "6b195f5387cd565f",
+ "model": "sonnet",
+ "summary": "Rezones 40.96 acres of various properties east of Korean Veterans Boulevard and south of Sylvan Street from IG to DTC.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0378,
+ "judge": {
+  "key": "67125be66ec86254",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1200",
+ "source_hash": "9d8454fe9647aa39",
+ "model": "sonnet",
+ "summary": "Allows Metro to give the Electric Power Board overhead and underground easements on its land at 6 Main Street and 116 S 1st Street. The easements are for supplying electricity to a pumping station on Woodland Street.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0377,
+ "judge": {
+  "key": "080c18dca8936613",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

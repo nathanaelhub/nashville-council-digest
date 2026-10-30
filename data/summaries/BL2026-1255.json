@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1255",
+ "source_hash": "e9d7a168556f800a",
+ "model": "sonnet",
+ "summary": "Requires a two-year permit from the Nashville Department of Transportation and Multimodal Infrastructure (NDOT) before anyone puts a sandwich board sign on a public sidewalk or street. Applicants must show liability insurance, and the signs have limits on size, height, location and overnight display.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0696,
+ "judge": {
+  "key": "c20f8bfb0cf00d51",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1174",
+ "source_hash": "ccd168fbceced88f",
+ "model": "sonnet",
+ "summary": "Rezones various properties along Lathan Court, south of Young Lane and north of the Cumberland River (3.7 acres), from R8 to RS10. The land is within the Neighborhood Conservation Overlay District.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0347,
+ "judge": {
+  "key": "a193d3151e251f70",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

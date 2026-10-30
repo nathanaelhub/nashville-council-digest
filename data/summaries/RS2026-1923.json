@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1923",
+ "source_hash": "269030e5eb7ae8d4",
+ "model": "sonnet",
+ "summary": "Settles Riley Olson's personal injury lawsuit against Metro for $237,447.12, paid from the Self-Insured Liability Fund. Mr. Olson was hurt on January 4, 2024, while working for Metro Water Services.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0439,
+ "judge": {
+  "key": "df0404ebfd9f614a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

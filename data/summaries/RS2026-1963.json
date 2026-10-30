@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1963",
+ "source_hash": "fdb69c29b33c355b",
+ "model": "sonnet",
+ "summary": "Approves the Fiscal Year 2027 budget for the downtown Central Business Improvement District, which can spend no more than the special assessments actually collected. Also accepts the district's budgets from Fiscal Year 2009 through Fiscal Year 2026.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0684,
+ "judge": {
+  "key": "0406e710d7828684",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0086
+ }
+}

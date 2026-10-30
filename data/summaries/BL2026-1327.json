@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1327",
+ "source_hash": "2ed13ac45e857f45",
+ "model": "sonnet",
+ "summary": "Changes the rules for the Metropolitan Animal Care and Control Commission. One mayor-appointed seat goes to a nonprofit that runs an animal care facility, such as one offering medical care, advocacy or food for animals. The commission's powers are rewritten, including an annual report due to the mayor and Council by August 1.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0566,
+ "judge": {
+  "key": "1b65b1e52d6d39f7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0091
+ }
+}

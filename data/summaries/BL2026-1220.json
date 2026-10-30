@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1220",
+ "source_hash": "31f93d860eba9a0f",
+ "model": "sonnet",
+ "summary": "Approves a contract with Crawford, Murphy & Tilly, Inc. for technical and engineering services, paid up to $44.2 million, that any Metro department can use. It lasts three years with five one-year extensions, and covers planning, design, communications and public relations, development services, and grant/loan/research/policy coordination.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0404,
+ "judge": {
+  "key": "7b8812d980a41cba",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

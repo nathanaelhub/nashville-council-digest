@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1163",
+ "source_hash": "e570addce3367820",
+ "model": "sonnet",
+ "summary": "Rezones properties on Buena Vista Pike and Cliff Drive, at the southwest corner of Buena Vista Pike and Cliff Drive (5.29 acres), from R8 to SP zoning for a mixed-use development. It allows up to 225 residential units in all districts and up to 12,100 square feet of nonresidential uses in District 1, and bans short-term rentals in Districts 2 and 3.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0402,
+ "judge": {
+  "key": "34515c4a033db74b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

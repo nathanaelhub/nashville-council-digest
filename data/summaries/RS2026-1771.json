@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1771",
+ "source_hash": "9cf79c230a948ef1",
+ "model": "sonnet",
+ "summary": "Authorizes Metro to issue general obligation improvement bonds of up to $660 million to pay for public works projects and to pay off commercial paper notes. Debt payments would come from property taxes on taxable property in Metro.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0627,
+ "judge": {
+  "key": "42c3ca39462819c1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

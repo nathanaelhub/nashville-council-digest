@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1988",
+ "source_hash": "ad6ddc333d27f05e",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a Sourcewell (Minnesota) purchasing agreement with Envirosight, LLC so Metro can buy sewer inspection equipment for Water and Sewerage Services, with a term not over sixty months. The expected project value is $1 million, with estimated savings of $60,071.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0436,
+ "judge": {
+  "key": "772c254c3e5cc76e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

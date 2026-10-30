@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1206",
+ "source_hash": "8e278544884c5357",
+ "model": "sonnet",
+ "summary": "Approves a contract with Fairpointe Planning, LLC for technical and engineering services such as multimodal planning, design, and program management, for any Metro department to use. It can cost up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0407,
+ "judge": {
+  "key": "1e24457c694959b6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1893",
+ "source_hash": "d63169357795e4e8",
+ "model": "sonnet",
+ "summary": "Recognizes the Tennessee State University men's basketball team for winning the 2025-26 Ohio Valley Conference Tournament on March 7, 2026, and earning a spot in the 2026 NCAA Division I Men's Basketball Tournament.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0566,
+ "judge": {
+  "key": "1f696add6c6e6f6d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

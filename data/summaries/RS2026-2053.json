@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2053",
+ "source_hash": "552fc14c8ff20f87",
+ "model": "sonnet",
+ "summary": "Accepts a gift from the Battle of Franklin Trust to Metro Parks of a portrait of Frank McGavock and an inscribed silver spoon, worth an estimated $2,125, for the historical collection at Two Rivers Mansion. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0457,
+ "judge": {
+  "key": "96da904cac430590",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

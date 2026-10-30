@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1978",
+ "source_hash": "dd6d60dc7b0c741c",
+ "model": "sonnet",
+ "summary": "Approves a change to Metro's agreement with Sojourn Nolensville Apartments, LP for pedestrian signals and crossings near Nolensville Pike and Taylor Rd, serving the development at 4420 Taylor Rd. It changes the crossings to be built and raises Metro's share from $178,023.52 to $217,545.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0507,
+ "judge": {
+  "key": "a729dd73cb4e6457",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2069",
+ "source_hash": "28a16c1b75618e15",
+ "model": "sonnet",
+ "summary": "Recognizes June 19, 2026, as Juneteenth in Nashville and Davidson County, marking the end of slavery in the United States.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0456,
+ "judge": {
+  "key": "26ee86370ccb15ec",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

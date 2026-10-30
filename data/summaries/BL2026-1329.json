@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1329",
+ "source_hash": "83a0658372ea5611",
+ "model": "sonnet",
+ "summary": "Approves an agreement with Nashville Leased Housing Associates III to build pedestrian signals and crossings at Whites Creek Pike and Dickerson Pike, serving its development at 900 Dickerson Pike. Metro will pay up to $763,334 on a reimbursement basis, and the Nashville Department of Transportation and Multimodal Infrastructure will operate and maintain the signals once accepted.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0444,
+ "judge": {
+  "key": "409510b97ce50cb6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0091
+ }
+}

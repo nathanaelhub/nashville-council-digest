@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1288",
+ "source_hash": "1189474539a0288e",
+ "model": "sonnet",
+ "summary": "Lets the Assessor of Property lower Tax Year 2026 property assessments for properties destroyed or badly damaged by Winter Storm Fern, based on the actual time they were destroyed or damaged. Owners must apply before September 1, and the proration applies when the time exceeds thirty days.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0592,
+ "judge": {
+  "key": "f00e7f2584228556",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

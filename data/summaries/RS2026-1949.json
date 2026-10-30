@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1949",
+ "source_hash": "0c32a54e2b836795",
+ "model": "sonnet",
+ "summary": "Allows Metro to accept about 14 feet of new six-inch water main and one fire hydrant assembly at 611 Cowan Street, also known as 611 Cowan Hotel.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.037,
+ "judge": {
+  "key": "0a816222f41561e9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1749",
+ "source_hash": "53f1d5810772495f",
+ "model": "sonnet",
+ "summary": "Approves an agreement with 600 Southgate Properties LLC to build about 363 feet of eight-inch water main on Southgate Avenue and extend it to Martin Street. Metro would pay up to $55,244.51 for its half of the shared work plus up to $163,035.27 to reimburse the extra work, $218,280 in total.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0604,
+ "judge": {
+  "key": "95435da77dc467e8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

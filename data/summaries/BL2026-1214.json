@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1214",
+ "source_hash": "720d0ddfe12f22ae",
+ "model": "sonnet",
+ "summary": "Approves a contract with Orchards, Hiltz & McCliment, Inc. (OHM Advisors) for technical and engineering services, such as transportation planning, design, traffic signals and surveying, that any Metro department can use. It is worth up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "b25042a37e79e4a2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

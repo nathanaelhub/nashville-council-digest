@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1212",
+ "source_hash": "ce3d156541742973",
+ "model": "sonnet",
+ "summary": "Approves a contract with Neel-Schaffer, Inc. for technical and engineering services, such as transportation planning, design, traffic signals and program management, that any Metro department can use. It is worth up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "bf06ac6c6dce7fff",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

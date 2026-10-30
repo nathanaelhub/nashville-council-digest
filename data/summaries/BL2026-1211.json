@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1211",
+ "source_hash": "5f76c5ce09560af0",
+ "model": "sonnet",
+ "summary": "Approves a contract with Lose & Associates, Inc. for technical and engineering services, such as transportation planning, design, traffic signals and surveying, that any Metro department can use. It is worth up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "4e552b54420e9bff",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

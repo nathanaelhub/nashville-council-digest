@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1369",
+ "source_hash": "40595a2c0b5bd3dd",
+ "model": "sonnet",
+ "summary": "Approves a temporary license agreement letting Metro use extra parts of the Opry Mills Mall property while it builds the Stones River - Opry Mills greenway connector trail. The agreement ends in two years, when Metro's work is complete, or when it is terminated, whichever is earliest, and costs Metro nothing.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0353,
+ "judge": {
+  "key": "1c1fd75b7a203f75",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

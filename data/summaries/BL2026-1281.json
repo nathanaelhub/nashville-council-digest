@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1281",
+ "source_hash": "ff8263de3307e52b",
+ "model": "sonnet",
+ "summary": "Rezones 2003 Straightway Avenue, about 190 feet east of Scott Avenue (1.83 acres), from R6 to SP to allow up to 36 multi-family homes, 20 already there and 16 new. Short-term rentals are banned in the development.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0378,
+ "judge": {
+  "key": "22f7e428b1a1ce91",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

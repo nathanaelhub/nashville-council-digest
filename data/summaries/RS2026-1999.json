@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1999",
+ "source_hash": "5e847cc1c1bd7c88",
+ "model": "sonnet",
+ "summary": "Recognizes June 2026 as Pride Month in Nashville and Davidson County and states the Council's commitment to equality, dignity, freedom, and opportunity for all people. Encourages all Nashvillians to lead with understanding, humanity, and respect.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0559,
+ "judge": {
+  "key": "1607d82f3a87b8df",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1908",
+ "source_hash": "351091d1fa639ebe",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $20,250 from the Friends of Metro Animal Care and Control to the Board of Health for shelter animals: $12,500 for emergency medical care, $4,000 for the Safety Net Program and $3,750 for the Foster Program. No cash match is required.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "fbcbf63bd7995ba1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

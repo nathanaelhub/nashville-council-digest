@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1215",
+ "source_hash": "3968414b57ebcb8d",
+ "model": "sonnet",
+ "summary": "Approves a contract with Parsons Transportation Group, Inc. for technical and engineering services, paid up to $44.2 million, that any Metro department can use. It lasts three years with five one-year extensions, and covers planning, design, traffic signals, communications, surveys and program management.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0404,
+ "judge": {
+  "key": "b0131aabe91fc8a4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

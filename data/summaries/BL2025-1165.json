@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1165",
+ "source_hash": "c86deff945de2e7c",
+ "model": "sonnet",
+ "summary": "Rezones 708 26th Avenue North, about 205 feet north of Clifton Avenue (0.18 acres), from RS5 to R6-A. The property is within the Detached Accessory Dwelling Unit Overlay District.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0402,
+ "judge": {
+  "key": "2bc9c4b4dc4168da",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

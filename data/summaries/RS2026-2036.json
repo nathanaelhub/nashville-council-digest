@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2036",
+ "source_hash": "7d313b5d27c0a0af",
+ "model": "sonnet",
+ "summary": "Approves a change to the grant contract with Southeast Community Capital Corporation dba Pathway Lending, which received $2 million to build 62 affordable rental units, that adds 12 months to the contract for a total of 36 months. Nothing else in the agreement changes.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0382,
+ "judge": {
+  "key": "e84ed0267e0910e7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

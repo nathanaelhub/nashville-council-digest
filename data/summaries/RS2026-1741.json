@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1741",
+ "source_hash": "eeb7c4b0771fd52f",
+ "model": "sonnet",
+ "summary": "Approves a grant contract of up to $353,530, paid on a reimbursement basis, with Walk Bike Nashville, Inc. for education, engagement and event coordination tied to Vision Zero, the Safe Routes to School program and Metro's multimodal plans. The grant runs from January 20, 2026 to December 31, 2026.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0413,
+ "judge": {
+  "key": "ad3cbc3e8b2727e4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.007
+ }
+}

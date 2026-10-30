@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1874",
+ "source_hash": "fc79b50d22cf48c0",
+ "model": "sonnet",
+ "summary": "Increases two Nashville After Zone Alliance grant contracts for out-of-school programs to add summer slots. Boys and Girls Clubs of Middle Tennessee gets $25,600 more and Youth Encouragement Services, Inc. gets $28,000 more.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0376,
+ "judge": {
+  "key": "4194e4681e89cdab",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

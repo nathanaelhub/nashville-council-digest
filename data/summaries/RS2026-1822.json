@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1822",
+ "source_hash": "326df3f9f888bc0d",
+ "model": "sonnet",
+ "summary": "Approves an agreement with Chilton Homes, LLC, which will build about 298 feet of six-inch water main and one fire hydrant for residents on Chilton Street. Metro will pay up to $55,011 (50% of shared costs) plus up to $193,589 to reimburse extra work, for a total of $248,600, and will then operate and maintain the line.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.046,
+ "judge": {
+  "key": "e53d3cf553f056b8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

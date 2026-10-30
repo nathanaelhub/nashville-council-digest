@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2067",
+ "source_hash": "e8300795888a3451",
+ "model": "sonnet",
+ "summary": "Welcomes the Japan National Men's Soccer Team to Nashville for the 2026 FIFA World Cup and recognizes Nashville's friendship with Japan and the Japanese American community.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.042,
+ "judge": {
+  "key": "05d8d91d9baf166c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1906",
+ "source_hash": "ee6ddb4c40756c2f",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement with Via Transportation, Inc. for on-demand transportation, meals and logistics for the General Services Department. Metro's use of the agreement cannot last longer than sixty months, and the agreement is open to all Metro departments.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "88d5b2f60fea66a9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

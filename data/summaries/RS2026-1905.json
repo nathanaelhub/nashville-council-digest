@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1905",
+ "source_hash": "a95a2d5ae3248fce",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement with Uber Technologies for on-demand transportation, meals and logistics for the Department of General Services. Metro's use of the agreement cannot last longer than sixty months, and the agreement is open to all Metro departments.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "bc28604e3306cd27",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

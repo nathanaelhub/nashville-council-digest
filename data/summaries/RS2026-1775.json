@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1775",
+ "source_hash": "a7d9a1fc93a4d37a",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $30,000 from the Carolyn Smith Foundation and the Community Foundation of Middle Tennessee for the Office of Family Safety, with no cash match. The money funds the Holiday Shop for victims of domestic violence and their children.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0627,
+ "judge": {
+  "key": "e4e1069d536cc122",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

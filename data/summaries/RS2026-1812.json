@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1812",
+ "source_hash": "f61984424693c412",
+ "model": "sonnet",
+ "summary": "Accepts a CDC grant of up to $843,396 for the Metropolitan Board of Health to create a workforce development action plan covering eight priority strategies, with internal and external partners. No cash match is required, and the money is restricted until the Board of Health updates the CDC on why the extra funds are needed.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "fbbbce8973d4be2e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

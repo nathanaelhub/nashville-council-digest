@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1246",
+ "source_hash": "95eafe0274084be8",
+ "model": "sonnet",
+ "summary": "Lets Metro Water and Sewerage Services accept $367,464.64 from the DuPont settlement over contamination of public drinking water systems, and put it in the Water and Sewer Revenue Fund. It also allows Metro to accept and add any further settlement payments from DuPont to that fund.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0387,
+ "judge": {
+  "key": "0dbe21d4fa6a676e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

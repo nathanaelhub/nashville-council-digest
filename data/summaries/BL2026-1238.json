@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1238",
+ "source_hash": "11d88b5cce287d85",
+ "model": "sonnet",
+ "summary": "Lets 616 Ewing Partners build and maintain an underground NES transformer vault, bike racks and a projecting sign in the public right-of-way at 616 Ewing Avenue. The company must carry at least $4 million in liability insurance and cover Metro against claims.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.044,
+ "judge": {
+  "key": "0ea79eb53c1b368f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

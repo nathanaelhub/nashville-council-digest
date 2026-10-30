@@ -1,0 +1,18 @@
+{
+ "file": "RS2024-559",
+ "source_hash": "8fb4e88f7922b187",
+ "model": "sonnet",
+ "summary": "Puts Metro Charter amendments on the ballot for a November 5, 2024 vote. One would let the metropolitan treasurer, budget officer or chief accountant fill in when the finance director is absent or the job is vacant, with Council confirmation within 90 days. The other would bar regular Council meetings in September.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0552,
+ "judge": {
+  "key": "6df153d2196a3ca1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

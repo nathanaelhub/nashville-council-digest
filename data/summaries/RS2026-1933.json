@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1933",
+ "source_hash": "e0f619dc71304ee9",
+ "model": "sonnet",
+ "summary": "Authorizes the Metropolitan Development and Housing Agency to enter a payment-in-lieu-of-taxes agreement for Belmont Village Apartments at 1429 12th Avenue S., a project of about 79 units for people earning 60% or less of area median income. The owner would pay $27,650 in the first tax year, rising 3% a year, instead of regular property taxes.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0673,
+ "judge": {
+  "key": "1e851650da733243",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

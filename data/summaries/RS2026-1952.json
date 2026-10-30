@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1952",
+ "source_hash": "c60fed2864939410",
+ "model": "sonnet",
+ "summary": "Allows Metro to accept one new sewer manhole at 616 Ewing Avenue, also known as Nashville Hotel.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.037,
+ "judge": {
+  "key": "504a1073f23f7bbb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

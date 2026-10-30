@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1197",
+ "source_hash": "e7816a99d39aee31",
+ "model": "sonnet",
+ "summary": "Approves an agreement for Nashville to host Japan's national soccer team as its base camp and training site for the 2026 FIFA World Cup. Metro would help with transportation, parking, safety and security, and pay its own costs; the agreement ends December 31, 2026.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0377,
+ "judge": {
+  "key": "fb607b8a859889ef",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1743",
+ "source_hash": "d84066c72b998d11",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind donation worth $19,468.80 from the Cumberland River Compact to the Nashville Department of Transportation and Multimodal Infrastructure. It covers labor, equipment rentals, site work and installation materials, travel, and supplies for the depave project at the Fisk-Jubilee Bridge parking lot.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0484,
+ "judge": {
+  "key": "8f94c882f6c02d15",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.007
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1761",
+ "source_hash": "907325d4047c61fa",
+ "model": "sonnet",
+ "summary": "Asks the Tennessee General Assembly to approve naming part of Nolensville Pike, south of Old Hickory Boulevard and north of Brentwood Highlands Drive, as \"Commander Anthony McClain Memorial Highway.\" The Metro Clerk is to send a copy to each member of the Davidson County Delegation.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0368,
+ "judge": {
+  "key": "db6b20e5ff3a042e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

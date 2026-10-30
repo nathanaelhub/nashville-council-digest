@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1857",
+ "source_hash": "ea177ddbfea322bd",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle Cheryl M. Stewart's property damage claim for $84,087.61, paid from the Self-Insured Liability Fund. A water main break on February 23, 2025 in front of 2152 Chickering Lane damaged her home.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0393,
+ "judge": {
+  "key": "02c5a40fb13a3def",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

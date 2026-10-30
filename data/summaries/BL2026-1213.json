@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1213",
+ "source_hash": "2931ec7823717aee",
+ "model": "sonnet",
+ "summary": "Approves a contract with Nelson Nygaard Consulting Associates Inc. for technical and engineering services, such as transportation planning, design, traffic signals and program management, that any Metro department can use. It is worth up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "e380280aa7015e93",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

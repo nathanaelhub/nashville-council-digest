@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1820",
+ "source_hash": "b3f98fc36e760543",
+ "model": "sonnet",
+ "summary": "Approves a change to the sole source contract with Transportation Control Systems, Inc. for McCain traffic and pedestrian hardware, raising its value by $6 million from $2.5 million to $8.5 million. It also removes the requirement to list the project name, RFQ or contract number on the proof of insurance document.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.046,
+ "judge": {
+  "key": "5d7d9498e5fc6230",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

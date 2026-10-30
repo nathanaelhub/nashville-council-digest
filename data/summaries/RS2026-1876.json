@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1876",
+ "source_hash": "a6ca734b81c20971",
+ "model": "sonnet",
+ "summary": "Increases the Centennial Park Conservancy's grant to Metro Parks by $698,972, from $5,285,000 to $5,983,972, with no cash match. The money covers general construction expenses and pathways for the improvement project on Centennial Park's North Side.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0376,
+ "judge": {
+  "key": "3930008846b5af04",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

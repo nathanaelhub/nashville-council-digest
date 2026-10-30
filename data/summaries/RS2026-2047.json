@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2047",
+ "source_hash": "1e7b717822f5d397",
+ "model": "sonnet",
+ "summary": "Approves a change to the Nashville Public Library's grant contract with Water Walkers that adds $22,400 to the contract for summer programming in the Nashville After Zone Alliance. The contract goes from $27,100 to $49,500, which funds 20 summer spots.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0644,
+ "judge": {
+  "key": "2d94810f5b40927f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

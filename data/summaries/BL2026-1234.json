@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1234",
+ "source_hash": "ed8ee165e1c9ce46",
+ "model": "sonnet",
+ "summary": "Approves a contract with Volkert Inc. for technical and engineering services, such as design, construction inspection and surveying, that any Metro department can use, at up to $44.2 million. The contract runs three years with five one-year extension options, which goes past the usual 60-month limit.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.044,
+ "judge": {
+  "key": "c5a815edea479421",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1169",
+ "source_hash": "34ae5a4300bcbdc2",
+ "model": "sonnet",
+ "summary": "Applies a Commercial Compatibility Overlay District to various properties on Buchanan Street between 24th Ave N and 21st Ave North (4.17 acres).",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "d65eab9ea4139f65",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1315",
+ "source_hash": "9f7418701fb0ef55",
+ "model": "sonnet",
+ "summary": "Creates a program in Metro law that puts permit applications and department reviews for affordable housing projects and day care centers ahead of other applications, with affordable housing going first. The reviews themselves are not sped up, and the ordinance repeals the earlier Ordinance No. BL2019-1491, which set up a similar program without putting it in the code.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0893,
+ "judge": {
+  "key": "d0a9b4ddbdde46ab",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0105
+ }
+}

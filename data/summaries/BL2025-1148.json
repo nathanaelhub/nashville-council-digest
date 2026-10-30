@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1148",
+ "source_hash": "d23edbbfafe37a98",
+ "model": "sonnet",
+ "summary": "Rewrites Metro's sign rules in the zoning code, replacing the portable and temporary on-premise sign definitions with one \"temporary sign\" definition and limiting temporary signs to no more than 120 days a year. Sets window sign limits of 25% coverage and 5% illuminated area, updates election sign rules, and measures sign lighting in lumens instead of watts.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.045,
+ "judge": {
+  "key": "d725fa737ee8c0b1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

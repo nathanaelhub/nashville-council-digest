@@ -38,8 +38,14 @@ an overview is exactly the kind of text the checker can't verify.
 - **The city doesn't record which district an item is in,** and bill texts almost never name one.
   But zoning bills cite official parcels ("Parcel No. 086 as designated on Map 069-16") and other
   items give addresses, and Metro's parcel layer has a council district for each. That locates
-  99 of 103 site-specific zoning bills from July–October 2026; the other four describe unnumbered
-  land or whole corridors. Countywide legislation has no district, by design.
+  180 of 194 site-specific zoning bills from January–October 2026; most of the rest describe
+  unnumbered land, whole corridors or areas bounded by streets. Countywide legislation has no district, by design.
+- **The official record has its own errors.** Reading flagged summaries against their texts turned
+  up four: a Council Office analysis naming the wrong nonprofit for a grant (RS2026-2301), a
+  resolution and its analysis disagreeing on the Sheriff's pay (RS2026-2150), an analysis giving
+  4400 Harding Pike for an easement the ordinance puts at 4500 (BL2025-1158), and a rezoning whose
+  text says "RM20 RM9-NS" while its title says RM20 (BL2026-1552). Summaries are checked against
+  the ordinance or resolution text, not the analysis.
 - **Checking that a fact appears in the text isn't the same as checking it's attached to the
   right thing.** See the evaluation below: a dollar amount moved from one line of a bill to another
   passes the checker.
@@ -75,19 +81,13 @@ read by the judge (`council-digest judge`, `src/council_digest/judge.py`), and a
 is replaced by the official title, the same as one that fails the checker. The judge can only hold
 a summary back, never put one up, so its false alarms cost a plain-language summary, not accuracy.
 
-On October 30, 2026 it read all 522 published summaries ($3.49) and flagged 5. Reading each
-against its text:
-
-| File | Judge's point | Real problem? |
-|---|---|---|
-| BL2026-1434 | Notice goes to the owner of land *under* an easement, not "easement owners" | Yes |
-| BL2026-1614 | Building over utilities needs NDOT *and/or* Water's approval, not both | Yes, minor |
-| BL2026-1552 | Summary says "RM20 RM9-NS" | The bill's own text says "from AR2a to RM20 RM9-NS"; its title says RM20 |
-| RS2026-2347 | "Fix urgent problem spots" overstates "implement intervention tools" | Loose wording |
-| RS2026-2242 | "Extra rent" for what the lease calls supplemental rent | Loose wording |
-
-All five now show the official title. Verdicts are stored with each summary and keyed to its
-text, so a summary is judged again only if it or its text changes.
+On October 30, 2026 it read all 1,124 summaries that passed the checker ($7.57) and flagged 14.
+Reading each against its text: **6 real errors** the checker had passed, including a CMA Fest bill
+summary that made a firearms ban sound waivable; 1 copied from a garbled bill text; 3 loose
+wordings; and 4 false alarms where the judge's own explanation says it found nothing wrong. All 14
+now show the official title. Details: [`evals/results/2026-10-30-judge/review.md`](evals/results/2026-10-30-judge/review.md).
+Verdicts are stored with each summary and keyed to its text, so a summary is judged again only if
+it or its text changes.
 
 **What the judge found in the 80 real summaries.** It flagged 3. On reading each against its
 text: none was a wrong summary. One was a false alarm (its own explanation says so). Two were
@@ -106,8 +106,8 @@ uv run python evals/score.py evals/results/<date>
 
 ## Coverage and limits
 
-- Full-council meetings from July 7 to October 20, 2026 (8 meetings, 1,078 agenda items,
-  523 distinct bills and resolutions). Committees and the Planning Commission aren't included.
+- Full-council meetings from January 20 to October 20, 2026 (21 meetings, 2,500 agenda items,
+  1,125 distinct bills and resolutions). Committees and the Planning Commission aren't included.
 - Summaries describe what an item *does*, from its text. They don't explain why, who supports it,
   or what will happen; for that, follow the official record and the minutes.
 - Zoning codes (RS10, SP, R6-A) are explained under each card and on a [zoning terms](https://nathanaelhub.github.io/nashville-council-digest/zoning.html)

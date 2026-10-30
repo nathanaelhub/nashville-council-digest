@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1955",
+ "source_hash": "c04c1d46debfabc8",
+ "model": "sonnet",
+ "summary": "Commends the progress of the Jubilee Bridge Area Revitalization Project, led by World AfriCultural Community Project, to improve visibility and connections around the Fisk-Jubilee Bridge in North Nashville's Fisk-Meharry corridor.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0353,
+ "judge": {
+  "key": "cfac388617adfceb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

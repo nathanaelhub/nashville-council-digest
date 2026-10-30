@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1383",
+ "source_hash": "c9e35e20c6d5d37e",
+ "model": "sonnet",
+ "summary": "Renames Alley #659, from Wedgewood Avenue to Elliott Avenue, as \"Eliza Alley.\" The Department of Emergency Communications asked for the change because a new house was built off the alley with no street access, and the new name will help emergency services find it.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0663,
+ "judge": {
+  "key": "bed586fca90ca29c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

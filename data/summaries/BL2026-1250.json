@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1250",
+ "source_hash": "df4db0586cea1ab8",
+ "model": "sonnet",
+ "summary": "Rezones 408 Donelson Pike, about 140 feet south of Lakeland Drive (0.67 acres), from OL to MUL-A-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0387,
+ "judge": {
+  "key": "ac77a78f51eda54d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

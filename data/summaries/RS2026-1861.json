@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1861",
+ "source_hash": "cf1148acdd34fca7",
+ "model": "sonnet",
+ "summary": "Accepts a Tennessee Department of Human Services grant of up to $1,170,526 for the Davidson County Juvenile Court to set up and enforce child support program guidelines for children born out of wedlock. The grant requires a cash match of $602,998, and the Mayor is authorized to sign it.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0356,
+ "judge": {
+  "key": "0dd8a0e56e07a280",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

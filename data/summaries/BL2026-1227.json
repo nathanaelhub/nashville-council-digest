@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1227",
+ "source_hash": "d93f3a9f5ff1e773",
+ "model": "sonnet",
+ "summary": "Approves a contract with Johnson, Mirmiran & Thompson, Inc. for technical and engineering services that any Metro department can use, costing up to $44.2 million. It lasts three years, with five one-year extensions possible, and is paid from Fund 40025.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.041,
+ "judge": {
+  "key": "2ac9246a6a8982be",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

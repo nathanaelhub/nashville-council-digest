@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1840",
+ "source_hash": "40098224bb8f74b2",
+ "model": "sonnet",
+ "summary": "Gives The Hospitality Hub of Memphis another $1.5 million from federal American Rescue Plan funds, raising its grant contract to a maximum of $3,969,671. The money is for interim housing and case management services at 95 Wallace Road, and the contract term is extended to June 30, 2026.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "785f2072274ddb88",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

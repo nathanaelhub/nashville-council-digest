@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1750",
+ "source_hash": "cfdd44c321bf1b3d",
+ "model": "sonnet",
+ "summary": "Changes an earlier ordinance so Metro can accept about 1,303 feet of new eight-inch water main, about 1,280 feet of eight-inch sewer main, four fire hydrants and 11 sewer manholes at Milson Lane (unnumbered), Carothers Crossing Phase 10 Section 2A. The property was formerly listed as 7211 Carothers Road.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0604,
+ "judge": {
+  "key": "982cc96feb519bfc",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

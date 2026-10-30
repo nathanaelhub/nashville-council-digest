@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1763",
+ "source_hash": "7f85a136b6a8c835",
+ "model": "sonnet",
+ "summary": "Recognizes the Vanderbilt Commodores football team for its 2025 season of 10 wins, the most in school history.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0368,
+ "judge": {
+  "key": "a23c828e61a44978",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

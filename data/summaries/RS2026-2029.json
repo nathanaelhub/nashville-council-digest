@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2029",
+ "source_hash": "541f273b3d694546",
+ "model": "sonnet",
+ "summary": "Recognizes June 2026 as Immigrant Heritage Month in Nashville and Davidson County, noting that immigrants make up 15 percent of the county's population.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "722ddcb1ff3a6012",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

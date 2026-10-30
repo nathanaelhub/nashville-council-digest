@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1994",
+ "source_hash": "9f5354c990621ae3",
+ "model": "sonnet",
+ "summary": "Puts the Council on record denouncing the Tennessee General Assembly for passing a redistricting plan that splits Memphis and Shelby County into three congressional districts and dilutes their representation.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "2a7df0ebd31e0d1e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0086
+ }
+}

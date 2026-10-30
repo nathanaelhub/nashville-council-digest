@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1100",
+ "source_hash": "c8fc76c0bbae8473",
+ "model": "sonnet",
+ "summary": "Rezones 1435 Meridian Street, at the corner of Meridian Street and Gatewood Ave (0.18 acres), from RS5 to R6-A. The property is in a Detached Accessory Dwelling Unit Overlay District.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0603,
+ "judge": {
+  "key": "c7410e0a20a002b4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0081
+ }
+}

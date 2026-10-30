@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1256",
+ "source_hash": "a38ce15fb4008556",
+ "model": "sonnet",
+ "summary": "Lets licensed landscape architects, along with land surveyors and professional engineers, prepare and stamp plans for Tier I and Tier II residential infill development. Tier III plans must still be stamped by a professional engineer.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0696,
+ "judge": {
+  "key": "a9292c752c0cb2b4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1177",
+ "source_hash": "b40b357e03d4f42e",
+ "model": "sonnet",
+ "summary": "Rezones 308 Polk Avenue, at the corner of Polk Avenue and Whitney Avenue (0.39 acres), from R6 to RM9-A-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0347,
+ "judge": {
+  "key": "eb99db966e4064d4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

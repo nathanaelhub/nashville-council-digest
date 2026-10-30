@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1326",
+ "source_hash": "8be5d5d9d54b8c99",
+ "model": "sonnet",
+ "summary": "Changes the Downtown Code so subdistrict boundaries reach the centerline of nearby streets and rail corridors. Unassigned properties, such as railroad corridors, get the rules of the neighboring subdistrict, or the most restrictive one if they touch two or more.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0583,
+ "judge": {
+  "key": "b98c57db2388ebdd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

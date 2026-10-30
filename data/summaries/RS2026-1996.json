@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1996",
+ "source_hash": "cde5eea74631adf9",
+ "model": "sonnet",
+ "summary": "Honors the life of Frankie Mae Keeling-Henry, a Freedom Rider, educator and civil rights activist who died at 85, and offers condolences to her family.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "9cfd9506fed2bf55",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0086
+ }
+}

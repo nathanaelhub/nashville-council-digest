@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1998",
+ "source_hash": "b3bbb6febf9e110a",
+ "model": "sonnet",
+ "summary": "Recognizes May 2026 as Older Americans Month in Nashville and Davidson County and recognizes FiftyForward on its 70th anniversary.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0409,
+ "judge": {
+  "key": "76f64f31fc3a6bfa",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0086
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1956",
+ "source_hash": "f77db53cc2585785",
+ "model": "sonnet",
+ "summary": "Recognizes May 2026 as Jewish American Heritage Month in Nashville and Davidson County, noting that the Jewish Federation of Greater Nashville and local partners are planning community-wide events.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0544,
+ "judge": {
+  "key": "741f6bc9b761fd32",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1798",
+ "source_hash": "b47d6bd279d42c3e",
+ "model": "sonnet",
+ "summary": "Urges the President of the United States to approve federal help through the Federal Emergency Management Agency for people affected by Winter Storm Fern, which hit Nashville and Davidson County on January 24 and 25, 2026.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0505,
+ "judge": {
+  "key": "59648fd700a356b3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

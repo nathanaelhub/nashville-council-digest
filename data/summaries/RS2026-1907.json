@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1907",
+ "source_hash": "4577e290cff7e896",
+ "model": "sonnet",
+ "summary": "Gives $375,000 from the Community Safety Fund to Gideon's Army Grassroots Army for Children for a trauma informed, youth led workforce and leadership program meant to reduce and mitigate violence. The program is for 30 justice-impacted or violence-impacted youth ages 14 to 24 and includes six months of workforce development.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0391,
+ "judge": {
+  "key": "454318333db01113",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

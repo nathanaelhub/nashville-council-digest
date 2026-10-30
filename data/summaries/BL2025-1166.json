@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1166",
+ "source_hash": "2e9de23b2bb81b91",
+ "model": "sonnet",
+ "summary": "Rezones 114 Rose Street, about 160 feet east of Foster Avenue (0.34 acres), from RS5 to R6-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0402,
+ "judge": {
+  "key": "aecac761723983b5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

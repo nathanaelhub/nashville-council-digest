@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1274",
+ "source_hash": "6051da282043cbd0",
+ "model": "sonnet",
+ "summary": "Rezones 524 High Street, about 42 feet northeast of Mays Street (0.16 acres), from RS7.5 to R6-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0364,
+ "judge": {
+  "key": "e91a251f9bd1f72e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

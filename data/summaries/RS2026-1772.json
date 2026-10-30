@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1772",
+ "source_hash": "e2f2a6aff2fdaa39",
+ "model": "sonnet",
+ "summary": "Authorizes Metro to issue general obligation refunding bonds of up to $825 million in multiple series, to refund some of its outstanding bonds, including Series 2016, 2017, 2018, 2021B and 2021C, in order to save on debt payments.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0627,
+ "judge": {
+  "key": "11a8ba39ff64ce3e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

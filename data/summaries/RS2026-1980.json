@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1980",
+ "source_hash": "91c344504fbc62a0",
+ "model": "sonnet",
+ "summary": "Approves a change to the sole source contract with NuOrigin Systems, Inc. for maintenance, support and upgrades of key applications for the transportation department. It adds $550,000, for a new total of $2,050,000, and removes a requirement about what must appear on the ACORD document.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0507,
+ "judge": {
+  "key": "f58a20b9ef56b749",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1914",
+ "source_hash": "9b3d6f6aaff91316",
+ "model": "sonnet",
+ "summary": "Approves an application for a $474,455 Victims of Crime Act grant from the Tennessee Department of Finance and Administration, Office of Criminal Justice Programs, for the Metro Police Department. The grant would pay for counselor and victim advocate positions, supplies, and travel, and needs no cash match.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0406,
+ "judge": {
+  "key": "2590680031abfeed",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1950",
+ "source_hash": "c8b520ba27296462",
+ "model": "sonnet",
+ "summary": "Allows Metro to accept about 149 feet of new one and one half-inch sewer force main at Old Hickory Blvd (unnumbered), also known as Christ Church.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.037,
+ "judge": {
+  "key": "edd9eea399a50940",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1829",
+ "source_hash": "378347c5d5f491c8",
+ "model": "sonnet",
+ "summary": "Approves a second amendment to Grant Contract #L-6377 with Youth Villages, adding $4,500 and raising the total from $48,600 to $53,100. The grant pays for in-home services for youth and families tied to the Davidson County Juvenile Court High Risk GRIP project.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0363,
+ "judge": {
+  "key": "18de9c912d7b7742",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

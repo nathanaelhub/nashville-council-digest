@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1738",
+ "source_hash": "be3b98cb560da13b",
+ "model": "sonnet",
+ "summary": "Approves an agreement with the state Department of Transportation for maintaining safety improvements at 37 signalized intersections in Nashville and Davidson County. Metro's transportation department will be responsible for maintenance of the work the state installs.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0413,
+ "judge": {
+  "key": "3b1775f0745d9c1e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

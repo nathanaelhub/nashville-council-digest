@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1865",
+ "source_hash": "82b0d82eb51b736c",
+ "model": "sonnet",
+ "summary": "Approves a first amendment to the affordable housing grant contract with The William Franklin Buchanan Community Development Corporation, which got $7 million for 60 units of affordable cooperative housing in Goodlettsville. It extends the deadline to create the limited equity cooperative and the contract term from December 30, 2025 to June 30, 2027.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0356,
+ "judge": {
+  "key": "29797d358e2334e7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1777",
+ "source_hash": "36dc3d8831cd93d2",
+ "model": "sonnet",
+ "summary": "Approves an agreement with the Tennessee Department of Transportation to repair pavement failures and resurface 3.64 miles of Cane Ridge Road, from Bell Rd to Old Hickory Blvd. The project is estimated to cost $1,847,600, and Metro would pay $36,952, or 2%.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0463,
+ "judge": {
+  "key": "c9dfacf707e91a28",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

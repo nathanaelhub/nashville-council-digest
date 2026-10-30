@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1225",
+ "source_hash": "fbc38fe829d467db",
+ "model": "sonnet",
+ "summary": "Approves a contract with Barge Design Solutions, Inc. for technical and engineering services such as transportation planning, design, traffic signals, construction inspection and survey work. Pays up to $44.2 million, runs three years with five one-year extensions, and any Metro department can use it.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0401,
+ "judge": {
+  "key": "a89e78c210c5255e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

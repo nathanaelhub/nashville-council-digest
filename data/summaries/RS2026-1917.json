@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1917",
+ "source_hash": "fd0d48f9221e1618",
+ "model": "sonnet",
+ "summary": "Approves an application for a $300,000 grant from the U.S. Department of Justice for the Metro Police Department's Crime Gun Intelligence Center. The money would help the center more quickly identify, investigate, and prosecute people who commit gun-related violent crimes through better technology, staffing, and teamwork with other agencies, with no cash match required.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0406,
+ "judge": {
+  "key": "16127acd82b5353e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

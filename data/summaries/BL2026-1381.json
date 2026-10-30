@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1381",
+ "source_hash": "e9af710159a9520e",
+ "model": "sonnet",
+ "summary": "Approves the Fiscal Year 2027 budget for the Gulch Central Business Improvement District, which may not spend more than the special assessments it actually collects. The budget expects revenues and expenses of $792,138 from property owners in the Gulch through December 31, 2026.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0663,
+ "judge": {
+  "key": "29b1567873c0c834",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

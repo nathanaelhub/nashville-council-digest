@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1296",
+ "source_hash": "fe55804db5bbdc15",
+ "model": "sonnet",
+ "summary": "Requires the Planning Department to email the district council member within two business days when Planning or the Department of Law decides a condition or feature of an approved specific plan (SP) zoning district is unenforceable.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0609,
+ "judge": {
+  "key": "ad91bd08a2c3276b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

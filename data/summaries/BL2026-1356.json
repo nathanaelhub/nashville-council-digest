@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1356",
+ "source_hash": "2c5cdcd127615a16",
+ "model": "sonnet",
+ "summary": "Changes appraisal rules for right-of-way purchases by the Nashville Department of Transportation and Multimodal Infrastructure (NDOT) and Choose How You Move projects that use only local funds. Shorter appraisal reports would be allowed for sidewalk projects and for property worth less than $35,000, and temporary construction easements would be exempt from the appraisal rules.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.1241,
+ "judge": {
+  "key": "36c0e9952a35824e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0125
+ }
+}

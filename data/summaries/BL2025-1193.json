@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1193",
+ "source_hash": "fea61f9616a50163",
+ "model": "sonnet",
+ "summary": "Lets Metro give up a 10-foot stormwater quality access easement and a 3,428-square-foot stormwater drainage easement at 550 Great Circle Road, which are no longer needed. The property owner, Metro Center North Owner, LLC, asked for this.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0397,
+ "judge": {
+  "key": "ed445d77dee25a16",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
+}

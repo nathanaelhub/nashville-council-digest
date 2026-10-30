@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1951",
+ "source_hash": "3d813d432d9713f7",
+ "model": "sonnet",
+ "summary": "Allows Metro to accept about 574 feet of new one and one half-inch sewer force main and about 60 feet of new one and one quarter-inch sewer force main. They serve 9861 Split Log Road and 1565 Sunset Road in Williamson County.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.037,
+ "judge": {
+  "key": "e9160e8e56c5400f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

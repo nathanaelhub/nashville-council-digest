@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1160",
+ "source_hash": "7c1635a0cc119a27",
+ "model": "sonnet",
+ "summary": "Accepts new public water and sewer lines, four fire hydrant assemblies and easements at 4144 Maxwell Road and 4316 Lavergne Couchville Pike, known as Martin's Grove. That includes about 2,220 feet of eight-inch water main and about 474 feet and 1,515 feet of sewer force main, at no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0739,
+ "judge": {
+  "key": "5d9e48f534447759",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

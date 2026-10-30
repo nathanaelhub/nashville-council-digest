@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1877",
+ "source_hash": "45683eed42f7f695",
+ "model": "sonnet",
+ "summary": "Raises the value of an in-kind grant from the Cumberland River Compact from $8,000 to $22,000 for improvements to the restroom in the Quonset Hut in Shelby Park. No cash match is required, and the Compact is responsible for repairs, winterization and general maintenance of the bathroom.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0376,
+ "judge": {
+  "key": "63c5ae92b12bec56",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

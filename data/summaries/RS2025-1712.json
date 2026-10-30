@@ -1,0 +1,18 @@
+{
+ "file": "RS2025-1712",
+ "source_hash": "6b88cf42ff00f9af",
+ "model": "sonnet",
+ "summary": "Opposes The Boring Company's proposed Music City Loop tunnel, citing concerns about safety, labor practices, transparency, environmental and geological risk, and lack of engagement with residents and the Council. Asks the company to hold public briefings, release its studies, show it follows fair labor standards, communicate with all Council Members, and give plans for delay or abandonment.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0464,
+ "judge": {
+  "key": "301eab8962da5c84",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

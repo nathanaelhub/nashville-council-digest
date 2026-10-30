@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1752",
+ "source_hash": "fdb95c0848943c05",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 108 feet of existing six-inch water main and accept about 109 feet of new six-inch water main for 19 properties at 388 Ewing Drive, also known as Ewing Villas.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0604,
+ "judge": {
+  "key": "4697516fe5775148",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

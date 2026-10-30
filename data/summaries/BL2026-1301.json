@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1301",
+ "source_hash": "91ef935370523272",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 90 feet of new eight-inch sewer main, about 33 feet of another eight-inch sewer main, three sewer manholes and easements at 516 Meridian Street. It has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0398,
+ "judge": {
+  "key": "ea4018f17f887f32",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

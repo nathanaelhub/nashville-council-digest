@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1173",
+ "source_hash": "40913f3e402e9280",
+ "model": "sonnet",
+ "summary": "Rezones 308 Peachtree Street, about 212 feet west of Burbank Avenue (0.26 acres), from RS5 to R6-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0347,
+ "judge": {
+  "key": "534c62ff4f68d6ae",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

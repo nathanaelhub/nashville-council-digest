@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1342",
+ "source_hash": "146383028fd63f4d",
+ "model": "sonnet",
+ "summary": "Rezones about 50 acres at 3033, 3221 and 3255 Melvin Road and 6227, 6237 and 6317 North New Hope Road, plus two unnumbered parcels, from RS80 and RS15 to a specific plan (SP) allowing up to 164 single-family lots. Short-term rentals are banned, and maximum height is set at 3 stories in 35 feet.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "ca5314cf12ad7c6f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

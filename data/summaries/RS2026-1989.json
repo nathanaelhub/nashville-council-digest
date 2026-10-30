@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1989",
+ "source_hash": "983e40e6f690b064",
+ "model": "sonnet",
+ "summary": "Changes an earlier ordinance for 39th Avenue North (unnumbered) so Metro abandons about 1,018 feet of two-inch water main and 40 feet of six-inch main, and accepts about 449 feet of new eight-inch main and one fire hydrant assembly.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0436,
+ "judge": {
+  "key": "05370e4c9dea87f5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
+ }
+}

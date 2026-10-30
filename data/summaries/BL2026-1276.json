@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1276",
+ "source_hash": "ec422f2b4a44cc9a",
+ "model": "sonnet",
+ "summary": "Sets building material rules for the West Campbell Road Specific Plan (BL2026-1275): building facades must be brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless detailed building elevations in the preliminary SP show otherwise.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "0d9270c42be8b8b7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

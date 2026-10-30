@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2021",
+ "source_hash": "23fb6e048ab1c902",
+ "model": "sonnet",
+ "summary": "Lets Nite Vibes LLC remove a parking sign and put up a projecting sign at the same height over the public right-of-way at 207 Printers Alley. The company must carry at least $2 million in liability insurance and cover all costs.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "e4d355a5d1911052",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

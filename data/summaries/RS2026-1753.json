@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1753",
+ "source_hash": "2bb3133f34cbca73",
+ "model": "sonnet",
+ "summary": "Changes an earlier ordinance (BL2024-358) so Metro can accept about 1,292 linear feet of new eight-inch water main, about 105 linear feet and about 990 linear feet of new eight-inch sanitary sewer main, six fire hydrant assemblies, and thirteen sanitary sewer manholes and easements. The project is now at Goswell Drive (unnumbered), Carothers Crossing Phase 5B, Rev. 1, instead of 7211 Carothers Road.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0604,
+ "judge": {
+  "key": "8230cf85c05b8f40",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

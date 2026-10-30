@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1298",
+ "source_hash": "a354cc70c83f2bf2",
+ "model": "sonnet",
+ "summary": "Approves a second change to Metro's contract with Motorola Solutions, Inc. for the 800Mhz public safety radio system upgrade and maintenance. It extends the contract to July 1, 2026 (63 months) and adds $795,735, for a new total of $33,735,921.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0398,
+ "judge": {
+  "key": "0aab5abe1cd509c2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

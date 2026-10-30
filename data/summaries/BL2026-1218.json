@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1218",
+ "source_hash": "43de0d20a30b15ac",
+ "model": "sonnet",
+ "summary": "Approves a contract with Collier Engineering Co., Inc. for technical and engineering services, paid up to $44.2 million, that any Metro department can use. It lasts three years with five one-year extensions, and covers planning, design, traffic signals, construction inspection, communications, surveys and program management.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0404,
+ "judge": {
+  "key": "ec0e51d647e831e0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

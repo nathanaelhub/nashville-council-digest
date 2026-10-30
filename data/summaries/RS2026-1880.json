@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1880",
+ "source_hash": "2b09192306b7da82",
+ "model": "sonnet",
+ "summary": "Approves an agreement for the Metro Police Department to use Middle Tennessee State University's Tennessee Miller Coliseum for mounted patrol training from October 4, 2026, to October 8, 2026. Metro pays $18 per day for stalls, $30 per day for RV hookups, and the current rate for bagged shavings.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0495,
+ "judge": {
+  "key": "2d33603b854e5141",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

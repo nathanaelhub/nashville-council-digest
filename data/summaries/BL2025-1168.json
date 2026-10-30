@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1168",
+ "source_hash": "9846bcf51d44e33c",
+ "model": "sonnet",
+ "summary": "Applies a Commercial Compatibility Overlay District to various properties on Buchanan Street between 21st Ave N and Interstate 65 (15.58 acres).",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "8185dbddbc849ff9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

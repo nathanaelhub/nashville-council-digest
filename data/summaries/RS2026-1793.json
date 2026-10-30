@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1793",
+ "source_hash": "9da44dd58c76e84a",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant worth up to $45,000 from the Nashville Police + Public Safety Alliance so Metro police personnel can use Care.com digital resources to connect with care providers and online content. No cash match is required, and the grant term runs from March 1, 2026, to February 28, 2027.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0379,
+ "judge": {
+  "key": "14c06474028aee40",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

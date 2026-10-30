@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1969",
+ "source_hash": "f175bc8744c2a258",
+ "model": "sonnet",
+ "summary": "Approves a second amendment to the contract with The Village at Glencliff for homelessness medical respite services. It extends the contract by twelve months to May 28, 2027, raises its value by $237,600 to a total of $712,700, and removes the requirement to list the project name, RFQ or contract number on the ACORD document.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0351,
+ "judge": {
+  "key": "2d572c75dacc3e95",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

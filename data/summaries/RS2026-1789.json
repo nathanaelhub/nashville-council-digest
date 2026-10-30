@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1789",
+ "source_hash": "2c8fd1b838786632",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant of up to $3.5 million from the Nashville Public Library Foundation to the Nashville Public Library for program enhancements and improvements. No cash match is required, and the grant period runs from July 1, 2025, to June 30, 2026.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0379,
+ "judge": {
+  "key": "8ebfdbc412deb7f8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

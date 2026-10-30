@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1932",
+ "source_hash": "6aa3eb3d377642bf",
+ "model": "sonnet",
+ "summary": "Approves an application by the Metropolitan Historical Commission to the National Trust for Historic Preservation for a $110,000 grant to study Nashville and Davidson County's historical African American cemeteries. The grant requires a cash match of $5,800.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0673,
+ "judge": {
+  "key": "0bc6b8bb1e3577f2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

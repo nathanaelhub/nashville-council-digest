@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1818",
+ "source_hash": "2d29f02224aa7720",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $107,000 from the Nashville Police + Public Safety Alliance to the Metro Police Department to pay an outside laboratory or laboratories to test sexual assault kits. No cash match is required.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.046,
+ "judge": {
+  "key": "e179ca15bc44ca33",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

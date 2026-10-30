@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1277",
+ "source_hash": "bffda0adf7b817e9",
+ "model": "sonnet",
+ "summary": "Rezones 0.73 acres at 4206 Hermitage Road, about 455 feet north of Lebanon Pike, from R10 to CS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "224c6620da316285",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

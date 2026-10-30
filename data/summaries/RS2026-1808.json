@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1808",
+ "source_hash": "8769e132de002640",
+ "model": "sonnet",
+ "summary": "States Metro's intent to issue revenue bonds, notes or other obligations of up to $140 million, as the Electric Power Board requested, to pay for repairs to the electric system after the January 25, 2026 ice storm. It also lets the Electric Power Board be repaid from the proceeds for repair costs it paid beforehand.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0501,
+ "judge": {
+  "key": "16e7f9e25dcddb71",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

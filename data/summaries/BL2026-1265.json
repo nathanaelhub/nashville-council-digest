@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1265",
+ "source_hash": "d2c2be1e34e76c14",
+ "model": "sonnet",
+ "summary": "Requires building facades at 1004 and 1104 Cass Street, at the northwest corner of Cass Street and Owen Street (0.38 acres), to be made of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless other materials are approved on the detailed building elevations with the preliminary plan.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.038,
+ "judge": {
+  "key": "9164ba3a3643729c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

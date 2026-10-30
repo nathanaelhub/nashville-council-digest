@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1755",
+ "source_hash": "2e893497a2821d45",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 55 feet of new eight-inch sewer pipe and one new manhole for the property at 1013 C Summit Avenue.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0509,
+ "judge": {
+  "key": "c326ed51e909f3f1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

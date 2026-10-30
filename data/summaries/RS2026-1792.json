@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1792",
+ "source_hash": "a55b5d37cfed5b04",
+ "model": "sonnet",
+ "summary": "Approves a sole source contract with GovCIO LLC for maintenance and support of the ATS Voyager Message Switch and its interfaces, which the police department uses. The contract is estimated at $356,000 and lasts 60 months.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0379,
+ "judge": {
+  "key": "d616cbc26be11e1e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

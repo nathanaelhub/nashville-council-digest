@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1339",
+ "source_hash": "8f38e10b8d0dffc0",
+ "model": "sonnet",
+ "summary": "Amends a Specific Plan on 21.95 acres at 915 and 927 Skyline Ridge Drive, about 911 feet west of Skyline Memorial Court, to allow 280 multi-family homes. It bans short-term rentals, keeps 8.9 acres in the north as undisturbed open space, and sets other conditions.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.041,
+ "judge": {
+  "key": "820f7168dfd3b12f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

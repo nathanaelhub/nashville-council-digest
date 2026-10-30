@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1146",
+ "source_hash": "50f810b15717781f",
+ "model": "sonnet",
+ "summary": "Creates a Detached Accessory Dwelling Unit Exclusion Overlay district that bans detached accessory dwelling units in the area it covers. It can only apply to connected lots in zoning districts that allow them, and not to specific plan (SP) districts.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.045,
+ "judge": {
+  "key": "839bf6ba0e51f328",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

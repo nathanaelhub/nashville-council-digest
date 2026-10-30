@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1882",
+ "source_hash": "3dc7fcbc9dc6e2ce",
+ "model": "sonnet",
+ "summary": "Accepts a purchasing agreement between Sourcewell and Populus Technologies, Inc. so the Department of Transportation and Multimodal Infrastructure can buy curb and mobility management systems. The expected value is $200,000, with estimated savings of $80,071, and the agreement ends January 15, 2028.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0495,
+ "judge": {
+  "key": "f3231692894f14f6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

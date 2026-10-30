@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1926",
+ "source_hash": "8cc128b976fb8678",
+ "model": "sonnet",
+ "summary": "Accepts the terms of an agreement between For The Record, Ltd. and the United States General Services Administration so Metro can buy courtroom audio and visual equipment, service and storage for the State Trial Courts. The expected project value is $3.6 million, and the agreement ends November 13, 2028.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.049,
+ "judge": {
+  "key": "fad53371eadcf7ce",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

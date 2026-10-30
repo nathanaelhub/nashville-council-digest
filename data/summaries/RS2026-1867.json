@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1867",
+ "source_hash": "2f9576984c2b730b",
+ "model": "sonnet",
+ "summary": "Approves a 60-month contract with Grand Central Party Rental, Inc. dba Grand Tent Event to rent tents to Metro, including delivery, set-up, tear-down and site clean-up. The estimated value is $500,000.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0452,
+ "judge": {
+  "key": "55bd64e2f9dc9e39",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

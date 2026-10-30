@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1848",
+ "source_hash": "dae90bfe221c178d",
+ "model": "sonnet",
+ "summary": "Accepts a Edward Byrne Memorial Justice Assistance Grant of up to $59,991 from the Tennessee Office of Criminal Justice Programs for the Police Department. It pays for stress management training for peer supporters, chaplains, and support staff, with no cash match required.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0461,
+ "judge": {
+  "key": "3271f359a63b527d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

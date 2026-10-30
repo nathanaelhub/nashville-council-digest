@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1832",
+ "source_hash": "1c0635c052f634c0",
+ "model": "sonnet",
+ "summary": "Approves an agreement between the Metro Board of Health and Vanderbilt University Medical Center to set up a worksite medication dispensing point during a public health emergency. Metro's health department would receive, repackage and send out the medicine, and Vanderbilt would pick it up and give it out. The agreement starts December 1, 2025 and runs 60 months.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0448,
+ "judge": {
+  "key": "c6c4b647f8eff6cf",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

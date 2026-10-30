@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1239",
+ "source_hash": "6030727935657110",
+ "model": "sonnet",
+ "summary": "Gives up Metro's rights to an existing 10-foot public utility and drainage easement at 3801 Cleghorn Avenue, as requested by the owner, CHSL Cleghorn Hotel Partners, LLC.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.065,
+ "judge": {
+  "key": "760753d4e3a72e4a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

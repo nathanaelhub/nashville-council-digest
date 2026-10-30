@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1972",
+ "source_hash": "b9e152220ffdf660",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant worth up to $5,600 from the Friends of Sevier Park. It covers supplies and equipment for the Sevier Park Community Center ($5,000) and a wheel kit for the newly installed soccer goals ($600).",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0351,
+ "judge": {
+  "key": "d20cd56a4ec8127a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1871",
+ "source_hash": "d178425eb1b9d7b5",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $1,311,652 from the U.S. Department of Health and Human Services, with no cash match, for the Metropolitan Board of Health. The money is for HIV/AIDS prevention, surveillance, diagnosis and treatment, and a Minority AIDS Initiative program, and the grant period is March 1, 2026, to February 28, 2027.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0452,
+ "judge": {
+  "key": "b3dcd991b586897d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

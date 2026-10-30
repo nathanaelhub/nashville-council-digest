@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1878",
+ "source_hash": "98e9076b68a95cb4",
+ "model": "sonnet",
+ "summary": "Approves a change to the Nashville Parks Foundation's in-kind grant for the second phase of the Watkins Park Pump Track, raising its estimated maximum value from $200,000 to $600,000. The Foundation pays for the project directly, so no money goes to Metro.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0495,
+ "judge": {
+  "key": "fb8b6e9a88089684",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

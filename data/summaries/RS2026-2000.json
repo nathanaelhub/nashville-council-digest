@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2000",
+ "source_hash": "5da181ad4d3f762f",
+ "model": "sonnet",
+ "summary": "Gives $372,000 from the Administration Fund to The Community Foundation of Middle Tennessee, Inc. to review how human and social services groups, including Metro, are responding to community needs. It also approves the grant contract and project proposal.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0653,
+ "judge": {
+  "key": "503566e20c5f0be1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.01
+ }
+}

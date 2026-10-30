@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1766",
+ "source_hash": "c907ed21edf4e377",
+ "model": "sonnet",
+ "summary": "Lets Metro, including the Waste Services Department, buy and use route management software with street-facing cameras to confirm waste receptacles are emptied, through a cooperative agreement with Routeware, Inc. The anticipated project value is $4 million and the agreement would expire April 30, 2029.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "1933ce20b716e0e4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

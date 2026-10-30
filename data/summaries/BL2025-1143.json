@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1143",
+ "source_hash": "da86f9a4b43285c7",
+ "model": "sonnet",
+ "summary": "Updates the Regulating Plan and subdistrict designations of the River North Urban Design Overlay, which covers 165.21 acres on Cowan Street, Waterside Drive, Oldham Street, North 1st Street, River North Boulevard, Spring Street, and Cowan Court.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0718,
+ "judge": {
+  "key": "2a7732eeb264a171",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0081
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1936",
+ "source_hash": "5c26720c7cf057e5",
+ "model": "sonnet",
+ "summary": "Gives $400,000 more to Safe Haven Family Shelter for hotel rooms across the Nashville area that serve as emergency shelter for families with minor children. The contract total rises to $1,236,400 and the term is extended by 12 months, to 36 months in all.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0458,
+ "judge": {
+  "key": "235ee5c5d4f1e8d7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.008
+ }
+}

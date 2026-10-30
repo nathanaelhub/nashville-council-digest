@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1727",
+ "source_hash": "d8fa6032ae886480",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $500 from Jennifer McMurray to the Metropolitan Board of Health for the Pet Pantry Program. No local cash match is required.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0341,
+ "judge": {
+  "key": "f92340db39592c50",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

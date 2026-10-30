@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1915",
+ "source_hash": "2bbf219013c1dc65",
+ "model": "sonnet",
+ "summary": "Approves an application for a $156,401 Project Safe Neighborhoods grant from the Tennessee Office of Criminal Justice Programs for the Metro Police Department. The money would pay for overtime to investigate violent crimes involving guns and for better data analysis, with no cash match required.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0406,
+ "judge": {
+  "key": "91ef265a42232690",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

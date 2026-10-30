@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1843",
+ "source_hash": "325acffb5935b518",
+ "model": "sonnet",
+ "summary": "Accepts a cooperative purchasing agreement with United Parcel Service, Inc. for express courier and ground delivery services, requested by the Nashville Public Library but open to all Metro departments. The expected project value is $100,000, with estimated savings of $22,517, and the agreement expires November 11, 2026.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0511,
+ "judge": {
+  "key": "35d80e75cbf2824e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

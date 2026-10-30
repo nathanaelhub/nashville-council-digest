@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1719",
+ "source_hash": "3825ff0cde2fed0c",
+ "model": "sonnet",
+ "summary": "Exempts 1824 Kitchen + Kocktails at 1824 Jefferson Street from the minimum distance rules for getting a beer permit, and tells the Clerk to send a copy to the Executive Director of the Metropolitan Beer Board.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0603,
+ "judge": {
+  "key": "a33e934753e2f5f3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0081
+ }
+}

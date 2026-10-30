@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1913",
+ "source_hash": "8d33821068d87507",
+ "model": "sonnet",
+ "summary": "Approves an agreement for Metro police to work extra-duty patrols at U.S. Army Corps of Engineers recreation areas at J. Percy Priest and Old Hickory Lakes. The Corps pays MNPD for the services, and the agreement runs from April 1, 2026 through March 2027, with a possible one-year extension.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "2e93a4765307a277",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

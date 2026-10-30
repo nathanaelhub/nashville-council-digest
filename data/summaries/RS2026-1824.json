@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1824",
+ "source_hash": "114a7d6b7e414169",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle David Gonzales's property damage claim for $36,612, paid from the Self-Insured Liability Fund. A water main broke on July 2, 2025 in the yard at 3721B Estes Road, and water damaged the foundation and crawlspace of his home at 3719 Estes Road.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0609,
+ "judge": {
+  "key": "88192a5269cb697c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

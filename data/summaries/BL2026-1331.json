@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1331",
+ "source_hash": "442353594b27bf8a",
+ "model": "sonnet",
+ "summary": "Abandons about 0.22 miles of old Newsom Station Road right-of-way between Newsom Station Road and Interstate I-40, as requested by Branstetter Legacy Partners LLC. Metro keeps its utility easements, and the applicant has committed to keep a permanent access easement to the existing cemetery.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0444,
+ "judge": {
+  "key": "417bc4551a9d52f3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0091
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1144",
+ "source_hash": "b25672ab64f891f8",
+ "model": "sonnet",
+ "summary": "Requires building faces in the River North Urban Design Overlay that can be seen from a public street, open space, or interstate to be made of materials such as masonry, textured metal, metal paneling, or precast concrete, or similar materials. Clear windows are not covered, and spandrel glass is allowed on upper stories only.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0718,
+ "judge": {
+  "key": "c58b80ee63d86772",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0081
+ }
+}

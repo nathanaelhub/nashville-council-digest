@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1911",
+ "source_hash": "bb5088a91c5f43d4",
+ "model": "sonnet",
+ "summary": "Approves an application to the State of Tennessee for a $309,500 Victims of Crime Act grant for the Office of Family Safety, with no cash match required. If awarded, it would pay the salaries of three advocates at the Family Safety Centers.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "b428b1be97eb704d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

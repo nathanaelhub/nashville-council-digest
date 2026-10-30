@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1850",
+ "source_hash": "66cdf5182a814d8b",
+ "model": "sonnet",
+ "summary": "Allows 730 Main Street Investments, LLC to build and keep a projecting sign that extends into the public right-of-way at 730-B Main Street. The company must carry at least $2 million in liability insurance and cover all costs and claims tied to the sign.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0461,
+ "judge": {
+  "key": "750b83428d157bd9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

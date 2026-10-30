@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1925",
+ "source_hash": "c61d2a870eef3ba0",
+ "model": "sonnet",
+ "summary": "Recognizes the contributions of linemen and names April 18, 2026, National Lineman Appreciation Day in Nashville and Davidson County. It notes their work during Winter Storm Fern and in keeping the power on.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0439,
+ "judge": {
+  "key": "aedc9cb5ebf84a73",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0125
+ }
+}

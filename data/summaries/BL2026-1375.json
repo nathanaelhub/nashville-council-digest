@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1375",
+ "source_hash": "86cac15d74637267",
+ "model": "sonnet",
+ "summary": "Accepts about 1,282 feet of new eight-inch water main, about 1,480 feet of new eight-inch sewer main, three fire hydrants, 12 manholes and easements at 401C Friendship Drive (Kings Lane SP). It costs Metro nothing.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "b29758d66d1a23c9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

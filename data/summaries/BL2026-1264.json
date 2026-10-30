@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1264",
+ "source_hash": "5f02ae5353d439ec",
+ "model": "sonnet",
+ "summary": "Rezones 1004 and 1104 Cass Street, at the northwest corner of Cass Street and Owen Street (0.38 acres), from R6 to SP zoning to allow up to eight multi-family homes. Short-term rentals are banned, and the ordinance lists conditions the plans must meet.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.038,
+ "judge": {
+  "key": "86a3a7a466d8fac2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

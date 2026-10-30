@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1765",
+ "source_hash": "7e901280e5e4e763",
+ "model": "sonnet",
+ "summary": "Honors John Early Museum Magnet Middle School for 90 years of education in Nashville and Davidson County.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0603,
+ "judge": {
+  "key": "ef3fef44997fe819",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

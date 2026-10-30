@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1158",
+ "source_hash": "c0c4302a611e6922",
+ "model": "sonnet",
+ "summary": "Accepts a donated greenway conservation easement of 0.58 acres from BMTN OWNER, LLC at 4500 Harding Pike, for greenway improvements. It costs Metro nothing.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0739,
+ "judge": {
+  "key": "40e35d076ceff9fe",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The official title and text place BMTN OWNER, LLC's property at 4500 Harding Pike. The summary says 4500 Harding Pike, which matches the text. The agenda analysis says 4400, but the text governs. On re-check this is consistent, so the only real issue is none.",
+  "cost_usd": 0.0083
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1803",
+ "source_hash": "82e1f68c8348b70c",
+ "model": "sonnet",
+ "summary": "Recognizes Lunar New Year 2026, the Year of the Horse, which fell on February 17, 2026, and wishes everyone who observes it a happy and prosperous new year.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0505,
+ "judge": {
+  "key": "7e1deaf5f4db5b02",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0072
+ }
+}

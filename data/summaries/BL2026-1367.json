@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1367",
+ "source_hash": "baf92707dc8545be",
+ "model": "sonnet",
+ "summary": "Lets Metro give up about 361 feet of old six-inch water main, one sewer manhole and easements, and accept about 364 feet of new eight-inch water main, one fire hydrant assembly, one sewer manhole and easements at 110 Tune Airport Drive. The text says this has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0544,
+ "judge": {
+  "key": "b56d404cc95f567e",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "Summary says Metro will 'give up' the old water main, manhole and easements, but the text says Metro abandons them. More importantly it frames it loosely; the core accuracy is fine, but 'give up' is not the same as abandonment of public infrastructure/easements. Otherwise quantities match.",
+  "cost_usd": 0.006
+ }
+}

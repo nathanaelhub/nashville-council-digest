@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1855",
+ "source_hash": "aedd723fdf7587e5",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 1,889 feet of new eight-inch sewer pipe (PVC), about 1,537 feet of new eight-inch sewer pipe (DIP) and 20 manholes for three properties at 2183 Kidd Road, Fly Road (unnumbered) and Kidd Road (unnumbered) in Williamson County, known as 2183 Kidd Road Phase 2.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0393,
+ "judge": {
+  "key": "84f4ef5d07e9c3f9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

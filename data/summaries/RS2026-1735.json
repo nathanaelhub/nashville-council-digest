@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1735",
+ "source_hash": "40b1092b2c990f3d",
+ "model": "sonnet",
+ "summary": "Accepts a $2 million donation from the Nashville Downtown Partnership, Inc. to the Metro Police Department to help buy a mobile command post. It is made up of two 48-foot ATC command/office trailers and two Ford F-550s (or equivalent vehicles).",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "9cdfe20dfc698288",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1118",
+ "source_hash": "be46f4d2dc11cf4f",
+ "model": "sonnet",
+ "summary": "Approves a lease letting Powers Management, LLC run the hockey rinks and practice facility at the Centennial Sportsplex, 222 25th Avenue North, from July 1, 2025 to June 30, 2049. The company pays $10 a year in rent, covers operating costs and the initial capital improvements, and Metro gets 25% of net operating revenue above the first $500,000.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0739,
+ "judge": {
+  "key": "d5f39c82d6c55d6c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
+}

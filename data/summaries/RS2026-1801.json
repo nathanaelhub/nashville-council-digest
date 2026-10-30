@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1801",
+ "source_hash": "4878acd3704c21d9",
+ "model": "sonnet",
+ "summary": "Asks the Electric Power Board to fire Teresa Broyles-Aplin, the President and Chief Executive Officer of Nashville Electric Service, over problems with leadership, preparation, risk management and public communication during the outages after Winter Storm Fern. It also urges the Board to run an open leadership transition and send it a copy of the resolution.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0546,
+ "judge": {
+  "key": "16a18ccdbae09424",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

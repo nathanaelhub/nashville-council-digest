@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1764",
+ "source_hash": "cdf7bfd8562a8be8",
+ "model": "sonnet",
+ "summary": "Recognizes January 2026 as Dry January USA Month in Nashville and Davidson County. Encourages residents, organizations and industries to take part and raise awareness about alcohol's impacts.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0368,
+ "judge": {
+  "key": "5077a182f4a55d69",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

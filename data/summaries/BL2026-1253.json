@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1253",
+ "source_hash": "2ff446a85f5bafce",
+ "model": "sonnet",
+ "summary": "Changes Metro Code Section 6.08.080 so the Nashville Public Library permanently takes over running the Nashville Education, Community, and Arts Television Corporation's public and educational access channels. The chief librarian would set channel rules, and government access television would stay with the Department of Information Technology Services.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0696,
+ "judge": {
+  "key": "77bafa66a419f5ff",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

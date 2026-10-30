@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1870",
+ "source_hash": "05f943f7ec21f3fe",
+ "model": "sonnet",
+ "summary": "Gives $80,000 from the Community Safety Fund to Friends of Mill Ridge Park to improve community safety by increasing access to greenspace and outdoor services. The group would work with partners to hold 100 free recreation and conservation activities for people living and working in South Nashville.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0452,
+ "judge": {
+  "key": "d8bac499632326e8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

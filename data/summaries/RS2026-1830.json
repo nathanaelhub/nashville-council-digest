@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1830",
+ "source_hash": "e7f86f2e83356f1d",
+ "model": "sonnet",
+ "summary": "Spends $27,139,900 from the General Fund Reserve Fund (the 4% Fund) on equipment and building repairs for 18 Metro departments. The largest amounts are $8 million for General Services fleet vehicles, $4.4 million for Parks and Recreation, and $2.5 million for Information Technology Services.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0448,
+ "judge": {
+  "key": "e66b1136e809fda3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

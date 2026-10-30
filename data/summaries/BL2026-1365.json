@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1365",
+ "source_hash": "77fb7e4e000feda6",
+ "model": "sonnet",
+ "summary": "Abandons parts of Alley #2076, Alley #2077, Alley #2078, and Stanley Street (between Nance Lane and Alley #2077), as requested by Andrew Reed of Thomas & Hutton. Metro keeps utility easements in the abandoned areas.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0544,
+ "judge": {
+  "key": "4e973848822dfeb2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1195",
+ "source_hash": "847d9af55c2dbadb",
+ "model": "sonnet",
+ "summary": "Removes \"bar or night club\" as an allowed use in the SCN, SCC and SCR shopping center zoning districts. Bars already legally operating there could continue, but would lose that status if inactive for thirty continuous months.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0368,
+ "judge": {
+  "key": "08117548447e8a2d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

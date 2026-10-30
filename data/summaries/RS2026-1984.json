@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1984",
+ "source_hash": "77783d91629bad24",
+ "model": "sonnet",
+ "summary": "Raises the cap on money for buying parts of three properties at 1213, 1217 and 1221 Northgate Business Parkway from $500,000 to $750,000. The properties are needed for the Dry Creek WRF Flood Mitigation System Project, and the added $250,000 comes from Fund No. 47410.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0606,
+ "judge": {
+  "key": "e885538ab071c322",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

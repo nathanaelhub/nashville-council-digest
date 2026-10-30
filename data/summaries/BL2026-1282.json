@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1282",
+ "source_hash": "18e0e94b562c28c1",
+ "model": "sonnet",
+ "summary": "Requires buildings at the 2003 Straightway Avenue development (BL2026-1281) to have facades that are at least 50% brick. The rest can be brick veneer, stone, cast stone, cementitious siding, glass, or similar materials.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0378,
+ "judge": {
+  "key": "23ace4e8454ea300",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

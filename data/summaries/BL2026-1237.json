@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1237",
+ "source_hash": "7630b491af9bb29b",
+ "model": "sonnet",
+ "summary": "Abandons the Alley #1907 right-of-way from Drake Avenue to Alley #1906, as requested by Matthew McSpadden. Metro keeps its utility easements there.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.044,
+ "judge": {
+  "key": "412e4087c6d7d1c2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1170",
+ "source_hash": "d6b46ebaaf80e4ba",
+ "model": "sonnet",
+ "summary": "Rezones 322 Lutie Street, about 235 feet east of Nolensville Pike (0.2 acres), from CS to R6-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "c09629a47a9c8ddd",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

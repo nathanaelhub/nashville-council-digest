@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1008",
+ "source_hash": "ec35c0c8471b25d1",
+ "model": "sonnet",
+ "summary": "Sets up a voluntary program where the Planning Department can offer zoning incentives to owners of Residential Limited (RL) property who build multi-family rental housing with units income-restricted for 30 years, at no more than 120% of Area Median Income. Owners can't be forced to join, and the Planning Commission decides on applications.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0603,
+ "judge": {
+  "key": "cae7a4decb102c6e",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The summary says the program applies to units income-restricted at 'no more than 120% of AMI'. The text sets the limit at the AMI limit established for the applicable zoning district, which may be lower and can never exceed 120% AMI. The summary treats the 120% ceiling as the fixed limit.",
+  "cost_usd": 0.0081
+ }
+}

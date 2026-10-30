@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1171",
+ "source_hash": "d7922a48d9c99294",
+ "model": "sonnet",
+ "summary": "Rezones the unnumbered property on Haynie Avenue, about 369 feet west of Brick Church Pike (0.17 acres), from R8 to IWD.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "ec89f4570dfdb8be",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

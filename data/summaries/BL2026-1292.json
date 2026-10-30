@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1292",
+ "source_hash": "52f6cb833497ad3d",
+ "model": "sonnet",
+ "summary": "Readopts the Metro Code, including supplemental and replacement pages (Supp. No. 52) covering general and permanent ordinances enacted on or before August 20, 2025. Where no specific penalty is given, violations carry a penalty of up to $50.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0592,
+ "judge": {
+  "key": "95df8799df1edbe2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0077
+ }
+}

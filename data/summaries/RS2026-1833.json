@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1833",
+ "source_hash": "a1b194c8af064455",
+ "model": "sonnet",
+ "summary": "Approves an agreement letting the Metro Board of Health get vital records data from the Tennessee Department of Health to support public health surveillance and response. It covers finalized birth, death and fetal death data from 2022 until 2030 and linked birth infant death data from 2021 until 2029, lasts three years from signing, and costs Metro nothing.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0448,
+ "judge": {
+  "key": "2cf7ea40ddeb27d5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

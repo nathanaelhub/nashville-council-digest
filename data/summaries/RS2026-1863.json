@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1863",
+ "source_hash": "f868fd2d67e551ed",
+ "model": "sonnet",
+ "summary": "Approves an application by the Metropolitan Action Commission for a $400,000 Advancing Workforce Mobility Grant from Walmart, Inc., with no cash match required. If awarded, it would expand the MAC4Jobs program to help workers from low-income households in Nashville get high-demand tech jobs.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0356,
+ "judge": {
+  "key": "fcfb05c8702de15c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

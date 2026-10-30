@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1721",
+ "source_hash": "a503a54949ee17fc",
+ "model": "sonnet",
+ "summary": "Approves the first amendment to the Economic Impact Plan for the Rivergate Mall Economic Development Project. The amendment covers a possible land swap between the developer, Merus LLC, and Dillard's, and counts any property tax abatement for affordable senior housing toward a $42 million cap.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0464,
+ "judge": {
+  "key": "03d321b953b539de",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The $42,000,000 cap applies to property tax abatement for the affordable senior housing facility only if its owner participates in MDHA's abatement plan; the summary states it unconditionally. It also says the amendment 'covers' a land swap, but the swap is only a possibility the developer may elect (the summary says 'possible', so this is minor). The main issue is the conditional cap presented as a flat rule.",
+  "cost_usd": 0.0066
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1183",
+ "source_hash": "7df2c55c4764951c",
+ "model": "sonnet",
+ "summary": "Requires new buildings on the Highway 100 and Old Harding Pike site to use masonry products on street-facing facades, with Planning reviewing the elevations with the final SP application. This goes with the zoning plan in BL2025-1182.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0365,
+ "judge": {
+  "key": "831a1ab25cc73e55",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

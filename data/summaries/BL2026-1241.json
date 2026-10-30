@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1241",
+ "source_hash": "25be3733b990edb8",
+ "model": "sonnet",
+ "summary": "Lets Metro take over new sewer pipes, eight manholes and easements at Gray Street and Martin Street, known as Martin and Gray Townhomes. The pipes are about 107 feet and about 311 feet of eight-inch main, at no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.065,
+ "judge": {
+  "key": "d5a8a0b728032eb3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

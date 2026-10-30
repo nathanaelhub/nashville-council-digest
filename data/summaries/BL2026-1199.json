@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1199",
+ "source_hash": "5e51db5b86e71303",
+ "model": "sonnet",
+ "summary": "Approves an agreement between the Office of Family Safety and Liberty University so Liberty social work students can get field work experience. The students are unpaid, and there is no cost to Metro.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0377,
+ "judge": {
+  "key": "debb7e526825941e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

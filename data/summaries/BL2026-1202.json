@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1202",
+ "source_hash": "5547db84270e7cd2",
+ "model": "sonnet",
+ "summary": "Accepts a donated greenway conservation easement of 3.095 acres from Main Street Land Trust at 0 Bethwood Drive, 2539 Allenwood Drive and 2543 Allenwood Drive. There is no cost to Metro.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0377,
+ "judge": {
+  "key": "266bfc9a6a866145",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

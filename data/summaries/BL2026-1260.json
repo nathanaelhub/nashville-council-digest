@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1260",
+ "source_hash": "7190231804266756",
+ "model": "sonnet",
+ "summary": "Lets Metro accept new sewer pipes (about 1,478 feet of eight-inch, 687 feet of two-inch and 100 feet of one and a half-inch), eight manholes and easements for 9913 and 9917 Maupin Road, known as WMN Regency Hills. It has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "17bad947dbd7957d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

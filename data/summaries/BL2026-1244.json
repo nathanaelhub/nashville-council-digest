@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1244",
+ "source_hash": "89b07fb9683c42fb",
+ "model": "sonnet",
+ "summary": "Lets Metro take over new water and sewer pipes, four fire hydrant assemblies, 20 sewer manholes and easements at 3124 Murfreesboro Pike and 3201 Hamilton Church Road, known as Antioch 15 Phase 1. The pipes are about 2,396 feet of eight-inch water main and about 1,992 feet and 1,217 feet of eight-inch sewer main, at no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.065,
+ "judge": {
+  "key": "01784d6f40b5435e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

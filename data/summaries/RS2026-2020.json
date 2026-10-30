@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2020",
+ "source_hash": "c6c70b3561d91bce",
+ "model": "sonnet",
+ "summary": "Approves an application for an $80,000 Healthy Built Environment grant from the Tennessee Department of Health, with no cash match required, to help fund pedestrian plazas and mid-block crossing improvements on Jefferson Street between Rosa Parks Boulevard and 28th Avenue North.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "1c345fc8a5877513",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

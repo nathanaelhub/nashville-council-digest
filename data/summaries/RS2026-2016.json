@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2016",
+ "source_hash": "cb7ab8c6c7e5b3bd",
+ "model": "sonnet",
+ "summary": "Approves an amendment to a state grant for the Office of Family Safety to host a Tennessee Family Justice Centers Statewide Conference. It raises the grant by $125,000 to $250,000 and extends the end date to June 30, 2027.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "6dae0289726b4274",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

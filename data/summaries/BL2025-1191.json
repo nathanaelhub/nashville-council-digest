@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1191",
+ "source_hash": "c9a7c9413091f468",
+ "model": "sonnet",
+ "summary": "Approves and accepts donated greenway conservation easements from Riverwalk at Mill Creek Homes, LLC at 0 Mill Creek Meadow Drive and 0 Lebanon Pike, covering 7.81 acres. There is no cost to Metro.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0397,
+ "judge": {
+  "key": "8daf1cffb1976003",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
+}

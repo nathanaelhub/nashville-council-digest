@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1821",
+ "source_hash": "7452c36d105144b3",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement between Sourcewell, a Minnesota government agency, and Toter, LLC, so Metro can buy waste and recycling collection products such as trash and recycling carts for the Department of Waste Services. The anticipated project value is $6 million, and Metro's participation cannot last more than sixty months.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.046,
+ "judge": {
+  "key": "09ec10ed19afd5cb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

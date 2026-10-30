@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1278",
+ "source_hash": "32fd04c7504f9d8f",
+ "model": "sonnet",
+ "summary": "Applies a Historic Landmark Overlay District to 0.74 acres at 253 Leon Loop, about 113 feet south of Humphreys Street, which is zoned SP.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "26e1e77c990c5da6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1757",
+ "source_hash": "1a9955dc7d1c6853",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon old water and sewer pipes, a fire hydrant and two manholes, and accept new eight-inch water and sewer pipes, a fire hydrant and five manholes at 300 Rains Avenue, also known as Fairgrounds Wingrove Street Intersection. The new lines are about 363 feet of water main and about 517 feet of sewer main.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0509,
+ "judge": {
+  "key": "83cf60a3f8a70d3e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

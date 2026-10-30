@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1373",
+ "source_hash": "4b0e0cba2161dc5c",
+ "model": "sonnet",
+ "summary": "Lets Metro give up about 537 feet of old eight-inch sewer main, a fire hydrant and two manholes, and accept about 827 feet of new sewer main, a fire hydrant, four manholes and easements at 1205 and 1223 Third Avenue North (3rd and Madison Townhomes Phase 1). It costs Metro nothing.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "008501fe22f6d6d5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1357",
+ "source_hash": "8f2c2d00d6418f1d",
+ "model": "sonnet",
+ "summary": "Updates the Metro Code so the Metropolitan Attorney can settle claims against Metro and its employees for up to $25,000, and settle claims for damage to Metro property for up to $25,000. The attorney must talk with the affected department head before final approval of a settlement of $25,000 or less, or before asking the Council to approve a larger one. The attorney must also send quarterly reports on claims settled for $25,000 or less to the department heads involved and the Council.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.1241,
+ "judge": {
+  "key": "cd624fdc4afae9e5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0125
+ }
+}

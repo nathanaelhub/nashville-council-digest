@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1887",
+ "source_hash": "1712c8ce5c25df12",
+ "model": "sonnet",
+ "summary": "Lets Metro give up about 625 feet of existing sewer main and accept about 637 feet of new 10-inch sewer main and four manholes at 492 Craighead Street, also known as Vintage Fair Park.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0422,
+ "judge": {
+  "key": "cca479cd84308eef",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

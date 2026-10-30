@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1828",
+ "source_hash": "060d9b79bd9ef4de",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant from AmericaFWD, worth up to $50,000 with no cash match, for the Mayor's Office Choose How You Move program. It provides technical assistance through the Project Delivery Accelerator Lab to help move projects from planning to construction, from April 7, 2026 to April 7, 2027.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0448,
+ "judge": {
+  "key": "246587fa5cd76a62",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

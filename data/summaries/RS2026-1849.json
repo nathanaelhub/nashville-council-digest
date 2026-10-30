@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1849",
+ "source_hash": "35d6d8ffd1896063",
+ "model": "sonnet",
+ "summary": "Approves a change to a Tennessee Highway Safety Office traffic safety grant for the Police Department, cutting it by $144,000 from $719,999.99 to $575,999.99. The grant pays for visible enforcement and community outreach events about impaired driving and other unsafe behaviors.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0461,
+ "judge": {
+  "key": "2a5623c40cde1687",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

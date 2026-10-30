@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1928",
+ "source_hash": "46f96345e9f5f1d1",
+ "model": "sonnet",
+ "summary": "Extends the Metropolitan Board of Equalization's special session past May 31, 2026, so it can keep working until all on-time Tax Year 2025 property assessment appeals have been heard and decided. The Board needs more time because of the number of appeals filed.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.049,
+ "judge": {
+  "key": "087ee2c9f522abc0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

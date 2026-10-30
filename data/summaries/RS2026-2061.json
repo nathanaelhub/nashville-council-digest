@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2061",
+ "source_hash": "4e261fd3347daf72",
+ "model": "sonnet",
+ "summary": "Approves a sole source contract with Ingersoll Rand Industrial US, Inc. for factory authorized products, parts, and services for the Department of Water and Sewerage Services. The contract is estimated at $5 million and runs for 60 months.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.042,
+ "judge": {
+  "key": "10aebcd599360dac",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

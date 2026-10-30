@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2014",
+ "source_hash": "af121bb450d2d3c5",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle Byron Bach's personal injury claim for $120,000, paid from the Self-Insured Liability Fund. He was hurt on May 3, 2023, when his bicycle became tangled in loose netting on the Harpeth River Greenway.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "e432e79dc21e0e52",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1203",
+ "source_hash": "ffe7eb679e2af918",
+ "model": "sonnet",
+ "summary": "Approves a donated greenway conservation easement from Domain Timberlake Multistate 2, LLC to Metro for greenway improvements at 1032 Bear Run, 409 Misty Creek Court, and 0 Nature Trail Way. The easement covers 1.64 acres and costs Metro nothing.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0407,
+ "judge": {
+  "key": "3a13fa9835b01a49",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

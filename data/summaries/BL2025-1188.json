@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1188",
+ "source_hash": "9fffa61550382ee9",
+ "model": "sonnet",
+ "summary": "Lets Nashville Department of Transportation enforcement, maintenance and repair workers and equipment operators direct traffic if they have finished a training course approved by the chief of police. It also lets fire department officers direct or help police direct traffic at the scene of a fire or any other emergency.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "2f874299380c3d23",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

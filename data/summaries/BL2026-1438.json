@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1438",
+ "source_hash": "4ca7457704fb10c9",
+ "model": "sonnet",
+ "summary": "Pauses the acceptance, processing, approval, and issuance of zoning, building, or grading permits for data centers anywhere in Nashville and Davidson County until November 1, 2026, or until BL2026-1391 and BL2026-1392 take effect, whichever comes first.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0164,
+ "judge": {
+  "key": "4644c06ef5067b85",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

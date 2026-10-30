@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1726",
+ "source_hash": "ed74e143d7335318",
+ "model": "sonnet",
+ "summary": "Approves a second amendment to Metro's lease with Joslin Sign and Maintenance Company, Inc. for about 97 parking spaces at 630 Murfreesboro Pike for the new police headquarters. It extends the lease 24 months through March 1, 2028, at the same $7,000 per month.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0341,
+ "judge": {
+  "key": "1ed043803a99cf7f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1732",
+ "source_hash": "f1bd4568000a1750",
+ "model": "sonnet",
+ "summary": "Approves a third change to a state violent crime reduction grant to the Metro Police Department. It updates the nondiscrimination, procurement and state interest in equipment and motor vehicles sections and revises the budget.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0413,
+ "judge": {
+  "key": "a32a3a81833c3592",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

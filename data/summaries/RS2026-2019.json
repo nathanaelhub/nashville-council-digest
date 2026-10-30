@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2019",
+ "source_hash": "1b8bdf01901cd0f0",
+ "model": "sonnet",
+ "summary": "Approves an agreement with CSX Transportation for sidewalk improvements next to the CSX rail at Alabama Avenue, with Metro paying CSX for its work, estimated at $13,900.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "a5befc15bd1bf4c1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "The official text is internally inconsistent ($13,900 vs. $13,000 in the fiscal note), but the summary's $13,900 matches the analysis's estimated reimbursable costs.",
+  "cost_usd": 0.0064
+ }
+}

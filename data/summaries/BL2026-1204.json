@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1204",
+ "source_hash": "2e1e1a77014d62b9",
+ "model": "sonnet",
+ "summary": "Lets the Board of Parks and Recreation waive remaining park improvement requirements, such as walking trails, when it accepts a six-acre park at Brick Church Pike from Habitat for Humanity. Habitat has put in or raised more than $2.2 million for the park and the nearby Parkwood Ballpark area.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0407,
+ "judge": {
+  "key": "d86c2e2276944bb7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

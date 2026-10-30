@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2004",
+ "source_hash": "fb9a7029328b4f0e",
+ "model": "sonnet",
+ "summary": "Adopts a new pay plan for general Metro employees, not including the Board of Health, Board of Education, Police and Fire, starting July 1, 2026. It gives a 1.7% across-the-board raise, continues step increases, adds new job classifications, removes the Waste Management Supervisor classification, and gives each department extra funding equal to 2% of its open range salary budget for merit raises.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0653,
+ "judge": {
+  "key": "dfa079a58d16b04c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.01
+ }
+}

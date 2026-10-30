@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1815",
+ "source_hash": "753bc7fea7a98fda",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant, valued at about $1,500, from the Friends of Two Rivers Mansion of a Summit Commercial Ice Maker for Stone Hall at Two Rivers Mansion. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "2607b95d9ea57e27",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

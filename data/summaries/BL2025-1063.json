@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1063",
+ "source_hash": "536c9073dbe5d0ea",
+ "model": "sonnet",
+ "summary": "Raises Nashville Department of Transportation fees for event, film, banner and parade permits and for street and right-of-way permits in steps, from January 1, 2026 through after July 31, 2028. After that, most fees rise each August 1 by the greater of the CPI-U change or 3 percent. It also requires NDOT to report on improvements after each step and to study its fees at least every five years starting in 2030.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "dc775b76e7cc16a2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

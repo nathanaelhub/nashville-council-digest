@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1873",
+ "source_hash": "721b30dbafba9e80",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement with Buckeye International, Inc., set up through Choice Partners, for custodial supplies for the Nashville Public Library. The expected value is $75,000, with an estimated savings of $8,011, and the agreement expires September 20, 2026.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0376,
+ "judge": {
+  "key": "97e437ea9e4396c5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

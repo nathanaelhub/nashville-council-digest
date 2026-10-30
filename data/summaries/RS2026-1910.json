@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1910",
+ "source_hash": "7fa652454150690b",
+ "model": "sonnet",
+ "summary": "Approves a change to an in-kind grant from the Friends of Shelby Park & Bottoms that raises its estimated value from $50,000 to $170,000 for improvements to Shelby Park and Bottoms. The cost went up to make a trail segment around Lake Sevier ADA compliant, and the Friends group pays for the work directly.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0361,
+ "judge": {
+  "key": "184c7ae9cc39dc4a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0051
+ }
+}

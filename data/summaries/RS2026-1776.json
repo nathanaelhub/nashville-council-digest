@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1776",
+ "source_hash": "391e804a0f5e223b",
+ "model": "sonnet",
+ "summary": "Approves a change to an easement agreement with Q & A Holdings, GP for the space above a new Alley 371 near 302 McMillan Street and 301 15th Avenue North. It gives the developer two more years to start construction, and the $30,000 payment to Metro stays the same.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0463,
+ "judge": {
+  "key": "530b573bec18ccf9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

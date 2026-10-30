@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1810",
+ "source_hash": "f71df2766d371d25",
+ "model": "sonnet",
+ "summary": "Lets the Metropolitan Development and Housing Agency make a payment-in-lieu-of-taxes agreement for Madison Station, an apartment project of about 211 units at 721 Madison Square for households earning 60% or less of the Area Median Income. The text puts the difference from regular property taxes in the first tax year after completion at $527,457.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0501,
+ "judge": {
+  "key": "b43894379e172604",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0073
+ }
+}

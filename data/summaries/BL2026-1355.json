@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1355",
+ "source_hash": "d86787a6b92bd518",
+ "model": "sonnet",
+ "summary": "Replaces Section 2.04.030 of the Metropolitan Code of Laws to set up the Metropolitan Council Office's Director, who also serves as the Council's special counsel, must be a licensed Tennessee attorney, and can be removed early only by a two-thirds vote of the whole Council. It also bars elected officials from controlling the office beyond their duties in the Charter and code, protects staff from retaliation for reporting violations, and requires the office to prepare fiscal impact statements.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.1241,
+ "judge": {
+  "key": "65baff0debadb12e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0125
+ }
+}

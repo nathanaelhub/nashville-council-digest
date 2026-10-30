@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2052",
+ "source_hash": "04c1d700cd4b06d3",
+ "model": "sonnet",
+ "summary": "Accepts a $65,560.73 grant from the Friends of Warner Parks to Metro Parks to keep paying for two part-time Naturalists, two seasonal Nature Center workers and a copier. No cash match is required, and the grant runs from July 1, 2026, to June 30, 2027.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0457,
+ "judge": {
+  "key": "2e2b6cd0ec6efc83",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

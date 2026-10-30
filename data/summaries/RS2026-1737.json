@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1737",
+ "source_hash": "5f1ca51010bff98f",
+ "model": "sonnet",
+ "summary": "Lets the Department of Law settle Nathan Mayo's and Felicia Mayo's injury and loss of consortium claims against Metro for $450,000, paid from the Self-Insured Liability Fund. The claims come from a September 8, 2022 accident in which Mr. Mayo was a passenger in a Metro police vehicle.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0413,
+ "judge": {
+  "key": "208c91df90b33a56",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

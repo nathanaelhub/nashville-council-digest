@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1269",
+ "source_hash": "ddc9ab5d05cf2181",
+ "model": "sonnet",
+ "summary": "Changes the Neighborhood Landmark Overlay District at 1085 Zophi Street (0.21 acres, about 215 feet west of Gallatin Pike) to add personal care services as an allowed use. Allowed uses there become R6 uses, religious institution, multi-media production, and personal care services, with limits such as no vehicle access from Zophi Street and signs totaling no more than 30 square feet.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0364,
+ "judge": {
+  "key": "457f6cfb7a426b30",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

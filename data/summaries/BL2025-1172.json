@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1172",
+ "source_hash": "22987db06011eef7",
+ "model": "sonnet",
+ "summary": "Rezones 3417 Springbrook Drive, about 392 feet north of Woodmont Boulevard (0.26 acres), from RS10 to R10.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "607e7d69f04e61eb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0042
+ }
+}

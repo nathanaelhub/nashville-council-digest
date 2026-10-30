@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1235",
+ "source_hash": "a9b4180deddaee7a",
+ "model": "sonnet",
+ "summary": "Approves a contract with WSP USA Inc. for technical and engineering services that any Metro department can use, at up to $44.2 million. The contract runs three years with five one-year extension options, which goes past the usual 60-month limit.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.044,
+ "judge": {
+  "key": "68d4badfebd409d2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

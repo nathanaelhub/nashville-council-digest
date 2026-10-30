@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1322",
+ "source_hash": "0fafbe4563fee89f",
+ "model": "sonnet",
+ "summary": "Allows 603 Southgate LLC to build and maintain an underground encroachment, an irrigation system in the grass strip, in the public right-of-way at 603 Southgate Avenue. The company must pay all costs and carry at least $4 million in liability insurance naming Metro as an insured party.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0523,
+ "judge": {
+  "key": "de4e3e3727ef0748",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0075
+ }
+}

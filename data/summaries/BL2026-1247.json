@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1247",
+ "source_hash": "b5e092d245c8b1b1",
+ "model": "sonnet",
+ "summary": "Rezones 1905 and 1907 Ashton Avenue, about 337 feet south of John Mallette Drive (0.48 acres), from RS10 to R10.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0387,
+ "judge": {
+  "key": "3274f97c0f3a0fef",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

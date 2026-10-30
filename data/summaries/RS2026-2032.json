@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2032",
+ "source_hash": "ae65ed45640be06e",
+ "model": "sonnet",
+ "summary": "Approves a first amendment to Metro's lease with the Metropolitan Nashville Airport Authority for the Luton Center at Nashville International Airport, which houses an Emergency 911 center. It adds three more one-year renewal options, with rent of $180,000 starting November 1, 2026, and a 3 percent increase each later year.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0456,
+ "judge": {
+  "key": "b05ab1e690bf84b4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2008",
+ "source_hash": "968c12cd587819c0",
+ "model": "sonnet",
+ "summary": "Approves an application to the U.S. Department of Justice for a $1.6 million grant, with no cash match required, for the Metropolitan Beer Board to run a pilot Sobering and Stabilization Center. The center would give people in substance-related crises a safe option other than emergency departments or incarceration.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0414,
+ "judge": {
+  "key": "979dd04eaf043a2b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

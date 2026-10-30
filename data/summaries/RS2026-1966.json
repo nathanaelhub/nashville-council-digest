@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1966",
+ "source_hash": "c24488fc232058d9",
+ "model": "sonnet",
+ "summary": "Approves an agreement that lets the Metropolitan Mayor work with the other counties in the Northern Middle Tennessee Local Workforce Development Area on federal job-training and employment programs. The agreement runs from July 1, 2026 through June 30, 2028, and the Mayor may also sign other agreements the State of Tennessee requires under the federal workforce law.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0684,
+ "judge": {
+  "key": "a213a91877d7b1a0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

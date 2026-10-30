@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1358",
+ "source_hash": "11b281cb3d5b0b56",
+ "model": "sonnet",
+ "summary": "Changes fees charged by the Nashville Department of Transportation and Multimodal Infrastructure for event and film permits, parade permits, and right-of-way permits, raising many of them in steps through July 1, 2028. For example, the film permit fee goes from $230 to $330 and then $450. NDOT must also give the Council notice of fee changes, publish performance reports, and study its fees at least every five years starting in 2029.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.1241,
+ "judge": {
+  "key": "74f723c5a3ce7cd2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0125
+ }
+}

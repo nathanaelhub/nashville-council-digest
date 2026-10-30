@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2042",
+ "source_hash": "91c1fe5f81fa976a",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $144,800 from the Tennessee Department of Health to the Metropolitan Board of Health, with no cash match required. The money is for using data to find groups at high risk from substance misuse and for evidence-based programs that fit their needs.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0644,
+ "judge": {
+  "key": "6af828d3457414d9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

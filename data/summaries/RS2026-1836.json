@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1836",
+ "source_hash": "03dd7a3af21ae4b5",
+ "model": "sonnet",
+ "summary": "Approves a fifth change to a U.S. Department of Health and Human Services grant for HIV/AIDS prevention, testing, and treatment and a Minority AIDS Initiative program. It lowers the grant by $339,412, from $5,306,240 to $4,966,828, and updates the grant's terms and conditions.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0373,
+ "judge": {
+  "key": "d1a995293594a6d5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

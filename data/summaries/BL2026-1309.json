@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1309",
+ "source_hash": "4179b5782facdceb",
+ "model": "sonnet",
+ "summary": "Rezones 3311, 3313, 3315A, 3317 and 3319 Walton Lane, about 34 feet west of Arrowhead Drive (4.13 acres), from RS10 to RM20-A-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0363,
+ "judge": {
+  "key": "fa82858076534e94",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

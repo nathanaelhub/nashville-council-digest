@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1831",
+ "source_hash": "b0087487bb07242b",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement between Region 4 Education Service Center in Texas and B & H Foto and Electronics Corp. for audio visual solutions and services, requested by Metro's Information Technology Services Department. The expected project value is $250,000, with estimated savings of $46,321, and the agreement expires September 30, 2028.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0448,
+ "judge": {
+  "key": "98ad61d0005e0352",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

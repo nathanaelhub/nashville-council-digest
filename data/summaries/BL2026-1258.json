@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1258",
+ "source_hash": "ea9070b4de75caaf",
+ "model": "sonnet",
+ "summary": "Approves a second change to Metro's contract with Hydromax USA, LLC for valve exercising and hydrant maintenance. It adds six months, for a total of 66 months, changes the proof of insurance wording, and adds required language about the boycott of Israel.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "c2d3b5c92e7284da",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

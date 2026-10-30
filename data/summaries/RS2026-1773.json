@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1773",
+ "source_hash": "d35e22129fa26d7f",
+ "model": "sonnet",
+ "summary": "Approves an application by the General Services Department for a TVA Energy Right Business & Industry Incentives Program grant of up to $54,690.16 from the Tennessee Valley Authority and Nashville Electric Services, with no cash match. The grant helps businesses save money and energy by installing energy-saving equipment.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0627,
+ "judge": {
+  "key": "6d44a8daf82a4be5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
+}

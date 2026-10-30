@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2063",
+ "source_hash": "20a885655ebdfb0a",
+ "model": "sonnet",
+ "summary": "Changes an earlier resolution so Metro can accept 10 sanitary sewer manholes instead of nine, along with the water main, sewer main and five fire hydrant assemblies, at Rural Hill Road (unnumbered), also known as Bella Terra.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.042,
+ "judge": {
+  "key": "42190e1e5d96de70",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1983",
+ "source_hash": "a25a06e67015e920",
+ "model": "sonnet",
+ "summary": "Approves a joint funding agreement with the U.S. Geological Survey to keep running water quality monitors and flood warning gages on nine Davidson County streams and rivers, from July 1, 2026, through June 30, 2031. Metro's Water and Sewerage Services will pay a fixed $1,091,645.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0606,
+ "judge": {
+  "key": "03b30745b40d014f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

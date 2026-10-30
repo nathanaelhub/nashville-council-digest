@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1729",
+ "source_hash": "7c0146e3203582aa",
+ "model": "sonnet",
+ "summary": "Approves a second amendment to an Environmental Protection Agency air pollution control grant to the Metropolitan Board of Health, raising the grant by $95,547 from $300,000 to $395,547. The money supports air monitoring and other work to reduce or control air pollutants in Nashville.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0341,
+ "judge": {
+  "key": "871bc72c24be55ec",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

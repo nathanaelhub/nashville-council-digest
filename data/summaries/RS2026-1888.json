@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1888",
+ "source_hash": "ca47adbc70a14dc4",
+ "model": "sonnet",
+ "summary": "Lets Metro give up about 102 feet of existing eight-inch water main and accept about 102 feet of new eight-inch water main, relocate one fire hydrant assembly, and vertically relocate one sewer manhole at 2244 Hobson Pike, also known as Resurrected Life Chapel.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0422,
+ "judge": {
+  "key": "f79b2efd3f0e4a45",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

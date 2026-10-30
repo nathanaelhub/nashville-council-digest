@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1299",
+ "source_hash": "03d1c116b3ea059a",
+ "model": "sonnet",
+ "summary": "Approves an agreement in which Vanderbilt University pays the Metro Nashville Police Department back for protective services at events or operations in MNPD's jurisdiction, including overtime. The agreement lasts sixty months and either side can end it with 30 days' written notice.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0398,
+ "judge": {
+  "key": "727df5097952c7f5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

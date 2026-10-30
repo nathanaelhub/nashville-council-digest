@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1982",
+ "source_hash": "f4878f16a77bf33c",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a Sourcewell (Minnesota) master purchasing agreement with Marathon Equipment Company so Metro can buy bulk solid waste and recycling equipment for the Department of Waste Services. The agreement's anticipated project value is $10 million, with estimated savings of $1,615,071, and Metro's participation can last no more than sixty months.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0606,
+ "judge": {
+  "key": "9b79af05dff57757",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1208",
+ "source_hash": "a9ed50dd5373ff00",
+ "model": "sonnet",
+ "summary": "Approves a contract with GRW Engineers, Inc. for technical and engineering services such as multimodal planning, design, and traffic signals, for any Metro department to use. It can cost up to $44.2 million and lasts three years, with five one-year extensions possible.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0407,
+ "judge": {
+  "key": "326c291b07c54640",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0065
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1995",
+ "source_hash": "c30b5fa2ff43917b",
+ "model": "sonnet",
+ "summary": "Urges Nashville Electric Service and the Electric Power Board to pause their new, more aggressive tree trimming rules until a study checks whether the rules are needed, how well they work, and what risks they carry. Copies go to the NES chief executive and each Electric Power Board member.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0559,
+ "judge": {
+  "key": "095ae51e980a0600",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2025",
+ "source_hash": "e91309029bc14e0e",
+ "model": "sonnet",
+ "summary": "Approves an agreement letting Metro Water Services build and maintain an eight-inch drinking water pipe on CSX Transportation railroad property near Harding Pike and Lynnwood Boulevard. Metro pays CSX a one-time fee of $6,750.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0499,
+ "judge": {
+  "key": "8410327023877180",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1728",
+ "source_hash": "21744f639f67f49e",
+ "model": "sonnet",
+ "summary": "Approves an amendment to a Centers for Disease Control and Prevention grant to the Metropolitan Board of Health for workforce strategies to build resilience, promote employee well-being and improve performance. The amendment updates terms and conditions on applicable regulatory provisions and termination.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0341,
+ "judge": {
+  "key": "cf20904c08ccc106",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

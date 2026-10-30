@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1147",
+ "source_hash": "fd4e3fae72cd0590",
+ "model": "sonnet",
+ "summary": "Replaces Metro's driveway rules with the NDOT Access Management Manual, which sets how driveways and other access from private property to public streets must be built for new development. It also lets owners ask NDOT for waivers, with appeals to the Traffic and Parking Commission, and adds setback rules for off-street loading docks.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0718,
+ "judge": {
+  "key": "ca3650911103594c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1862",
+ "source_hash": "e29c9fea751b4532",
+ "model": "sonnet",
+ "summary": "Accepts the terms of a purchasing agreement between Region 4 Education Service Center and Kofile Technologies, Inc. for digital solutions and records management, requested by the Circuit Court Clerk. The anticipated project value is $1 million, with estimated savings of $90,071, and the agreement would expire on June 30, 2027.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0356,
+ "judge": {
+  "key": "79cf6f5dad4fa32b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

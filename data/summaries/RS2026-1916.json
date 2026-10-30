@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1916",
+ "source_hash": "07bc9ce9f86f2756",
+ "model": "sonnet",
+ "summary": "Approves an application for a $711,799.99 Community Traffic Safety Enforcement and Education grant from the Tennessee Highway Safety Office for the Metro Police Department. The grant would fund highly visible, ongoing enforcement and community outreach events about impaired driving and other unsafe behaviors, with no cash match required.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0406,
+ "judge": {
+  "key": "70cfd9e6cf5dd463",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0069
+ }
+}

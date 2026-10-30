@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1379",
+ "source_hash": "5055efdef30ffed0",
+ "model": "sonnet",
+ "summary": "Creates 17 new Metro job positions, including Automotive Mechanic 2, Fire Arson Investigator 1, Historic Zoning Administrator, Pumping Station Superintendent, and several Pre-Trial Housing jobs. Ten are in the classified service and seven are in the unclassified service.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0559,
+ "judge": {
+  "key": "87a6cfe746396fad",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

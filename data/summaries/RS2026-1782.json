@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1782",
+ "source_hash": "b81b3e7672358994",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 189 feet of existing two and a quarter-inch water main and accept about 307 feet of new eight-inch water main at 910 B North Hill Drive, also known as East Trinity Mixed-Use. It also lets the Directors of Water and Sewerage Services and Public Property Administration sign the needed documents.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0696,
+ "judge": {
+  "key": "f0490bdd6764a3b1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

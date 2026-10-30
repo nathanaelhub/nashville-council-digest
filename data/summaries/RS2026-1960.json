@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1960",
+ "source_hash": "9a60bb54e6269a0a",
+ "model": "sonnet",
+ "summary": "Elects the people on an attached list as Notaries Public for Davidson County.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0353,
+ "judge": {
+  "key": "25ae1041c8f529d9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

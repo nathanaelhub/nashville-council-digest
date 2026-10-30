@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1734",
+ "source_hash": "53e08ad9b2cc59b1",
+ "model": "sonnet",
+ "summary": "Accepts a $430,000 donation from the Nashville Downtown Partnership, Inc. to the Metro Police Department to help buy a Terradyne Ghurka MPV Armored Rescue Vehicle.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0442,
+ "judge": {
+  "key": "fd160fc22d91c83e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

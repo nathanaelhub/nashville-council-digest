@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1783",
+ "source_hash": "0f9a93331e54e679",
+ "model": "sonnet",
+ "summary": "Asks the Metropolitan Civil Service Commission to require an online complaint or grievance form on every Metro department, board and commission website, with confirmation of submission. It also asks that each complaint get a response within two business days and be resolved within ninety days of filing.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0696,
+ "judge": {
+  "key": "63180dbb1f3ddbb3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

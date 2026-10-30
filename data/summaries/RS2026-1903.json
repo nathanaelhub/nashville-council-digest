@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1903",
+ "source_hash": "3369da95eec99770",
+ "model": "sonnet",
+ "summary": "Approves an application for and accepts a Tennessee Historical Commission grant of up to $3,750, with a required $2,500 cash match, for the Metropolitan Historical Commission to do tree-ring (dendrochronology) research at historic timber buildings in Davidson County, including the Hodge House, Morton Cabin, the Buchanan Log House and the Buchanan-Harding House.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0415,
+ "judge": {
+  "key": "4d8061ae70411934",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

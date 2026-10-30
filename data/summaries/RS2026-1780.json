@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1780",
+ "source_hash": "10333a04f2eb47ed",
+ "model": "sonnet",
+ "summary": "Approves an agreement between Metro Water Services and the Tennessee Department of Transportation for a tree-planting landscaping project on Murfreesboro Pike (U.S. Highway 41) between Vultee Boulevard and Town Park Drive. Metro Water Services would plant and maintain the trees in the public right-of-way.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0463,
+ "judge": {
+  "key": "465edb4a22735dc8",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0076
+ }
+}

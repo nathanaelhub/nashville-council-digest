@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-882",
+ "source_hash": "0360e294aee0d008",
+ "model": "sonnet",
+ "summary": "Amends a Specific Plan for 1007 and 1009 Solley Drive, about 150 feet west of Gallatin Pike (3.31 acres), to allow up to 55 multi-family homes. It bans short-term rentals, requires a 10-foot buffer along the northern property line, and sets other conditions for the final site plan.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "7872974d0281e7b3",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0068
+ }
+}

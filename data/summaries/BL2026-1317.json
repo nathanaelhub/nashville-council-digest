@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1317",
+ "source_hash": "5efd77d2262aafd5",
+ "model": "sonnet",
+ "summary": "Changes Metro's day care zoning rules by setting the dividing line between day care center sizes at 50 people instead of 75. It also allows day care homes and centers in more zoning districts, sets rules for play areas, lot size and 600-foot spacing, and updates parking requirements.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0893,
+ "judge": {
+  "key": "9b7ef2473546a926",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0105
+ }
+}

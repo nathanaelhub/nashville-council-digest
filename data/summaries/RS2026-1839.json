@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1839",
+ "source_hash": "40d47e871063dd31",
+ "model": "sonnet",
+ "summary": "Accepts a U.S. Housing and Urban Development grant of up to $137,318 for the Office of Homeless Services to support Coordinated Entry through planning, process improvement, program evaluation, and community education. It requires a $32,000 cash match, and the grant period runs October 1, 2025, to September 30, 2026.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0373,
+ "judge": {
+  "key": "b9cb7df1558576eb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

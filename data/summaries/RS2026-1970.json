@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1970",
+ "source_hash": "c8eda37f591e5d92",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant worth up to $3,600 from the Friends of Shelby Park and Bottoms to pay for bus rentals. The buses take Summer Enrichment programs at the Kirkpatrick, McFerrin, Cleveland, East, and South Inglewood Community Centers to Shelby Park and Bottoms.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0351,
+ "judge": {
+  "key": "0b0e598725a1c186",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.006
+ }
+}

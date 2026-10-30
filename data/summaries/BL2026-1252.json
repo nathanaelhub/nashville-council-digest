@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1252",
+ "source_hash": "6512cde9449731cb",
+ "model": "sonnet",
+ "summary": "Rezones 1704 River Drive, about 280 feet west of River Court (0.98 acres), from RS10 to R10.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "920d9b08b63ee275",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

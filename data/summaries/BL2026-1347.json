@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1347",
+ "source_hash": "797a22f27c8358f1",
+ "model": "sonnet",
+ "summary": "Amends a Specific Plan for 900, 904, 910, 912, 914 and 916 8th Avenue South and 901 through 925 Bass Street (3.05 acres) to permit 365 multi-family residential units, with a 75-foot maximum height and no short-term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0384,
+ "judge": {
+  "key": "e4d0a3accec359cb",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0066
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1931",
+ "source_hash": "33a64de6136aa134",
+ "model": "sonnet",
+ "summary": "Approves the Metropolitan Nashville Arts Commission's fiscal year 2027 criteria for Operating Support and Thrive grants. The criteria add new rules, such as requiring good standing with the Tennessee Secretary of State and excluding groups whose main purpose is religious practices or supporting government agencies.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0673,
+ "judge": {
+  "key": "cfe8f9c0df9e5cf0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

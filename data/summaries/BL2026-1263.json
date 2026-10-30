@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1263",
+ "source_hash": "5a615c80a805ff10",
+ "model": "sonnet",
+ "summary": "Requires building facades at 228 and 230 Elberta Street, at the corner of Burbank Avenue and Elberta Street (0.56 acres), to be made of brick, brick veneer, stone, cast stone, cementitious siding, glass, or similar materials, unless other materials are approved on the detailed building elevations with the preliminary plan.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.038,
+ "judge": {
+  "key": "1328f2777fad6002",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

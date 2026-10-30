@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1954",
+ "source_hash": "37e0904bc740f4b9",
+ "model": "sonnet",
+ "summary": "Puts the Metro Council on record as having no confidence in the Electric Power Board's leadership, preparedness and performance during Winter Storm Fern.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0353,
+ "judge": {
+  "key": "ea2c02edb23f0955",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
+}

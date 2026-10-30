@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1990",
+ "source_hash": "92abe44623293861",
+ "model": "sonnet",
+ "summary": "Lets Metro abandon about 300 feet of 10-inch sewer main and one manhole, and accept new water and sewer mains, eight fire hydrant assemblies and 26 manholes at 329 Ben Allen Road (Osage Arbor at Broadmoor).",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0436,
+ "judge": {
+  "key": "d4384a62adeb72f1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
+ }
+}

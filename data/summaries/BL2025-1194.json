@@ -1,0 +1,18 @@
+{
+ "file": "BL2025-1194",
+ "source_hash": "fbb94773198aacbf",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 1,703 feet of new eight-inch water main, about 931 feet of two-inch sewer force main, about 831 feet of three-inch sewer force main, two fire hydrant assemblies and easements for Sage Run Phase 2. The properties are on Stella Drive (unnumbered) and at 5754 River Road.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0397,
+ "judge": {
+  "key": "2a9aee32a8cda59e",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
+}

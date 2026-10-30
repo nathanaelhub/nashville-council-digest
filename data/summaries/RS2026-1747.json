@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1747",
+ "source_hash": "ef333dd3cf008fb3",
+ "model": "sonnet",
+ "summary": "Accepts a donation from Foam Cycle LLC to the Department of Waste Services of foam packaging collection, densifying, and repurposing equipment and materials valued at $143,120. It includes three 40-yard roll-off recycling containers, two extra foam collection bins, one twelve-foot trailer, delivery, and on-site training, for a recycling drop-off center where residents can drop off foam packaging.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0484,
+ "judge": {
+  "key": "7df2836dce013ff7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.007
+ }
+}

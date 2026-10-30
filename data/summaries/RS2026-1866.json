@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1866",
+ "source_hash": "b6a1d31c4cbcd7d7",
+ "model": "sonnet",
+ "summary": "Approves a contract between Metro and Botero and Finley Investments for golf cart and utility cart rental services, with an estimated value of $750,000 over 60 months. The carts are supplied as needed at the Nashville Fairgrounds and across Metro, and the contractor will also maintain Metro's utility carts as needed.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0452,
+ "judge": {
+  "key": "49f118015136fdbf",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0055
+ }
+}

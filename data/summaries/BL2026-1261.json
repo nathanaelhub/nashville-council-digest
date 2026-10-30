@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1261",
+ "source_hash": "79bbbe5757d96952",
+ "model": "sonnet",
+ "summary": "Lets Metro give up old sewer pipes, six manholes and easements and accept new water and sewer lines, two fire hydrant assemblies, 18 manholes and easements for nine properties at Dickerson Pike, Gatewood Avenue and Marie Street, known as The Pike Phase 1. It has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0445,
+ "judge": {
+  "key": "de50c31ec47881f2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0078
+ }
+}

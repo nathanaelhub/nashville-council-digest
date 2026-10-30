@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1233",
+ "source_hash": "7165da148940efa1",
+ "model": "sonnet",
+ "summary": "Approves a contract with Stantec Consulting Services Inc. for technical and engineering services that any Metro department can use, at up to $44.2 million. The contract runs three years with five one-year extension options, which goes past the usual 60-month limit.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.044,
+ "judge": {
+  "key": "c41aedc76ea97e41",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0062
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2043",
+ "source_hash": "47e59d489ff4c7ea",
+ "model": "sonnet",
+ "summary": "Approves a second change to a grant from the U. S. Environmental Protection Agency to the Board of Health for air pollution monitoring in Nashville. The change raises the grant by $136,614, from $136,614 to $273,228, with no cash match required, and lets the Mayor sign it.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0644,
+ "judge": {
+  "key": "e75324877f359531",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0061
+ }
+}

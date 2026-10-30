@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1245",
+ "source_hash": "f764d5bf62a6d30f",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 27 feet of new eight-inch sewer pipe, one sewer manhole and the related easements for the properties at 3620 and 3628 Anderson Road. The text says it has no cost to Metro.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0387,
+ "judge": {
+  "key": "82b0ef16bdc5acb9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0064
+ }
+}

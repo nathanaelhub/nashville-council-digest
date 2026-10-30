@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1992",
+ "source_hash": "2509f2536f344718",
+ "model": "sonnet",
+ "summary": "Changes an earlier ordinance so Metro accepts about 2,401 feet of eight-inch water main, 1,917 feet and 1,111 feet of eight-inch sewer main, four fire hydrant assemblies, 20 manholes and easements at 3124 Murfreesboro Pike and 3201 Hamilton Church Road (Antioch 15 Phase 1).",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0436,
+ "judge": {
+  "key": "e70a647f21afc462",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
+ }
+}

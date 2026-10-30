@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1846",
+ "source_hash": "99797fd4d76f8d28",
+ "model": "sonnet",
+ "summary": "Accepts a gift from the Nashville Convention & Visitors Corporation, worth an estimated $12,500, of a double-sided, lighted sign at the south end of the Music City Walk of Fame Park. No cash match is required, and the gift goes to the Parks and Recreation Department.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0461,
+ "judge": {
+  "key": "eb523563bbe32769",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0067
+ }
+}

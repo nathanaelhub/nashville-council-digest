@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-1860",
+ "source_hash": "940d71a2bbd90dfb",
+ "model": "sonnet",
+ "summary": "Honors Dr. Robert Wingfield Jr. on his retirement from Fisk University after 40 years of teaching and advocacy on environmental justice.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0893,
+ "judge": {
+  "key": "dbd2559abfc0c896",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0105
+ }
+}
