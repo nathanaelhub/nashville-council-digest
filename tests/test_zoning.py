@@ -29,7 +29,7 @@ def test_codes_in_finds_codes_not_file_numbers():
 
 
 # Codes in published summaries whose base district has no cited definition yet.
-KNOWN_GAPS = {"RM15-A-NS", "CF"}
+KNOWN_GAPS = {"RM15-A-NS", "MUG-NS", "RS80", "R80", "CF"}
 
 
 def test_every_base_district_in_a_summary_is_defined_except_known_gaps():
@@ -37,6 +37,6 @@ def test_every_base_district_in_a_summary_is_defined_except_known_gaps():
     for f in (zoning.ROOT / "data" / "summaries").glob("*.json"):
         s = json.loads(f.read_text(encoding="utf-8"))["summary"] or ""
         seen |= {m.group(1).replace("AR2A", "AR2a") for m in zoning.CODE.finditer(s)}
-    seen.discard("R")  # a bare "R" is an initial, not a district
+    seen -= {"R", "RS", "RM"}  # an initial, or a family named in prose ("RS and RM districts")
     gaps = {c for c in seen if not any(x["code"][0] != "-" for x in explain(c))}
     assert gaps == KNOWN_GAPS

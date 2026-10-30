@@ -113,7 +113,7 @@ uv run python evals/score.py evals/results/<date>
 - Zoning codes (RS10, SP, R6-A) are explained under each card and on a [zoning terms](https://nathanaelhub.github.io/nashville-council-digest/zoning.html)
   page, quoted from Metro Planning Commission staff reports (cached in `data/zoning/sources/`; a
   test checks every quote is in its report). Codes are explained part by part (RM20-A-NS is
-  RM20-A plus -NS). RM15 and CF have no sourced definition yet, so they're left unexplained.
+  RM20-A plus -NS). RM15, MUG, RS80, R80 and CF have no sourced definition yet, so they're left unexplained.
 - District lookup can miss addresses newer than the parcel layer (it then uses the nearest house
   number on the same street, and says so) and can't place unnumbered land.
 - Not affiliated with Metro Nashville. Always confirm with the official record.

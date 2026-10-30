@@ -9,6 +9,13 @@
    "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
   },
   {
+   "code": "RS3.75",
+   "name": "Single-Family Residential",
+   "quote": "requires a minimum 3,750 square foot lot and is intended for single-family dwellings",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/May-8-2014-Staff-reports.pdf",
+   "file": "May-8-2014-Staff-reports.txt.gz"
+  },
+  {
    "code": "RS5",
    "name": "Single-Family Residential",
    "quote": "requires a minimum 5,000 square foot lot and is intended for single-family dwellings",
@@ -93,6 +100,20 @@
    "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
   },
   {
+   "code": "R40",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum 40,000 square foot lot and is intended for single-family dwellings and duplexes",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/May-8-2014-Staff-reports.pdf",
+   "file": "May-8-2014-Staff-reports.txt.gz"
+  },
+  {
+   "code": "RM6",
+   "name": "Multi-Family Residential",
+   "quote": "is intended for single-family, duplex, and multi-family dwellings at a density of six dwelling units per acre",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
    "code": "RM9",
    "name": "Multi-Family Residential",
    "quote": "is intended for single-family, duplex, and multi-family dwellings at a density of nine dwelling units per acre",
@@ -121,6 +142,13 @@
    "file": "151112sr.txt.gz"
   },
   {
+   "code": "MUL",
+   "name": "Mixed Use Limited",
+   "quote": "is intended for a moderate intensity mixture of residential, retail, restaurant, and office uses",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/150514sr.pdf",
+   "file": "150514sr.txt.gz"
+  },
+  {
    "code": "MUL-A",
    "name": "Mixed Use Limited",
    "quote": "is intended for a moderate intensity mixture of residential, retail, restaurant, and office uses and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
@@ -142,6 +170,20 @@
    "file": "180125sr.txt.gz"
   },
   {
+   "code": "ON",
+   "name": "Office Neighborhood",
+   "quote": "is intended for low intensity office uses",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/150514sr.pdf",
+   "file": "150514sr.txt.gz"
+  },
+  {
+   "code": "OL",
+   "name": "Office Limited",
+   "quote": "is intended for moderate intensity office uses",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  },
+  {
    "code": "OR20",
    "name": "Office/Residential",
    "quote": "is intended for office and/or multi-family residential units at up to 20 dwelling units per acre",
@@ -152,6 +194,13 @@
    "code": "OR20-A",
    "name": "Office/Residential-Alternative",
    "quote": "is intended for office and/or multi-family residential units at up to 20 dwelling units per acre and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  },
+  {
+   "code": "ORI",
+   "name": "Office/Residential Intensive",
+   "quote": "is intended for high intensity office and/or multi-family uses with limited retail opportunities",
    "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
    "file": "062625StaffReport.txt.gz"
   },
@@ -170,6 +219,13 @@
    "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
   },
   {
+   "code": "CA",
+   "name": "Commercial Attraction",
+   "quote": "is intended for a wide range of amusement, recreational, and retail support uses typically associated with the tourist industry",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/150514sr.pdf",
+   "file": "150514sr.txt.gz"
+  },
+  {
    "code": "IR",
    "name": "Industrial Restrictive",
    "quote": "is intended for a wide range of light manufacturing uses at moderate intensities within enclosed structures",
@@ -182,6 +238,13 @@
    "quote": "is intended for a wide range of warehousing, wholesaling, and bulk distribution uses",
    "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
    "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "IG",
+   "name": "Industrial General",
+   "quote": "is intended for a wide range of intensive manufacturing uses",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/May-8-2014-Staff-reports.pdf",
+   "file": "May-8-2014-Staff-reports.txt.gz"
   },
   {
    "code": "SP",
