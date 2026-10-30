@@ -7,5 +7,12 @@
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.064
+ "batch_cost_usd": 0.064,
+ "judge": {
+  "key": "daa0fc795d8c8901",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The summary says notice is sent to 'neighbors', which is loosely the abutting occupants, but it says 'easement owners' when the text requires the fee owner and occupant of the property burdened by the easement. More importantly, the summary says notice is 'written' and lists required content correctly, but the key issue is the easement party: the text requires notice to the fee owner and occupant of the burdened property, not the easement holders. The summary attaches the notice to the wrong party.",
+  "cost_usd": 0.0066
+ }
 }

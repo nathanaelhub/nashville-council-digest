@@ -15,7 +15,7 @@ from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
-from . import geo, summarize, zoning
+from . import geo, judge, summarize, zoning
 from .records import Item, Meeting, meetings
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -64,7 +64,8 @@ def page(title: str, body: str, depth: int = 0, description: str = "") -> str:
 </main>
 <footer class="wrap foot">
   <p>Not affiliated with Metro Nashville. Summaries are written by Claude from the official text and
-  checked by code: every amount, number, district and name in them appears in that text. Outcomes,
+  checked by code: every amount, number, district and name in them appears in that text. A second
+  reading by Claude checks they mean what the text says. Outcomes,
   sponsors and links come straight from <a href="https://nashville.legistar.com/">Legistar</a>.
   Districts come from Metro's public parcel map. Always confirm with the official record.
   <a href="{REPO}">How this works</a>.</p>
@@ -100,17 +101,21 @@ def zoning_terms(text: str, depth: int) -> str:
 
 def item_card(item: Item, s: dict | None, loc: dict | None, depth: int, show_date: str | None = None) -> str:
     verified = bool(s and s.get("verified") and s.get("summary"))
-    text = e(s["summary"]) if verified else e(item.title)
-    note = "" if verified else (
-        '<p class="note">Showing the official title: the plain-language summary didn\'t pass the fact check.</p>'
-        if s else "")
+    v = judge.verdict(item, s) if verified else None
+    flagged = bool(v and not v["faithful"])
+    shown = verified and not flagged
+    text = e(s["summary"]) if shown else e(item.title)
+    note = "" if shown or not s else (
+        '<p class="note">Showing the official title: a second reading by Claude found the plain-language '
+        'summary may not match the text.</p>' if flagged else
+        '<p class="note">Showing the official title: the plain-language summary didn\'t pass the fact check.</p>')
     topic = (s or {}).get("topic") or ("Appointments" if item.kind == "Appointment" else "Other")
     districts = loc["districts"] if loc else []
     sponsors = ", ".join(item.sponsors[:4]) + (f" and {len(item.sponsors) - 4} more" if len(item.sponsors) > 4 else "")
     when = f'<span class="muted">{e(long_date(show_date))} · </span>' if show_date else ""
     return f"""<article class="card item" data-topic="{e(topic)}" data-districts="{' '.join(map(str, districts))}">
   <header><span class="file">{e(item.file)}</span><span class="badge s-{item.outcome}">{e(BADGE[item.outcome])}</span></header>
-  <p class="summary">{text}</p>{note}{zoning_terms(s["summary"] if verified else item.title, depth)}
+  <p class="summary">{text}</p>{note}{zoning_terms(s["summary"] if shown else item.title, depth)}
   <p class="meta">{when}{e(item.outcome_text)}{(' · Sponsors: ' + e(sponsors)) if sponsors else ''}</p>
   <p class="links">{district_chips(item, loc, depth)} <a href="{e(item.url)}" rel="noopener">Official record</a></p>
 </article>"""
@@ -209,8 +214,8 @@ def index_page(ms: list[Meeting], district_counts: Counter) -> str:
                  for d in range(1, 36))
     body = f"""<h1>What did the Metro Council do?</h1>
 <p class="lede">Every bill and resolution from Nashville's Metro Council meetings, in plain language,
-with what happened to it. Summaries are written by Claude and checked by code against the official
-text; outcomes come straight from the city's records.</p>
+with what happened to it. Summaries are written by Claude, checked by code against the official
+text, and read again by Claude for meaning; outcomes come straight from the city's records.</p>
 <h2>Meetings</h2>
 <ul class="meetings">{''.join(rows)}</ul>
 <h2>By council district</h2>

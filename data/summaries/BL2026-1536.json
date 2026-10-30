@@ -9,5 +9,12 @@
   "name \"Changes Metro's\" not found in the source"
  ],
  "attempts": 2,
- "batch_cost_usd": 0.0877
+ "batch_cost_usd": 0.0877,
+ "judge": {
+  "key": "92780c6af2a3487a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0093
+ }
 }

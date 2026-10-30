@@ -7,5 +7,12 @@
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0625
+ "batch_cost_usd": 0.0625,
+ "judge": {
+  "key": "e93f2a3a2d59e586",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The summary calls the payment 'extra rent', but the text calls it supplemental rent, which is paid in addition to base rent. Calling it 'extra rent' is loose wording. The substantive error is that the summary leaves out that it is supplemental rent for construction costs, though this is only an omission. The amounts and the start date are correct, so the main issue is imprecise labeling.",
+  "cost_usd": 0.0067
+ }
 }

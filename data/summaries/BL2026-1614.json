@@ -7,5 +7,12 @@
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0372
+ "batch_cost_usd": 0.0372,
+ "judge": {
+  "key": "a4def1678bc25ac2",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The text requires approval from the Director of NDOT and/or the Director of Water and Sewerage Services, plus other pertinent departments, so it does not require both the transportation and water departments. The summary also says the alley is 'closed off', which is a loose description of abandonment of the right-of-way.",
+  "cost_usd": 0.006
+ }
 }

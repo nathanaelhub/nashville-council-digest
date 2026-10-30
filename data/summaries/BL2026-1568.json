@@ -9,5 +9,12 @@
   "name \"Metro's Planning Department and Focus Strategies\" not found in the source"
  ],
  "attempts": 2,
- "batch_cost_usd": 0.0925
+ "batch_cost_usd": 0.0925,
+ "judge": {
+  "key": "92a19a08fa114d7d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0083
+ }
 }

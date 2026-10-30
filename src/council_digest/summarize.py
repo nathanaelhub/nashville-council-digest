@@ -89,8 +89,8 @@ def env() -> dict:
     return e
 
 
-async def claude(prompt: str, model: str, timeout: float = 300) -> tuple[str, float]:
-    argv = ["claude", "-p", "--model", model, "--output-format", "json", "--system-prompt", SYSTEM,
+async def claude(prompt: str, model: str, timeout: float = 300, system: str | None = None) -> tuple[str, float]:
+    argv = ["claude", "-p", "--model", model, "--output-format", "json", "--system-prompt", system or SYSTEM,
             "--tools", "", "--setting-sources", "", "--disable-slash-commands", "--strict-mcp-config",
             "--mcp-config", '{"mcpServers":{}}']
     proc = await asyncio.create_subprocess_exec(

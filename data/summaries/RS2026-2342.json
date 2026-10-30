@@ -9,5 +9,12 @@
   "name \"Metropolitan Nashville Parks Department's\" not found in the source"
  ],
  "attempts": 2,
- "batch_cost_usd": 0.0493
+ "batch_cost_usd": 0.0493,
+ "judge": {
+  "key": "2a50ee911bccb94c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
+ }
 }

@@ -7,5 +7,12 @@
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0282
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "24aac50dcca792c4",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "No official text was provided, but the summary matches the title: cancels the PUD overlay on 36.46 acres at the listed addresses, about 122 feet northwest of Firestone Parkway, zoned AR2a.",
+  "cost_usd": 0.0046
+ }
 }

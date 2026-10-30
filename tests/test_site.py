@@ -5,7 +5,7 @@ import re
 
 import pytest
 
-from council_digest import summarize
+from council_digest import judge, summarize
 from council_digest.records import meetings
 from council_digest.site import BADGE, build
 from council_digest.verify import check
@@ -43,7 +43,8 @@ def test_shown_summaries_passed_the_check_and_badges_match_outcomes(site):
             assert f'>{BADGE[item.outcome]}</span>' in card
             text = html.unescape(re.search(r'<p class="summary">(.*?)</p>', card, re.S).group(1))
             s = summarize.cached(item) if summarize.needs_summary(item) else None
-            if s and s["verified"] and s["summary"]:
+            v = judge.verdict(item, s)
+            if s and s["verified"] and s["summary"] and not (v and not v["faithful"]):
                 assert text == s["summary"] and not check(text, summarize.source(item))
             else:
                 assert text == item.title

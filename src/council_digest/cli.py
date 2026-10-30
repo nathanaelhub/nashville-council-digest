@@ -1,4 +1,4 @@
-"""council-digest fetch | locate | summarize | build"""
+"""council-digest fetch | locate | summarize | judge | build"""
 
 from __future__ import annotations
 
@@ -7,7 +7,7 @@ import asyncio
 import sys
 import time
 
-from . import geo, legistar, summarize
+from . import geo, judge, legistar, summarize
 from .records import meetings
 
 
@@ -23,6 +23,10 @@ def main(argv: list[str] | None = None) -> int:
     s.add_argument("--model", default="sonnet")
     s.add_argument("--concurrency", type=int, default=2)
     s.add_argument("--limit", type=int)
+    j = sub.add_parser("judge", help="have Claude check each new summary against its text")
+    j.add_argument("--model", default="sonnet")
+    j.add_argument("--concurrency", type=int, default=2)
+    j.add_argument("--limit", type=int)
     b = sub.add_parser("build", help="build the static site into _site/")
     b.add_argument("--out", default="_site")
     a = p.parse_args(argv)
@@ -38,6 +42,11 @@ def main(argv: list[str] | None = None) -> int:
         done = asyncio.run(summarize.summarize_all(items, a.model, a.concurrency, a.limit,
                                                    log=lambda s: print(s, flush=True)))
         print(f"{len(done)} summarized, {sum(not d['verified'] for d in done)} unverified")
+    elif a.cmd == "judge":
+        items = [i for m in meetings() for i in m.items]
+        done = asyncio.run(judge.judge_all(items, a.model, a.concurrency, a.limit,
+                                           log=lambda s: print(s, flush=True)))
+        print(f"{len(done)} judged, {sum(not d['judge']['faithful'] for d in done)} flagged")
     elif a.cmd == "build":
         from .site import build
         print(build(a.out))

@@ -7,5 +7,12 @@
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0282
+ "batch_cost_usd": 0.0282,
+ "judge": {
+  "key": "8c13b93863961a1c",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The summary gives the new zoning as 'RM20 RM9-NS', copying a garbled phrase from the body text. The title says the change is from AR2a to RM20, and the body shows both RM20 and RM9-NS, so the summary presents an inconsistent designation as if it were a single district and does not match the title's RM20.",
+  "cost_usd": 0.0046
+ }
 }

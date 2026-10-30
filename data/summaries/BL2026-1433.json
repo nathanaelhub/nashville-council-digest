@@ -9,5 +9,12 @@
   "name \"Metro's\" not found in the source"
  ],
  "attempts": 2,
- "batch_cost_usd": 0.0724
+ "batch_cost_usd": 0.0724,
+ "judge": {
+  "key": "42947dadaebe6036",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074
+ }
 }

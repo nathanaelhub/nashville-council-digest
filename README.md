@@ -19,7 +19,7 @@ to their district, without asking them to trust a model's reading of the law.
 | Council district | Metro's public parcel map, from the parcels or address the bill cites |
 | What a zoning code means | Quoted from Metro Planning staff reports, with links |
 | Counts at the top of each meeting | Code |
-| The plain-language summary | Claude, then a fact check by code |
+| The plain-language summary | Claude, then a fact check by code, then a second Claude reading for meaning |
 
 The fact check (`src/council_digest/verify.py`) requires every dollar amount, number, district,
 file number and name in a summary to appear in the official text Claude was shown. Dollar amounts
@@ -70,10 +70,24 @@ reversed. The 4 numbers the checker missed all changed a "0" house number to "3"
 elsewhere in the bill. Full review: [`evals/results/2026-10-29/review.md`](evals/results/2026-10-29/review.md).
 
 **What this means for the site.** The checker is good at what it's for: facts that are wrong or
-made up. It can't see meaning, and a judge can. But the judge isn't part of publishing, for two
-reasons: it's a second model reading, not something the reader can verify, and it's not free
-($2.49 for 361 verdicts here). Running it on new summaries is the obvious next step for anything
-the checker passes.
+made up. It can't see meaning, and a judge can. So every summary that passes the checker is also
+read by the judge (`council-digest judge`, `src/council_digest/judge.py`), and a summary it flags
+is replaced by the official title, the same as one that fails the checker. The judge can only hold
+a summary back, never put one up, so its false alarms cost a plain-language summary, not accuracy.
+
+On October 30, 2026 it read all 522 published summaries ($3.49) and flagged 5. Reading each
+against its text:
+
+| File | Judge's point | Real problem? |
+|---|---|---|
+| BL2026-1434 | Notice goes to the owner of land *under* an easement, not "easement owners" | Yes |
+| BL2026-1614 | Building over utilities needs NDOT *and/or* Water's approval, not both | Yes, minor |
+| BL2026-1552 | Summary says "RM20 RM9-NS" | The bill's own text says "from AR2a to RM20 RM9-NS"; its title says RM20 |
+| RS2026-2347 | "Fix urgent problem spots" overstates "implement intervention tools" | Loose wording |
+| RS2026-2242 | "Extra rent" for what the lease calls supplemental rent | Loose wording |
+
+All five now show the official title. Verdicts are stored with each summary and keyed to its
+text, so a summary is judged again only if it or its text changes.
 
 **What the judge found in the 80 real summaries.** It flagged 3. On reading each against its
 text: none was a wrong summary. One was a false alarm (its own explanation says so). Two were
@@ -112,6 +126,7 @@ uv run pytest                                   # offline, against the committed
 uv run council-digest fetch --since 2026-07-01  # Legistar -> data/raw (resumes if interrupted)
 uv run council-digest locate                    # districts -> data/districts.json
 COUNCIL_DIGEST_USE_LOGIN=1 uv run council-digest summarize   # Claude -> data/summaries
+COUNCIL_DIGEST_USE_LOGIN=1 uv run council-digest judge       # second reading of new summaries
 uv run council-digest build                     # -> _site/
 ```
 
@@ -121,7 +136,7 @@ returns for its second and third readings isn't summarized again unless its text
 
 ### After each council meeting
 
-1. `fetch --since <a week before the meeting>`, then `locate` and `summarize`.
+1. `fetch --since <a week before the meeting>`, then `locate`, `summarize` and `judge`.
 2. `uv run pytest` (the site tests check every shown summary still passes and every badge matches
    its recorded outcome).
 3. Commit `data/` and push. GitHub Pages rebuilds from the committed data once the tests pass.
@@ -136,6 +151,7 @@ src/council_digest/legistar.py   Legistar API client and cache
 src/council_digest/records.py    meetings and items; outcomes from recorded actions
 src/council_digest/geo.py        council districts from parcels and addresses
 src/council_digest/summarize.py  Claude summaries with check-and-retry
+src/council_digest/judge.py      second Claude reading; flagged summaries aren't shown
 src/council_digest/verify.py     the fact checker
 src/council_digest/zoning.py     zoning codes in Metro Planning's words
 src/council_digest/site.py       static site

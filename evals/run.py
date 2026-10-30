@@ -32,6 +32,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 from council_digest import summarize  # noqa: E402
+from council_digest.judge import judge  # noqa: E402
 from council_digest.records import meetings  # noqa: E402
 from council_digest.verify import DISTRICT, MONEY, NAME, NUMBER, SENTENCE_START, check  # noqa: E402
 
@@ -41,13 +42,6 @@ NEGATE = {
     "Appropriates": "Cuts", "Extends": "Ends", "Increases": "Reduces", "Exempts": "Denies",
     "Sets": "Removes", "Expands": "Shrinks", "Grants": "Denies",
 }
-JUDGE = """You check plain-language summaries of Nashville Metro Council legislation against the official text.
-
-For each pair, decide whether the summary is faithful: everything it says is supported by the text,
-nothing is reversed or attached to the wrong party, place or amount. Leaving details out is fine;
-saying something the text doesn't support, or the opposite of what it says, is not.
-
-Reply with only JSON: {"verdicts": [{"id": "...", "faithful": true|false, "problem": "... or empty"}]}"""
 
 
 def names_in(summary: str) -> list[str]:
@@ -105,20 +99,6 @@ def mutate(kind: str, s: str, src: str, rng: random.Random, other_names: list[st
 
 
 KINDS = ["money", "number", "name", "swap", "negate"]
-
-
-async def judge(pairs: list[dict], model: str) -> dict[str, dict]:
-    prompt = "Check each pair.\n\n" + "\n\n".join(
-        f"=== id {p['id']}\nOFFICIAL TEXT:\n{p['source']}\n\nSUMMARY:\n{p['summary']}" for p in pairs)
-    old = summarize.SYSTEM
-    summarize.SYSTEM = JUDGE
-    try:
-        reply, cost = await summarize.claude(prompt, model, timeout=600)
-    finally:
-        summarize.SYSTEM = old
-    start = reply.find("{")
-    obj, _ = json.JSONDecoder().raw_decode(reply[start:])
-    return {str(v["id"]): v | {"cost": cost / len(pairs)} for v in obj["verdicts"]}
 
 
 async def main() -> None:

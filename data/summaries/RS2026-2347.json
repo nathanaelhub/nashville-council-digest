@@ -7,5 +7,12 @@
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0447
+ "batch_cost_usd": 0.0447,
+ "judge": {
+  "key": "5caff446be2b3aea",
+  "model": "sonnet",
+  "faithful": false,
+  "problem": "The resolution asks the departments to determine which crossings are urgent concerns and implement intervention tools at them within three months. The summary says only 'fix urgent problem spots within three months', which drops the step of identifying them first. It also leaves out that the review covers injuries from the prior twelve months. The core deadline claim is supported, but 'fix' overstates 'implement intervention tools'.",
+  "cost_usd": 0.0069
+ }
 }

@@ -7,5 +7,12 @@
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0647
+ "batch_cost_usd": 0.0647,
+ "judge": {
+  "key": "3ce66257f3bd3f85",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0071
+ }
 }
