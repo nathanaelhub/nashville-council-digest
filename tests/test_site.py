@@ -53,3 +53,15 @@ def test_links_are_https(site):
     for p in site.rglob("*.html"):
         for href in re.findall(r'href="([^"]+)"', p.read_text(encoding="utf-8")):
             assert href.startswith("https://") or not re.match(r"\w+:", href), (p.name, href)
+
+
+def test_zoning_terms_appear_on_cards_that_use_codes(site):
+    from council_digest.zoning import codes_in
+    n = 0
+    for p in (site / "meeting").glob("*.html"):
+        for card in cards(p).values():
+            text = html.unescape(re.search(r'<p class="summary">(.*?)</p>', card, re.S).group(1))
+            assert ('class="terms"' in card) == bool(codes_in(text))
+            n += bool(codes_in(text))
+    assert n > 50
+    assert "No Short-Term Rental" in (site / "zoning.html").read_text(encoding="utf-8")

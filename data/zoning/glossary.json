@@ -1,0 +1,210 @@
+{
+ "retrieved": "2026-10-30",
+ "districts": [
+  {
+   "code": "AR2a",
+   "name": "Agricultural/Residential",
+   "quote": "requires a minimum lot size of two acres and is intended for uses that generally occur in rural areas, including single-family, two-family, and mobile homes at a density of one dwelling unit per two acres",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "RS5",
+   "name": "Single-Family Residential",
+   "quote": "requires a minimum 5,000 square foot lot and is intended for single-family dwellings",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "RS7.5",
+   "name": "Single-Family Residential",
+   "quote": "requires a minimum 7,500 square foot lot and is intended for single-family dwellings",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  },
+  {
+   "code": "RS10",
+   "name": "Single-Family Residential",
+   "quote": "requires a minimum of 10,000 square foot lot and is intended for single-family dwellings",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "RS15",
+   "name": "Single-Family Residential",
+   "quote": "requires a minimum 15,000 square foot lot and is intended for single-family dwellings",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "RS20",
+   "name": "Single-Family Residential",
+   "quote": "requires a minimum 20,000 square foot lot and is intended for single-family dwellings only",
+   "source": "https://www.nashville.gov/sites/default/files/2026-09/Planning-Commission-091026-Staff-Report-Update-090426.pdf",
+   "file": "Planning-Commission-091026-Staff-Report-Update-090426.txt.gz"
+  },
+  {
+   "code": "RS40",
+   "name": "Single-Family Residential",
+   "quote": "requires a minimum 40,000 square-foot lot, and is intended for single-family dwellings",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "R6",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum 6,000 square foot lot and is intended for single-family dwellings and duplexes",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  },
+  {
+   "code": "R6-A",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum 6,000 square foot lot and is intended for single-family dwellings and duplexes",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  },
+  {
+   "code": "R8",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum 8,000 square foot lot and is intended for single-family dwellings and duplexes",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "R10",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum of 10,000 square foot lot and is intended for single-family dwellings and duplexes",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "R15",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum 15,000 square foot lot and is intended for single-family dwellings and duplexes",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  },
+  {
+   "code": "R20",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum 20,000 square foot lot and is intended for single-family dwellings and duplexes",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "RM9",
+   "name": "Multi-Family Residential",
+   "quote": "is intended for single-family, duplex, and multi-family dwellings at a density of nine dwelling units per acre",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "RM20",
+   "name": "Multi-Family Residential",
+   "quote": "is intended for single-family, duplex, and multi-family dwellings at a density of 20 dwelling units per acre",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/150514sr.pdf",
+   "file": "150514sr.txt.gz"
+  },
+  {
+   "code": "RM20-A",
+   "name": "Multi-Family Residential",
+   "quote": "is intended for single-family, duplex, and multifamily dwellings at a density of 20 dwelling units per acre and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "MUN-A",
+   "name": "Mixed Use Neighborhood-Alternative",
+   "quote": "is intended for a low intensity mixture of residential, retail, and office uses and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/151112sr.pdf",
+   "file": "151112sr.txt.gz"
+  },
+  {
+   "code": "MUL-A",
+   "name": "Mixed Use Limited",
+   "quote": "is intended for a moderate intensity mixture of residential, retail, restaurant, and office uses and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/151112sr.pdf",
+   "file": "151112sr.txt.gz"
+  },
+  {
+   "code": "MUG-A",
+   "name": "Mixed Use General-Alternative",
+   "quote": "is intended for a moderately high intensity mixture of residential, retail, and office uses and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "MUI-A",
+   "name": "Mixed Use Intensive-Alternative",
+   "quote": "is intended for a high intensity mixture of residential, retail, and office uses and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "OR20",
+   "name": "Office/Residential",
+   "quote": "is intended for office and/or multi-family residential units at up to 20 dwelling units per acre",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/May-8-2014-Staff-reports.pdf",
+   "file": "May-8-2014-Staff-reports.txt.gz"
+  },
+  {
+   "code": "OR20-A",
+   "name": "Office/Residential-Alternative",
+   "quote": "is intended for office and/or multi-family residential units at up to 20 dwelling units per acre and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  },
+  {
+   "code": "CL",
+   "name": "Commercial Limited",
+   "quote": "is intended for retail, consumer service, financial, restaurant, and office uses",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "CS",
+   "name": "Commercial Service",
+   "quote": "is intended for retail, consumer service, financial, restaurant, office, self-service storage, light manufacturing, and small warehouse uses",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "IR",
+   "name": "Industrial Restrictive",
+   "quote": "is intended for a wide range of light manufacturing uses at moderate intensities within enclosed structures",
+   "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
+   "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "IWD",
+   "name": "Industrial Warehousing/Distribution",
+   "quote": "is intended for a wide range of warehousing, wholesaling, and bulk distribution uses",
+   "source": "https://www.nashville.gov/sites/default/files/2026-07/Planning_Commission_Meeting_07-23-26_Staff_Report.pdf",
+   "file": "Planning_Commission_Meeting_07-23-26_Staff_Report.txt.gz"
+  },
+  {
+   "code": "SP",
+   "name": "Specific Plan",
+   "quote": "is a zoning district category that provides for additional flexibility of design, including the relationship of streets to buildings, to provide the ability to implement the specific details of the General Plan",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/150514sr.pdf",
+   "file": "150514sr.txt.gz"
+  }
+ ],
+ "suffixes": [
+  {
+   "code": "-A",
+   "name": "Alternative",
+   "quote": "is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/151112sr.pdf",
+   "file": "151112sr.txt.gz"
+  },
+  {
+   "code": "-NS",
+   "name": "No Short-Term Rental",
+   "quote": "The -NS designation prohibits Short-Term Rental Property – Owner Occupied and Short-Term Rental Property – Not Owner Occupied uses from the district",
+   "source": "https://www.nashville.gov/sites/default/files/2025-06/062625StaffReport.pdf",
+   "file": "062625StaffReport.txt.gz"
+  }
+ ]
+}

@@ -15,7 +15,7 @@ from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
 
-from . import geo, summarize
+from . import geo, summarize, zoning
 from .records import Item, Meeting, meetings
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -87,6 +87,17 @@ def district_chips(item: Item, loc: dict | None, depth: int) -> str:
                     for d in loc["districts"])
 
 
+def zoning_terms(text: str, depth: int) -> str:
+    codes = zoning.codes_in(text)
+    if not codes:
+        return ""
+    rows = "".join(
+        f'<dt>{e(c)}</dt><dd>' + " ".join(f'<span class="term">{e(x["name"])}</span> {e(x["quote"])}.' for x in zoning.explain(c))
+        + '</dd>' for c in codes)
+    return (f'<details class="terms"><summary>Zoning terms</summary><dl>{rows}</dl>'
+            f'<p class="muted">In Metro Planning\'s words. <a href="{"../" * depth}zoning.html">All zoning terms and sources</a>.</p></details>')
+
+
 def item_card(item: Item, s: dict | None, loc: dict | None, depth: int, show_date: str | None = None) -> str:
     verified = bool(s and s.get("verified") and s.get("summary"))
     text = e(s["summary"]) if verified else e(item.title)
@@ -99,7 +110,7 @@ def item_card(item: Item, s: dict | None, loc: dict | None, depth: int, show_dat
     when = f'<span class="muted">{e(long_date(show_date))} · </span>' if show_date else ""
     return f"""<article class="card item" data-topic="{e(topic)}" data-districts="{' '.join(map(str, districts))}">
   <header><span class="file">{e(item.file)}</span><span class="badge s-{item.outcome}">{e(BADGE[item.outcome])}</span></header>
-  <p class="summary">{text}</p>{note}
+  <p class="summary">{text}</p>{note}{zoning_terms(s["summary"] if verified else item.title, depth)}
   <p class="meta">{when}{e(item.outcome_text)}{(' · Sponsors: ' + e(sponsors)) if sponsors else ''}</p>
   <p class="links">{district_chips(item, loc, depth)} <a href="{e(item.url)}" rel="noopener">Official record</a></p>
 </article>"""
@@ -170,6 +181,24 @@ latest action. Countywide legislation affects every district and is on the meeti
     return page(f"District {n}: Metro Council items", body, depth=1)
 
 
+def zoning_page() -> str:
+    g = zoning.glossary()
+    def rows(entries):
+        return "".join(f'<dt>{e(x["code"])}</dt><dd><span class="term">{e(x["name"])}</span> {e(x["quote"])}. '
+                       f'<a href="{e(x["source"])}" rel="noopener">Source</a></dd>' for x in entries)
+    body = f"""<h1>Zoning terms</h1>
+<p class="lede">Zoning bills change a property from one zoning district to another, written as codes like RS5 or
+RM20-A-NS. Each definition below is quoted from a Metro Planning Commission staff report, linked as its source.
+A code's parts add up: RM20-A-NS is RM20, plus -A, plus -NS.</p>
+<h2>Districts</h2>
+<dl class="card glossary">{rows(g["districts"])}</dl>
+<h2>Endings</h2>
+<dl class="card glossary">{rows(g["suffixes"])}</dl>
+<p class="hint">The exact rules are in Title 17 of the Metro Code. Districts not listed here (such as RM15 or DTC) don't
+have a definition with a source yet.</p>"""
+    return page("Zoning terms", body, description="Nashville zoning codes like RS5, R6-A and SP, in Metro Planning's words.")
+
+
 def index_page(ms: list[Meeting], district_counts: Counter) -> str:
     rows = []
     for m in reversed(ms):
@@ -186,7 +215,8 @@ text; outcomes come straight from the city's records.</p>
 <ul class="meetings">{''.join(rows)}</ul>
 <h2>By council district</h2>
 <p class="hint">Items whose property or address is in the district.</p>
-<div class="chips">{ds}</div>"""
+<div class="chips">{ds}</div>
+<p class="hint">Zoning codes like RS5 or RM20-A-NS are explained on the <a href="zoning.html">zoning terms</a> page.</p>"""
     return page("Nashville Council Digest", body)
 
 
@@ -215,4 +245,5 @@ def build(out: str | Path = "_site") -> Path:
     for d in range(1, 36):
         (out / "district" / f"{d}.html").write_text(district_page(d, by_district[d], sums, locs), encoding="utf-8")
     (out / "index.html").write_text(index_page(ms, counts), encoding="utf-8")
+    (out / "zoning.html").write_text(zoning_page(), encoding="utf-8")
     return out

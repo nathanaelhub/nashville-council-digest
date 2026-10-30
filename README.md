@@ -17,6 +17,7 @@ to their district, without asking them to trust a model's reading of the law.
 | Outcome (passed, moving forward, put off...) | The action Legistar recorded, mapped by code |
 | Sponsors, links, agenda and minutes | Legistar, verbatim |
 | Council district | Metro's public parcel map, from the parcels or address the bill cites |
+| What a zoning code means | Quoted from Metro Planning staff reports, with links |
 | Counts at the top of each meeting | Code |
 | The plain-language summary | Claude, then a fact check by code |
 
@@ -95,8 +96,10 @@ uv run python evals/score.py evals/results/<date>
   523 distinct bills and resolutions). Committees and the Planning Commission aren't included.
 - Summaries describe what an item *does*, from its text. They don't explain why, who supports it,
   or what will happen; for that, follow the official record and the minutes.
-- Zoning codes (RS10, SP, R6-A) are shown as written. A glossary from Metro's zoning code is a
-  good next step.
+- Zoning codes (RS10, SP, R6-A) are explained under each card and on a [zoning terms](https://nathanaelhub.github.io/nashville-council-digest/zoning.html)
+  page, quoted from Metro Planning Commission staff reports (cached in `data/zoning/sources/`; a
+  test checks every quote is in its report). Codes are explained part by part (RM20-A-NS is
+  RM20-A plus -NS). RM15 and CF have no sourced definition yet, so they're left unexplained.
 - District lookup can miss addresses newer than the parcel layer (it then uses the nearest house
   number on the same street, and says so) and can't place unnumbered land.
 - Not affiliated with Metro Nashville. Always confirm with the official record.
@@ -134,6 +137,7 @@ src/council_digest/records.py    meetings and items; outcomes from recorded acti
 src/council_digest/geo.py        council districts from parcels and addresses
 src/council_digest/summarize.py  Claude summaries with check-and-retry
 src/council_digest/verify.py     the fact checker
+src/council_digest/zoning.py     zoning codes in Metro Planning's words
 src/council_digest/site.py       static site
 evals/                           planted-error evaluation of the checker and a Claude judge
 data/                            cached records, summaries, districts (committed)

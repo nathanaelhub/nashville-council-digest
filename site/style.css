@@ -77,3 +77,11 @@ select:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px soli
 .appts summary { cursor: pointer; font-weight: 600; }
 .appts ul { margin: 10px 0 0; padding-left: 20px; display: grid; gap: 6px; font-size: 14px; }
 .foot { padding: 32px 16px 48px; font-size: 14px; color: var(--muted); }
+
+.terms { margin: 8px 0 0; font-size: 14px; }
+.terms summary { cursor: pointer; color: var(--accent); }
+.terms dl, .glossary { margin: 6px 0 0; display: grid; grid-template-columns: max-content 1fr; gap: 4px 12px; }
+.terms dt, .glossary dt { font-weight: 600; font-variant-numeric: tabular-nums; }
+.terms dd, .glossary dd { margin: 0; }
+.term { font-weight: 600; }
+.terms .muted { margin: 6px 0 0; }
