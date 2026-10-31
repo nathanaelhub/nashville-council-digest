@@ -17,7 +17,7 @@ to their district, without asking them to trust a model's reading of the law.
 | Outcome (passed, moving forward, put off...) | The action Legistar recorded, mapped by code |
 | Sponsors, links, agenda and minutes | Legistar, verbatim |
 | Council district | Metro's public parcel map, from the parcels or address the bill cites |
-| What a zoning code means | Quoted from Metro Planning staff reports, with links |
+| What a zoning code means | Quoted from Metro Planning staff reports and its zoning page, with links |
 | Counts at the top of each meeting | Code |
 | The plain-language summary | Claude, then a fact check by code, then a second Claude reading for meaning |
 
@@ -111,9 +111,11 @@ uv run python evals/score.py evals/results/<date>
 - Summaries describe what an item *does*, from its text. They don't explain why, who supports it,
   or what will happen; for that, follow the official record and the minutes.
 - Zoning codes (RS10, SP, R6-A) are explained under each card and on a [zoning terms](https://nathanaelhub.github.io/nashville-council-digest/zoning.html)
-  page, quoted from Metro Planning Commission staff reports (cached in `data/zoning/sources/`; a
-  test checks every quote is in its report). Codes are explained part by part (RM20-A-NS is
-  RM20-A plus -NS). RM15, MUG, RS80, R80 and CF have no sourced definition yet, so they're left unexplained.
+  page, quoted from Metro Planning Commission staff reports and Metro Planning's
+  [zoning classifications](https://www.nashville.gov/departments/planning/land-development/rezone-my-property/zoning-classifications)
+  page (cached in `data/zoning/sources/`; a test checks every quote is in its source). Codes are
+  explained part by part (RM20-A-NS is RM20-A plus -NS). Every district named in a published summary
+  has a definition, and a test fails if a new one appears without one.
 - District lookup can miss addresses newer than the parcel layer (it then uses the nearest house
   number on the same street, and says so) and can't place unnumbered land.
 - Not affiliated with Metro Nashville. Always confirm with the official record.
@@ -136,13 +138,16 @@ returns for its second and third readings isn't summarized again unless its text
 
 ### After each council meeting
 
-1. `fetch --since <a week before the meeting>`, then `locate`, `summarize` and `judge`.
-2. `uv run pytest` (the site tests check every shown summary still passes and every badge matches
-   its recorded outcome).
-3. Commit `data/` and push. GitHub Pages rebuilds from the committed data once the tests pass.
+```bash
+scripts/update.sh --push    # or without --push to review the commit first
+```
 
-Legistar fills in minutes and actions a few days after a meeting; fetching with `--refresh` picks
-up the final record.
+It re-fetches the last 21 days (`--since` to change that), so the minutes and actions Legistar
+fills in a few days after a meeting are picked up; then it runs `locate`, `summarize`, `judge`
+and the tests, and commits `data/` only if everything passed. The site tests check every shown
+summary still passes the checker and every badge matches its recorded outcome. GitHub Pages
+rebuilds from the committed data once the tests pass there too. Summaries and the judge need your
+Claude login, which is why this runs on your machine rather than in CI.
 
 ## Layout
 

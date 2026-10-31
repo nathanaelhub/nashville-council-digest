@@ -58,6 +58,13 @@
    "file": "180125sr.txt.gz"
   },
   {
+   "code": "RS80",
+   "name": "Single-Family Residential",
+   "quote": "low density residential, requiring a minimum 80,000 square foot lot and intended for single-family dwellings",
+   "source": "https://www.nashville.gov/departments/planning/land-development/rezone-my-property/zoning-classifications",
+   "file": "zoning-classifications.txt.gz"
+  },
+  {
    "code": "R6",
    "name": "One and Two-Family Residential",
    "quote": "requires a minimum 6,000 square foot lot and is intended for single-family dwellings and duplexes",
@@ -107,6 +114,13 @@
    "file": "May-8-2014-Staff-reports.txt.gz"
   },
   {
+   "code": "R80",
+   "name": "One and Two-Family Residential",
+   "quote": "requires a minimum 80,000 square foot lot and is intended for single-family dwellings and duplexes at an overall density of .58 dwelling units per acre including 25 percent duplex lots",
+   "source": "https://www.nashville.gov/sites/default/files/2021-09/151112sr.pdf",
+   "file": "151112sr.txt.gz"
+  },
+  {
    "code": "RM6",
    "name": "Multi-Family Residential",
    "quote": "is intended for single-family, duplex, and multi-family dwellings at a density of six dwelling units per acre",
@@ -119,6 +133,13 @@
    "quote": "is intended for single-family, duplex, and multi-family dwellings at a density of nine dwelling units per acre",
    "source": "https://www.nashville.gov/sites/default/files/2021-08/180125sr.pdf",
    "file": "180125sr.txt.gz"
+  },
+  {
+   "code": "RM15",
+   "name": "Multi-Family Residential",
+   "quote": "medium-high density residential, intended for multi-family dwellings at 15 units per acre",
+   "source": "https://www.nashville.gov/departments/planning/land-development/rezone-my-property/zoning-classifications",
+   "file": "zoning-classifications.txt.gz"
   },
   {
    "code": "RM20",
@@ -154,6 +175,13 @@
    "quote": "is intended for a moderate intensity mixture of residential, retail, restaurant, and office uses and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",
    "source": "https://www.nashville.gov/sites/default/files/2021-09/151112sr.pdf",
    "file": "151112sr.txt.gz"
+  },
+  {
+   "code": "MUG",
+   "name": "Mixed Use General",
+   "quote": "intended for a moderately high intensity mixture of residential, retail, and office uses",
+   "source": "https://www.nashville.gov/departments/planning/land-development/rezone-my-property/zoning-classifications",
+   "file": "zoning-classifications.txt.gz"
   },
   {
    "code": "MUG-A",
@@ -224,6 +252,13 @@
    "quote": "is intended for a wide range of amusement, recreational, and retail support uses typically associated with the tourist industry",
    "source": "https://www.nashville.gov/sites/default/files/2021-09/150514sr.pdf",
    "file": "150514sr.txt.gz"
+  },
+  {
+   "code": "CF",
+   "name": "Core Frame",
+   "quote": "intended for a wide range of parking and commercial service support uses for the central business district",
+   "source": "https://www.nashville.gov/departments/planning/land-development/rezone-my-property/zoning-classifications",
+   "file": "zoning-classifications.txt.gz"
   },
   {
    "code": "IR",

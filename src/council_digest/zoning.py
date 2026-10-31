@@ -1,8 +1,9 @@
 """Zoning codes (RS10, R6-A, RM20-A-NS, SP...) explained in Metro Planning's own words.
 
-Each definition in data/zoning/glossary.json is a sentence copied from a Metro
-Planning Commission staff report, with the report's URL. The report texts are
-cached in data/zoning/sources/, and tests check every quote is in its report.
+Each definition in data/zoning/glossary.json is copied from a Metro Planning
+Commission staff report or Metro Planning's zoning classifications page, with its
+URL. The source texts are cached in data/zoning/sources/, and tests check every
+quote is in its source.
 
 A code is explained by its base district (RM20-A-NS -> RM20-A, else RM20) plus
 its suffixes (-A, -NS). Codes with no cited definition are left unexplained.

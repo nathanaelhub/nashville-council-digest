@@ -193,7 +193,8 @@ def zoning_page() -> str:
                        f'<a href="{e(x["source"])}" rel="noopener">Source</a></dd>' for x in entries)
     body = f"""<h1>Zoning terms</h1>
 <p class="lede">Zoning bills change a property from one zoning district to another, written as codes like RS5 or
-RM20-A-NS. Each definition below is quoted from a Metro Planning Commission staff report, linked as its source.
+RM20-A-NS. Each definition below is quoted from a Metro Planning Commission staff report or Metro Planning's zoning
+classifications page, linked as its source.
 A code's parts add up: RM20-A-NS is RM20, plus -A, plus -NS.</p>
 <h2>Districts</h2>
 <dl class="card glossary">{rows(g["districts"])}</dl>
