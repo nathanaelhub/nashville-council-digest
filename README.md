@@ -5,6 +5,9 @@ meetings, in plain language, with what happened to it and which council district
 
 **Live site:** https://nathanaelhub.github.io/nashville-council-digest/
 
+Each meeting has a page, each council district has a page and a feed to follow, and each bill or
+resolution has a page with every reading: when it came up, what happened, and links to each meeting.
+
 Council agendas run to 100–170 items, written in legal language ("An ordinance to amend Title 17
 of the Metropolitan Code of Laws... by changing from RS10 to R10 zoning for property located
 at..."). This turns each meeting into a page a resident can read in a few minutes, and filters it
@@ -118,6 +121,10 @@ uv run python evals/score.py evals/results/<date>
   has a definition, and a test fails if a new one appears without one.
 - District lookup can miss addresses newer than the parcel layer (it then uses the nearest house
   number on the same street, and says so) and can't place unnumbered land.
+- **Following a district:** each district page links an Atom feed (`district/<n>.xml`, and
+  `feed.xml` for every item) with one entry per agenda appearance, newest first, using the same
+  rule as the cards: a summary only if it passed both checks, otherwise the official title. Paste
+  it into a feed reader or a feed-to-email service; the site itself collects nothing.
 - Not affiliated with Metro Nashville. Always confirm with the official record.
 
 ## Running it

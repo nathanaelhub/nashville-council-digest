@@ -1,4 +1,4 @@
-"""Build the static site: one page per meeting, one per council district.
+"""Build the static site: one page per meeting, council district and bill, plus Atom feeds.
 
 Everything a reader sees is either official (titles, sponsors, links,
 outcomes recorded in Legistar), computed by code (counts, districts), or a
@@ -14,6 +14,7 @@ import shutil
 from collections import Counter, defaultdict
 from datetime import date
 from pathlib import Path
+from xml.sax.saxutils import escape as xml_escape
 
 from . import geo, judge, summarize, zoning
 from .records import Item, Meeting, meetings
@@ -21,6 +22,8 @@ from .records import Item, Meeting, meetings
 ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / "site"
 REPO = "https://github.com/nathanaelhub/nashville-council-digest"
+SITE = "https://nathanaelhub.github.io/nashville-council-digest/"
+FEED_ENTRIES = 100
 
 GROUPS = [
     ("passed", "Passed", "Final votes: these are now law or adopted."),
@@ -43,8 +46,9 @@ def long_date(iso: str) -> str:
     return f"{d:%B} {d.day}, {d.year}"
 
 
-def page(title: str, body: str, depth: int = 0, description: str = "") -> str:
+def page(title: str, body: str, depth: int = 0, description: str = "", feed: str = "") -> str:
     up = "../" * depth
+    alt = f'\n<link rel="alternate" type="application/atom+xml" title="{e(title)}" href="{up}{feed}">' if feed else ""
     desc = description or "Plain-language digests of Nashville Metro Council meetings, checked against the official record."
     return f"""<!doctype html>
 <html lang="en">
@@ -53,7 +57,7 @@ def page(title: str, body: str, depth: int = 0, description: str = "") -> str:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{e(title)}</title>
 <meta name="description" content="{e(desc)}">
-<link rel="stylesheet" href="{up}style.css">
+<link rel="stylesheet" href="{up}style.css">{alt}
 </head>
 <body>
 <header class="top"><div class="wrap">
@@ -99,12 +103,29 @@ def zoning_terms(text: str, depth: int) -> str:
             f'<p class="muted">In Metro Planning\'s words. <a href="{"../" * depth}zoning.html">All zoning terms and sources</a>.</p></details>')
 
 
-def item_card(item: Item, s: dict | None, loc: dict | None, depth: int, show_date: str | None = None) -> str:
+def shown_summary(item: Item, s: dict | None) -> tuple[bool, bool]:
+    """(shown, flagged): show the summary only if it passed the fact check and the judge didn't flag it."""
     verified = bool(s and s.get("verified") and s.get("summary"))
     v = judge.verdict(item, s) if verified else None
     flagged = bool(v and not v["faithful"])
-    shown = verified and not flagged
-    text = e(s["summary"]) if shown else e(item.title)
+    return verified and not flagged, flagged
+
+
+def display_text(item: Item, s: dict | None) -> str:
+    return s["summary"] if shown_summary(item, s)[0] else item.title
+
+
+def file_label(item: Item, depth: int) -> str:
+    """Bills and resolutions link to their history page; other agenda entries (reports, public comment) don't have one."""
+    if summarize.needs_summary(item):
+        return (f'<a class="file" href="{"../" * depth}bill/{e(item.file)}.html" '
+                f'title="Every reading of {e(item.file)}">{e(item.file)}</a>')
+    return f'<span class="file">{e(item.file)}</span>'
+
+
+def item_card(item: Item, s: dict | None, loc: dict | None, depth: int, show_date: str | None = None) -> str:
+    shown, flagged = shown_summary(item, s)
+    text = e(display_text(item, s))
     note = "" if shown or not s else (
         '<p class="note">Showing the official title: a second reading by Claude found the plain-language '
         'summary may not match the text.</p>' if flagged else
@@ -114,7 +135,7 @@ def item_card(item: Item, s: dict | None, loc: dict | None, depth: int, show_dat
     sponsors = ", ".join(item.sponsors[:4]) + (f" and {len(item.sponsors) - 4} more" if len(item.sponsors) > 4 else "")
     when = f'<span class="muted">{e(long_date(show_date))} · </span>' if show_date else ""
     return f"""<article class="card item" data-topic="{e(topic)}" data-districts="{' '.join(map(str, districts))}">
-  <header><span class="file">{e(item.file)}</span><span class="badge s-{item.outcome}">{e(BADGE[item.outcome])}</span></header>
+  <header>{file_label(item, depth)}<span class="badge s-{item.outcome}">{e(BADGE[item.outcome])}</span></header>
   <p class="summary">{text}</p>{note}{zoning_terms(s["summary"] if shown else item.title, depth)}
   <p class="meta">{when}{e(item.outcome_text)}{(' · Sponsors: ' + e(sponsors)) if sponsors else ''}</p>
   <p class="links">{district_chips(item, loc, depth)} <a href="{e(item.url)}" rel="noopener">Official record</a></p>
@@ -181,9 +202,60 @@ def district_page(n: int, entries: list[tuple[Meeting, Item]], sums: dict, locs:
 <p class="lede">{len(latest)} items that name a property or address in District {n}, newest first, with each one's
 latest action. Countywide legislation affects every district and is on the meeting pages.
 <a href="https://www.nashville.gov/departments/council/council-members" rel="noopener">Find your council member</a>.</p>
+{follow(f"district/{n}.xml", f"District {n}", 1)}
 {filters(topics, [])}
 {cards}"""
-    return page(f"District {n}: Metro Council items", body, depth=1)
+    return page(f"District {n}: Metro Council items", body, depth=1, feed=f"district/{n}.xml")
+
+
+def follow(feed: str, what: str, depth: int) -> str:
+    return (f'<p class="follow"><a href="{"../" * depth}{feed}">Follow {e(what)}</a>: paste this link into a feed '
+            'reader, or into a service that emails you feeds, to hear about each new item after a meeting. '
+            'Nothing is collected here.</p>')
+
+
+def bill_page(file: str, history: list[tuple[Meeting, Item]], sums: dict, locs: dict) -> str:
+    """Every agenda appearance of one bill or resolution, oldest first, under its latest card."""
+    m_last, latest = history[-1]
+    rows = "".join(
+        f'<li><a href="../meeting/{m.date}.html">{e(long_date(m.date))}</a> · {e(i.section)}'
+        f' <span class="badge s-{i.outcome}">{e(BADGE[i.outcome])}</span>'
+        f'{f"<br><span class=muted>{e(i.outcome_text)}</span>" if i.outcome_text else ""}</li>'
+        for m, i in history)
+    n = len(history)
+    body = f"""<h1>{e(file)}</h1>
+<p class="lede">On the full council's agenda {n} {"time" if n == 1 else "times"} from January 2026, oldest first.
+Bills need three readings to pass; resolutions need one.</p>
+{item_card(latest, sums.get(file), locs.get(file), 1, show_date=m_last.date)}
+<h2>History</h2>
+<ol class="card history">{rows}</ol>"""
+    return page(f"{file}: Metro Council", body, depth=1,
+                description=f"Every Nashville Metro Council reading of {file}, with what happened each time.")
+
+
+def atom_feed(title: str, path: str, entries: list[tuple[Meeting, Item]], sums: dict) -> str:
+    """An Atom feed of agenda appearances, newest first. Entry text follows the same rules as the cards."""
+    entries = sorted(entries, key=lambda x: (x[0].date, x[1].file), reverse=True)[:FEED_ENTRIES]
+    updated = f"{entries[0][0].date}T12:00:00Z" if entries else "2026-01-01T00:00:00Z"
+    x = xml_escape
+    items = "".join(f"""
+  <entry>
+    <title>{x(i.file)}: {x(BADGE[i.outcome])} on {x(long_date(m.date))}</title>
+    <id>{x(SITE)}bill/{x(i.file)}.html#{m.date}</id>
+    <link href="{x(SITE)}bill/{x(i.file)}.html"/>
+    <updated>{m.date}T12:00:00Z</updated>
+    <summary>{x(display_text(i, sums.get(i.file)))}</summary>
+  </entry>""" for m, i in entries)
+    return f"""<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{x(title)}</title>
+  <id>{x(SITE)}{x(path)}</id>
+  <link rel="self" href="{x(SITE)}{x(path)}"/>
+  <link href="{x(SITE)}"/>
+  <updated>{updated}</updated>
+  <author><name>Nashville Council Digest</name></author>{items}
+</feed>
+"""
 
 
 def zoning_page() -> str:
@@ -220,10 +292,12 @@ text, and read again by Claude for meaning; outcomes come straight from the city
 <h2>Meetings</h2>
 <ul class="meetings">{''.join(rows)}</ul>
 <h2>By council district</h2>
-<p class="hint">Items whose property or address is in the district.</p>
+<p class="hint">Items whose property or address is in the district. Each district page has a feed you can
+follow to hear about new items.</p>
 <div class="chips">{ds}</div>
+{follow("feed.xml", "every item", 0)}
 <p class="hint">Zoning codes like RS5 or RM20-A-NS are explained on the <a href="zoning.html">zoning terms</a> page.</p>"""
-    return page("Nashville Council Digest", body)
+    return page("Nashville Council Digest", body, feed="feed.xml")
 
 
 def build(out: str | Path = "_site") -> Path:
@@ -239,17 +313,28 @@ def build(out: str | Path = "_site") -> Path:
                 sums[i.file] = summarize.cached(i) or sums.get(i.file)
     sums = {k: v for k, v in sums.items() if v}
     locs = json.loads(geo.CACHE.read_text(encoding="utf-8")) if geo.CACHE.exists() else {}
-    (out / "meeting").mkdir()
-    (out / "district").mkdir()
+    for d in ("meeting", "district", "bill"):
+        (out / d).mkdir()
     by_district = defaultdict(list)
+    by_file = defaultdict(list)
     for m in ms:
         (out / "meeting" / f"{m.date}.html").write_text(meeting_page(m, sums, locs), encoding="utf-8")
         for i in m.items:
+            if not summarize.needs_summary(i):
+                continue
+            by_file[i.file].append((m, i))
             for d in (locs.get(i.file) or {}).get("districts", []):
                 by_district[d].append((m, i))
+    for f, history in by_file.items():
+        (out / "bill" / f"{f}.html").write_text(bill_page(f, history, sums, locs), encoding="utf-8")
+    everything = [x for h in by_file.values() for x in h]
+    (out / "feed.xml").write_text(atom_feed("Nashville Council Digest: every item", "feed.xml", everything, sums),
+                                  encoding="utf-8")
     counts = Counter({d: len({i.file for _, i in v}) for d, v in by_district.items()})
     for d in range(1, 36):
         (out / "district" / f"{d}.html").write_text(district_page(d, by_district[d], sums, locs), encoding="utf-8")
+        (out / "district" / f"{d}.xml").write_text(
+            atom_feed(f"Nashville Council Digest: District {d}", f"district/{d}.xml", by_district[d], sums), encoding="utf-8")
     (out / "index.html").write_text(index_page(ms, counts), encoding="utf-8")
     (out / "zoning.html").write_text(zoning_page(), encoding="utf-8")
     return out
