@@ -1,18 +1,18 @@
 {
  "file": "BL2026-1609",
- "source_hash": "9239e640575ff82d",
+ "source_hash": "940c0caaffa77ecf",
  "model": "sonnet",
- "summary": "Raises the victims assistance assessment collected by the Davidson County Criminal Court Clerk from $45 to $125 to match state law. The Clerk keeps the first $15, and the other $110 is split equally at $22 each among CASA, the Mary Parrish Center, the YWCA Domestic Violence program, the Nashville Children's Alliance, and the Sexual Assault Center.",
+ "summary": "Raises the victims assistance fee collected by the Davidson County Criminal Court Clerk from $45 to $125 to match a state law change. The clerk keeps the first $15 for processing costs, and the remaining $110 is split into $22 payments to each of CASA, the Mary Parrish Center, the YWCA Domestic Violence program, the Nashville Children's Alliance, and the Sexual Assault Center.",
  "topic": "Public safety",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.043,
+ "batch_cost_usd": 0.0201,
  "judge": {
-  "key": "19d76ad5d154237b",
+  "key": "27032859d3dc847f",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0069
+  "cost_usd": 0.0089
  }
 }
