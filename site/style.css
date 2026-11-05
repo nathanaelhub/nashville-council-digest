@@ -85,3 +85,11 @@ select:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px soli
 .terms dd, .glossary dd { margin: 0; }
 .term { font-weight: 600; }
 .terms .muted { margin: 6px 0 0; }
+
+/* Bill pages and follow links */
+a.file { text-decoration: none; }
+a.file:hover { text-decoration: underline; }
+.follow { font-size: 0.95rem; }
+ol.history { padding: 1rem 1rem 1rem 2.25rem; }
+ol.history li { margin: 0.4rem 0; }
+ol.history .badge { margin-left: 0.4rem; }
