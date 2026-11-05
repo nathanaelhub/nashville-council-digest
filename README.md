@@ -92,6 +92,13 @@ now show the official title. Details: [`evals/results/2026-10-30-judge/review.md
 Verdicts are stored with each summary and keyed to its text, so a summary is judged again only if
 it or its text changes.
 
+**Auditing the judge itself.** [judge-audit](https://github.com/nathanaelhub/judge-audit) ran this
+judge's rule over 191 labeled summaries, five votes each (November 4, 2026). It caught every planted
+wrong amount, number and name and every reversed verb; the four batch false alarms never recurred
+when each summary was judged alone; and its errors were locked to items, so extra votes wouldn't
+help. It also found that the rule's "leaving details out is fine" lets through omissions that change
+what an item does, including one on the live site (BL2026-1565); see the open issue.
+
 **What the judge found in the 80 real summaries.** It flagged 3. On reading each against its
 text: none was a wrong summary. One was a false alarm (its own explanation says so). Two were
 **problems in the official record**: on RS2026-2301 the Council Office analysis names a different
