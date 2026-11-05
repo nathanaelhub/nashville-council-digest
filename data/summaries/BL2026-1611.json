@@ -1,18 +1,18 @@
 {
  "file": "BL2026-1611",
- "source_hash": "6a19606fcf650dc3",
+ "source_hash": "8e32e59a76af91eb",
  "model": "sonnet",
- "summary": "Approves an agreement with Competitor Group, Inc. to run the Rock 'n' Roll Running Series road race in Nashville. The company would reimburse Metro up to $300,000 per event for police and fire services.",
+ "summary": "Approves an agreement with Competitor Group, Inc. to run a Rock 'n' Roll Running Series road race in Nashville each year. The company would repay Metro up to $300,000 per event for police and fire services, and Metro would make no payments to the company.",
  "topic": "Budget, grants and contracts",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.043,
+ "batch_cost_usd": 0.0201,
  "judge": {
-  "key": "10957bf86b46faaf",
+  "key": "60cd17ade1656a41",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.006
+  "cost_usd": 0.0089
  }
 }

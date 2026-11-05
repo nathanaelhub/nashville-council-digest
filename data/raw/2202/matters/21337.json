@@ -1,5 +1,26 @@
 {
- "attachments": [],
+ "attachments": [
+  {
+   "MatterAttachmentAgiloftId": 0,
+   "MatterAttachmentBinary": null,
+   "MatterAttachmentDescription": null,
+   "MatterAttachmentFileName": "55befa49-e66a-4f42-b71a-a9b3a2b61127.pdf",
+   "MatterAttachmentGuid": "9B181D12-D1E3-4CD4-940A-3934A2EA2B6B",
+   "MatterAttachmentHyperlink": "https://nashville.legistar1.com/nashville/attachments/55befa49-e66a-4f42-b71a-a9b3a2b61127.pdf",
+   "MatterAttachmentId": 41272,
+   "MatterAttachmentIsBoardLetter": false,
+   "MatterAttachmentIsHyperlink": false,
+   "MatterAttachmentIsMinuteOrder": false,
+   "MatterAttachmentIsSupportingDocument": false,
+   "MatterAttachmentLastModifiedUtc": "2026-11-02T15:28:19.02",
+   "MatterAttachmentMatterVersion": "0",
+   "MatterAttachmentName": "Proposed Amendment - RS2026-2347 - Kupin",
+   "MatterAttachmentPrintWithReports": true,
+   "MatterAttachmentRowVersion": "AAAAAAESpvk=",
+   "MatterAttachmentShowOnInternetPage": true,
+   "MatterAttachmentSort": 1
+  }
+ ],
  "histories": [
   {
    "MatterHistoryAccelaRecordId": null,
@@ -202,7 +223,7 @@
   "MatterGuid": "538801CC-04F8-4BB1-A992-9AF176101584",
   "MatterId": 21337,
   "MatterIntroDate": "2026-10-13T00:00:00",
-  "MatterLastModifiedUtc": "2026-10-28T17:53:22.07",
+  "MatterLastModifiedUtc": "2026-11-02T15:28:23.617",
   "MatterName": null,
   "MatterNotes": null,
   "MatterPassedDate": null,
@@ -210,7 +231,7 @@
   "MatterReports": [],
   "MatterRequester": null,
   "MatterRestrictViewViaWeb": false,
-  "MatterRowVersion": "AAAAAAEP4WA=",
+  "MatterRowVersion": "AAAAAAESpvw=",
   "MatterStatusId": 84,
   "MatterStatusName": "Resolution",
   "MatterText1": null,
