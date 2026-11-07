@@ -9,10 +9,10 @@
  "attempts": 1,
  "batch_cost_usd": 0.0632,
  "judge": {
-  "key": "3843b44d18288052",
+  "key": "944786ab689ca3a5",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0096
+  "cost_usd": 0.0079
  }
 }

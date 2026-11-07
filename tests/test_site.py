@@ -7,7 +7,7 @@ import pytest
 
 from council_digest import judge, summarize
 from council_digest.records import meetings
-from council_digest.site import BADGE, build
+from council_digest.site import BADGE, build, held
 from council_digest.verify import check
 
 MEETINGS = meetings()
@@ -44,7 +44,8 @@ def test_shown_summaries_passed_the_check_and_badges_match_outcomes(site):
             text = html.unescape(re.search(r'<p class="summary">(.*?)</p>', card, re.S).group(1))
             s = summarize.cached(item) if summarize.needs_summary(item) else None
             v = judge.verdict(item, s)
-            if s and s["verified"] and s["summary"] and not (v and not v["faithful"]):
+            hold = held().get(item.file)
+            if s and s["verified"] and s["summary"] and not (v and not v["faithful"]) and not (hold and hold["summary"] == s["summary"]):
                 assert text == s["summary"] and not check(text, summarize.source(item))
             else:
                 assert text == item.title
@@ -110,7 +111,8 @@ def test_feeds_are_valid_atom_and_follow_the_card_rules(site):
             s = summarize.cached(item) if summarize.needs_summary(item) else None
             v = judge.verdict(item, s)
             text = entry.find("a:summary", ns).text
-            if s and s["verified"] and s["summary"] and not (v and not v["faithful"]):
+            hold = held().get(item.file)
+            if s and s["verified"] and s["summary"] and not (v and not v["faithful"]) and not (hold and hold["summary"] == s["summary"]):
                 assert text == s["summary"]
             else:
                 assert text == item.title

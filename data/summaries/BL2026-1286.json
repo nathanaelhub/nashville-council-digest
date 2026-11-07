@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.0378,
  "judge": {
-  "key": "9f158e0ee5901897",
+  "key": "eef9ca4c6c0c5e9f",
   "model": "sonnet",
-  "faithful": true,
-  "problem": "",
-  "cost_usd": 0.0051
+  "faithful": false,
+  "problem": "The summary states the facade material requirement flatly and leaves out the exception: the materials rule applies 'unless otherwise approved on detailed building elevations included with the preliminary SP.' Without it, the summary makes the requirement look absolute when the text allows other materials if approved on the elevations.",
+  "cost_usd": 0.0094,
+  "alone": true
  }
 }

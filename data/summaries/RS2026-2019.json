@@ -9,10 +9,10 @@
  "attempts": 1,
  "batch_cost_usd": 0.0442,
  "judge": {
-  "key": "a5befc15bd1bf4c1",
+  "key": "a2afd40c777b7972",
   "model": "sonnet",
   "faithful": true,
-  "problem": "The official text is internally inconsistent ($13,900 vs. $13,000 in the fiscal note), but the summary's $13,900 matches the analysis's estimated reimbursable costs.",
-  "cost_usd": 0.0064
+  "problem": "",
+  "cost_usd": 0.0079
  }
 }

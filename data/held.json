@@ -1,0 +1,6 @@
+{
+ "BL2026-1565": {
+  "summary": "Rewrites the Metro code on capital project cost itemization to treat a capital spending plan as separate from the initial resolution state law requires before bonds are issued. Projects over $5 million still need a completed cost itemization form, and each spending plan must list projects with a not-to-exceed amount.",
+  "reason": "Says projects over $5 million still need a completed cost itemization form; the ordinance exempts planning-only projects and projects funded only by an enterprise fund or fees. Found by judge-audit (issue #4); the judge passes it."
+ }
+}

@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.0356,
  "judge": {
-  "key": "29797d358e2334e7",
+  "key": "3f64ac0e5492bca2",
   "model": "sonnet",
-  "faithful": true,
-  "problem": "",
-  "cost_usd": 0.0055
+  "faithful": false,
+  "problem": "The summary says both the cooperative deadline and the contract term are extended \"from December 30, 2025 to June 30, 2027.\" The text gives December 30, 2025 only as the old deadline for creating the limited equity cooperative. It does not give the old contract expiration date. The summary also drops the condition that the new contract term ends on June 30, 2027 or the date the cooperative is created, whichever comes first. That condition changes when the term actually ends.",
+  "cost_usd": 0.0127,
+  "alone": true
  }
 }

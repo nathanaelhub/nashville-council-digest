@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.043,
  "judge": {
-  "key": "fda35e296d2125a1",
+  "key": "5b6d5b34eb4c0346",
   "model": "sonnet",
-  "faithful": true,
-  "problem": "",
-  "cost_usd": 0.0069
+  "faithful": false,
+  "problem": "The summary says notices must be mailed to every dwelling unit within 1,000 feet, but it leaves out the exemption in the text. Properties included in the application of an Overlay District under Chapter 17.36 (other than Planned Unit Development Overlays) are exempt from the new mailing requirement. It also omits that addresses already receiving notice under subsection A need no additional mailing. The sign requirement and the January 1, 2028 effective date are accurate.",
+  "cost_usd": 0.0121,
+  "alone": true
  }
 }

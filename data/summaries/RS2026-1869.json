@@ -9,10 +9,10 @@
  "attempts": 1,
  "batch_cost_usd": 0.0452,
  "judge": {
-  "key": "cb9edebfa4392aa6",
+  "key": "1225741096760f82",
   "model": "sonnet",
-  "faithful": false,
-  "problem": "The summary says the money would pay for the survey, but the grant is only $51,593.33 and a $26,666.67 cash match is required; also it attributes the survey to the Metropolitan Historical Commission, which is fine. The main issue is the framing: it says 'Approves applying ... for a grant of $51,593.33, with a required cash match' which is supported. However, it omits nothing contradictory, so the only questionable point is 'The money would pay for a survey,' which is supported. No substantive error found.",
-  "cost_usd": 0.0061
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0052
  }
 }

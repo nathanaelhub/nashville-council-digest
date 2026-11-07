@@ -103,11 +103,20 @@ def zoning_terms(text: str, depth: int) -> str:
             f'<p class="muted">In Metro Planning\'s words. <a href="{"../" * depth}zoning.html">All zoning terms and sources</a>.</p></details>')
 
 
+def held() -> dict[str, dict]:
+    """Summaries held back by hand: {file: {"summary": the exact text held, "reason": ...}}."""
+    p = summarize.ROOT / "data" / "held.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+
+
 def shown_summary(item: Item, s: dict | None) -> tuple[bool, bool]:
-    """(shown, flagged): show the summary only if it passed the fact check and the judge didn't flag it."""
+    """(shown, flagged): show the summary only if it passed the fact check and wasn't flagged,
+    by the judge or by hand. A hand hold applies only to the summary text it names, so a
+    rewritten summary is judged afresh."""
     verified = bool(s and s.get("verified") and s.get("summary"))
     v = judge.verdict(item, s) if verified else None
-    flagged = bool(v and not v["faithful"])
+    h = held().get(item.file)
+    flagged = bool(v and not v["faithful"]) or bool(verified and h and h["summary"] == s["summary"])
     return verified and not flagged, flagged
 
 

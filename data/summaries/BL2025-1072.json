@@ -9,10 +9,11 @@
  "attempts": 2,
  "batch_cost_usd": 0.0603,
  "judge": {
-  "key": "9458c7eb13d21997",
+  "key": "ee98d7cbd8786e8f",
   "model": "sonnet",
-  "faithful": false,
-  "problem": "The summary says signs can be out only while the business is open, which is accurate, but it leaves the 'twenty square feet total' fine. The real problem is that it presents the ordinance as simply allowing the signs, when the analysis says the Council Office expects it to be withdrawn; however, that is an omission. The actual inaccuracy: the summary says the signs 'must sit on a sidewalk or plaza', but the text allows public or private sidewalks or plazas, which is consistent. On closer reading, every stated detail matches the text (10 sq ft per side, 4 ft tall, outside the 4 ft clearance, displayed only when open, currently a prohibited portable sign), so there is no real discrepancy.",
-  "cost_usd": 0.0081
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.009,
+  "alone": true
  }
 }

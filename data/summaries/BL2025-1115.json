@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.0493,
  "judge": {
-  "key": "fdf25c5f2231e021",
+  "key": "bb25aa2186d43477",
   "model": "sonnet",
-  "faithful": true,
-  "problem": "",
-  "cost_usd": 0.0078
+  "faithful": false,
+  "problem": "The summary says a permit is needed before building a fence, with no qualification. The Agenda Analysis says the amended ordinance requires a permit only for new permanent, opaque fences, meaning fences with opacity above 50 percent. The title also limits the requirement to permanent fences. Omitting the opaque and permanent limits makes the requirement look like it covers all fences, which changes what the ordinance does. The other details are accurate: fees set by Codes, the January 1, 2026 date, and the exemptions.",
+  "cost_usd": 0.0157,
+  "alone": true
  }
 }

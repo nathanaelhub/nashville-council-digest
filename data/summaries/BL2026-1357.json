@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.1241,
  "judge": {
-  "key": "cd624fdc4afae9e5",
+  "key": "d304ad993da1a263",
   "model": "sonnet",
-  "faithful": true,
-  "problem": "",
-  "cost_usd": 0.0125
+  "faithful": false,
+  "problem": "The summary says the attorney must consult the department head before final approval of any settlement of $25,000 or less. The text requires that only for claims that are the subject of litigation. For claims settled through the claims division, consultation is required only before filing a council resolution for settlements over $25,000. Claims-division settlements of $25,000 or less need no consultation. Dropping the litigation condition makes the summary overstate the consultation requirement.",
+  "cost_usd": 0.0152,
+  "alone": true
  }
 }
