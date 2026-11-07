@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1630",
+ "source_hash": "dbb2f07bbcc0525f",
+ "model": "sonnet",
+ "summary": "Lets Metro give up about 158 feet of eight-inch sewer main, one sewer manhole and related easements at 1516 4th Avenue South, and accept one new sewer manhole there. This is needed to build project 25-SL-181.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0488,
+ "judge": {
+  "key": "b3717794a048eda6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

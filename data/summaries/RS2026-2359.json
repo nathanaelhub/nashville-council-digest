@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2359",
+ "source_hash": "8f11d3d862f93511",
+ "model": "sonnet",
+ "summary": "Lets the Metropolitan Development and Housing Agency make a deal to accept payments in place of property taxes for Parkwood Villa, about 160 apartments at 3258 Brick Church Pike that would be rehabilitated for people earning 60% or less of the area median income. The first-year difference counted against the $5 million yearly cap is $124,463.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0646,
+ "judge": {
+  "key": "4c4b53b94bf028a7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0087
+ }
+}

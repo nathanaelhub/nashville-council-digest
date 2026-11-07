@@ -1,18 +1,18 @@
 {
  "file": "BL2026-1583",
- "source_hash": "27c28bcb9f19fc5d",
+ "source_hash": "6dc40827e3c63a63",
  "model": "sonnet",
- "summary": "Gives 17th Avenue North, between Jefferson Street and Meharry Boulevard, the honorary name \"Nathaniel 'Nate' Harris Way\" and has the transportation department put up signs. Nobody on the street has to change their address.",
+ "summary": "Gives 17th Avenue North, between Jefferson Street and Meharry Boulevard, the honorary name \"Nathaniel 'Nate' Harris Way\" in memory of a North Nashville business owner. Addresses do not change, and the transportation department is to put up the signs.",
  "topic": "Honors and recognitions",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0526,
+ "batch_cost_usd": 0.035,
  "judge": {
-  "key": "33e73c64719d8b39",
+  "key": "04a3430db2088439",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0081
+  "cost_usd": 0.0088
  }
 }

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1644",
+ "source_hash": "3afa8f1da3f27050",
+ "model": "sonnet",
+ "summary": "Rezones 2119 24th Avenue North, about 25 feet south of Pecan Street (2.88 acres), from IWD to RL2.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0311,
+ "judge": {
+  "key": "2866ae3679135fce",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

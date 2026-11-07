@@ -1,18 +1,18 @@
 {
  "file": "BL2026-1578",
- "source_hash": "0df9c31717d3a6e1",
+ "source_hash": "0f6533b203e4a5c3",
  "model": "sonnet",
- "summary": "Rezones 1.2 acres at 3722 West Hamilton Road, about 348 feet east of Southview Drive, from RS15 to SP zoning to allow up to seven detached multi-family homes. Short-term rentals are banned, and the site must meet conditions such as screened mechanical units, private driveways kept up by a homeowner's association, and Fire Marshal requirements.",
+ "summary": "Rezones 1.2 acres at 3722 West Hamilton Road, about 348 feet east of Southview Drive, from RS15 to SP to allow up to seven detached multi-family homes. Short-term rentals are not allowed.",
  "topic": "Housing and zoning",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0377,
+ "batch_cost_usd": 0.0376,
  "judge": {
-  "key": "8619e8e1f3d41234",
+  "key": "4aa4eacf8b4c330a",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0069
+  "cost_usd": 0.0058
  }
 }

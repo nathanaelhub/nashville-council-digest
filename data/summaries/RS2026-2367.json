@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2367",
+ "source_hash": "7718800aadb04920",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $923,343 from the Tennessee Department of Human Services for Metro Parks to provide food program services at 18 community centers. No cash match is required, and the grant runs from October 1, 2026 to September 30, 2027.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0366,
+ "judge": {
+  "key": "b2f755f6f5ae45d2",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0053
+ }
+}

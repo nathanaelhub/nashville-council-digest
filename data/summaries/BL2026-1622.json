@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1622",
+ "source_hash": "edce9db38ed5c459",
+ "model": "sonnet",
+ "summary": "Approves a change to the agreement between the Nashville Fire Department's Emergency Medical Services Division and Vanderbilt University Medical Center for clinical training of students in the Emergency Medical Technician Externship Program. It extends the agreement three more years, through December 31, 2029.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0419,
+ "judge": {
+  "key": "b324a58010430281",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

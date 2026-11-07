@@ -1,0 +1,19 @@
+{
+ "file": "RS2026-2365",
+ "source_hash": "6bbb50f92e41bbd6",
+ "model": "sonnet",
+ "summary": "Approves an application by the Office of Homeless Services to the U.S. Department of Housing & Urban Development for a $565,329 grant to help end homelessness. The grant would need a $141,332 cash match from Metro.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0366,
+ "judge": {
+  "key": "a5b6cdc26fecdbb6",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0074,
+  "alone": true
+ }
+}

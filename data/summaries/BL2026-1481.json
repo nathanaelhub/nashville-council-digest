@@ -1,18 +1,18 @@
 {
  "file": "BL2026-1481",
- "source_hash": "05d3d02c751d3f5f",
+ "source_hash": "3025e1d5e3305cc9",
  "model": "sonnet",
- "summary": "Rezones 1814 County Hospital Road, about 215 feet northeast of Doak Avenue (0.54 acres), from RS10 to R10.",
+ "summary": "Rezones 0.54 acres at 1814 County Hospital Road, about 215 feet northeast of Doak Avenue, from RS10 to R10.",
  "topic": "Housing and zoning",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0324,
+ "batch_cost_usd": 0.0376,
  "judge": {
-  "key": "d370f27be95efde9",
+  "key": "64d5e504873848ba",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0055
+  "cost_usd": 0.0084
  }
 }

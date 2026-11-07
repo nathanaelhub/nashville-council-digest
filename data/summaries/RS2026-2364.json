@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2364",
+ "source_hash": "b85a6df6210999a5",
+ "model": "sonnet",
+ "summary": "Gives up to $2,698,335 from the Office of Homeless Services to Hospitality Hub of Memphis for interim housing, case management and other support services for people experiencing homelessness. The contract covers an interim housing site at 95 Wallace Road for 80 to 120 residents and runs through June 30, 2027.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0366,
+ "judge": {
+  "key": "c97f709dcb90f0e7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0053
+ }
+}

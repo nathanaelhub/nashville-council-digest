@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1648",
+ "source_hash": "eb1645746dbe8a26",
+ "model": "sonnet",
+ "summary": "Requires building facades for the Hagan Street and Merritt Avenue mixed use development (BL2026-1647) to be made of brick, brick veneer, stone, cast stone, cementitious siding, and glass, or similar materials, unless detailed building elevations in the preliminary SP say otherwise.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0497,
+ "judge": {
+  "key": "8c090849bb504463",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0088
+ }
+}

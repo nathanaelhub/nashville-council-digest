@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2376",
+ "source_hash": "f94a0481be4a5e40",
+ "model": "sonnet",
+ "summary": "Approves the Civic Design Center's donation of 75 tulip wand delineators, worth $35,000, to the Nashville Department of Transportation and Multimodal Infrastructure (NDOT). The donation supports NDOT's safety and beautification efforts and ongoing work on Antioch Pike in the Glencliff Neighborhood.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0451,
+ "judge": {
+  "key": "3679c4b87bb44d8f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0054
+ }
+}

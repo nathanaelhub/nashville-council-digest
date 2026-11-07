@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2378",
+ "source_hash": "51f53179bcf4e8b5",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 10 feet of new 10-inch water main (DIP) at Pennington Bend Road (unnumbered). Also authorizes the Directors of Water and Sewerage Services and Public Property Administration to sign the needed documents.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0451,
+ "judge": {
+  "key": "434a6822961ee493",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0054
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2351",
+ "source_hash": "52806c52853f071f",
+ "model": "sonnet",
+ "summary": "Exempts Slide Hustle on 3rd, at 1323 3rd Avenue North, from the minimum distance rules for getting a beer permit. A public hearing was held at the November 5, 2026 Council meeting, and the Clerk is to send a copy to the Beer Board's Executive Director.",
+ "topic": "Other",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0586,
+ "judge": {
+  "key": "d56583cff9c1b93a",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0084
+ }
+}

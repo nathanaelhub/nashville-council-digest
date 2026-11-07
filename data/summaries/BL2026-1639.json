@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1639",
+ "source_hash": "9781e18b1f7d81a9",
+ "model": "sonnet",
+ "summary": "Requires building facades in a proposed mixed use development at 3139, 3145, 3163, 3165 Brandau Road, Brandau Road (unnumbered) and part of 3087 Brandau Road to be made of wood, log, brick, brick veneer, stone, cast stone, cementitious siding and glass, or similar materials, unless other materials are approved on the detailed building drawings.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0311,
+ "judge": {
+  "key": "4ee2fe1ac97bd58b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

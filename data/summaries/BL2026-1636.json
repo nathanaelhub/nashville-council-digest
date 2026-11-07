@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1636",
+ "source_hash": "7a6b48b8ac7927df",
+ "model": "sonnet",
+ "summary": "Rezones 2403 14th Avenue North, about 84 feet north of Kellow Street (0.13 acres), from R6 to SP to allow up to two detached residential units. Short-term rentals are prohibited.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0427,
+ "judge": {
+  "key": "6f8e6befb8c1a364",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

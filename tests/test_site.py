@@ -93,7 +93,7 @@ def test_card_links_to_bill_pages_resolve(site):
 def test_feeds_are_valid_atom_and_follow_the_card_rules(site):
     import xml.etree.ElementTree as ET
     ns = {"a": "http://www.w3.org/2005/Atom"}
-    items = {i.file: i for m in MEETINGS for i in m.items}
+    items = {(i.file, m.date): i for m in MEETINGS for i in m.items}  # each entry is one reading
     feeds = [site / "feed.xml"] + sorted((site / "district").glob("*.xml"))
     assert len(feeds) == 36
     total = 0
@@ -107,7 +107,7 @@ def test_feeds_are_valid_atom_and_follow_the_card_rules(site):
             href = entry.find("a:link", ns).get("href")
             f = href.rsplit("/", 1)[1].removesuffix(".html")
             assert (site / "bill" / f"{f}.html").exists()
-            item = items[f]
+            item = items[(f, entry.find("a:id", ns).text.rsplit("#", 1)[1])]
             s = summarize.cached(item) if summarize.needs_summary(item) else None
             v = judge.verdict(item, s)
             text = entry.find("a:summary", ns).text

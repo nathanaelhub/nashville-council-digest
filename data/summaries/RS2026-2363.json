@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2363",
+ "source_hash": "43574e3da5324ba5",
+ "model": "sonnet",
+ "summary": "Gives $500,000 from the Office of Homeless Services to Step Up on Second Street, Inc. for supportive services and case management for people experiencing homelessness. The grant contract runs through June 30, 2027.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0366,
+ "judge": {
+  "key": "b88558c44768c380",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0053
+ }
+}

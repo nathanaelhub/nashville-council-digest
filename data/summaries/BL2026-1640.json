@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1640",
+ "source_hash": "9655560e9c1a0435",
+ "model": "sonnet",
+ "summary": "Replaces the Downtown Code with a new version that adds a Midtown East subdistrict and makes changes to fit that subdistrict into the code.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0311,
+ "judge": {
+  "key": "e62bbdcadc4d0741",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

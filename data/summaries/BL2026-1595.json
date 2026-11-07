@@ -1,6 +1,6 @@
 {
  "file": "BL2026-1595",
- "source_hash": "b6bc4c382e3dfcd3",
+ "source_hash": "c5b221a848e12695",
  "model": "sonnet",
  "summary": "Rezones 0.37 acres at 1611 Elizabeth Road, about 215 feet north of Ashton Avenue, from RS10 to R10.",
  "topic": "Housing and zoning",
@@ -9,10 +9,10 @@
  "attempts": 1,
  "batch_cost_usd": 0.0376,
  "judge": {
-  "key": "178cae8a0e525cf4",
+  "key": "9f5031f6fecb7d22",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0066
+  "cost_usd": 0.0058
  }
 }

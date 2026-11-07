@@ -3629,6 +3629,227 @@
   "refs": [],
   "via": null
  },
+ "BL2026-1621": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1622": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1623": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1624": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1625": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1626": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1627": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1628": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1629": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1630": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "1516 4TH AVE S"
+  ],
+  "via": "address"
+ },
+ "BL2026-1631": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1632": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "07007007800",
+   "07007008000"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1633": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "916 W TRINITY LN",
+   "922 W TRINITY LN"
+  ],
+  "via": "address"
+ },
+ "BL2026-1634": {
+  "districts": [
+   1
+  ],
+  "refs": [
+   "06903006200",
+   "06904019200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1635": {
+  "districts": [
+   7
+  ],
+  "refs": [
+   "06103014900",
+   "06103015000"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1636": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "08103032100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1637": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "2403 14TH AVE N"
+  ],
+  "via": "address"
+ },
+ "BL2026-1638": {
+  "districts": [
+   14
+  ],
+  "refs": [
+   "08500002700",
+   "08600012500",
+   "08600022000",
+   "08600023000",
+   "08600024200",
+   "08600076700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1639": {
+  "districts": [
+   14
+  ],
+  "refs": [
+   "3139 BRANDAU RD",
+   "3145 BRANDAU RD",
+   "3163 BRANDAU RD",
+   "3165 BRANDAU RD"
+  ],
+  "via": "address"
+ },
+ "BL2026-1640": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "BL2026-1641": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "07105014700",
+   "07105030400"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1642": {
+  "districts": [
+   16
+  ],
+  "refs": [
+   "11901030500"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1643": {
+  "districts": [
+   20
+  ],
+  "refs": [
+   "09102027200"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1644": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "08102012100"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1645": {
+  "districts": [
+   5
+  ],
+  "refs": [
+   "07205017700"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1646": {
+  "districts": [
+   32
+  ],
+  "refs": [
+   "14900012800"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1647": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "10506025600"
+  ],
+  "via": "parcel"
+ },
+ "BL2026-1648": {
+  "districts": [
+   17
+  ],
+  "refs": [
+   "BL2026-1647"
+  ],
+  "via": "same site as BL2026-1647"
+ },
  "BL2026-LATEFILED": {
   "districts": [],
   "refs": [],
@@ -7211,6 +7432,217 @@
   "via": null
  },
  "RS2026-2350": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2351": {
+  "districts": [
+   19
+  ],
+  "refs": [
+   "1323 3RD AVE N"
+  ],
+  "via": "address"
+ },
+ "RS2026-2352": {
+  "districts": [
+   2
+  ],
+  "refs": [
+   "2141 BUENA VISTA PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2353": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2354": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2355": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2356": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2357": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2358": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2359": {
+  "districts": [
+   3
+  ],
+  "refs": [
+   "3258 BRICK CHURCH PIKE"
+  ],
+  "via": "address"
+ },
+ "RS2026-2360": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2361": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2362": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2363": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2364": {
+  "districts": [
+   30
+  ],
+  "refs": [
+   "95 WALLACE RD"
+  ],
+  "via": "address"
+ },
+ "RS2026-2365": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2366": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2367": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2368": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2369": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2370": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2371": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2372": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2373": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2374": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2375": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2376": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2377": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2378": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2379": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2380": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2381": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2382": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2383": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2384": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2385": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2386": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2387": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2388": {
+  "districts": [],
+  "refs": [],
+  "via": null
+ },
+ "RS2026-2389": {
   "districts": [],
   "refs": [],
   "via": null

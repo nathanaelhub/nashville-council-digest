@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2388",
+ "source_hash": "e2176ef4946cc2d6",
+ "model": "sonnet",
+ "summary": "Approves a fourth change to Metro's grant contract with Be a Helping Hand Foundation for constructing affordable housing, adding twelve more months to the contract's term, and lets the Mayor sign it.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0487,
+ "judge": {
+  "key": "dad2faf69dc43def",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

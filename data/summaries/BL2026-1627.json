@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1627",
+ "source_hash": "58ef1e28c814bb68",
+ "model": "sonnet",
+ "summary": "Approves giving up about 425 feet of isolated Cane Ridge Road right-of-way between parcels 18200023600 and 18200023300. Metro keeps utility easements there, and building over the utilities needs approval from the NDOT and/or Water and Sewerage Services directors.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0488,
+ "judge": {
+  "key": "7dda1bf902eef20b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

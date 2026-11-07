@@ -1,18 +1,18 @@
 {
  "file": "BL2026-1584",
- "source_hash": "fc18ed02b93e8223",
+ "source_hash": "5d9541e866645b7a",
  "model": "sonnet",
- "summary": "Gives 3rd Avenue South between Broadway and Demonbreun Street the honorary name \"Johnny Cash Way\", extending an earlier designation to the whole block. Repeals Ordinance BL2026-1300, and nobody on the street has to change their address.",
+ "summary": "Gives 3rd Avenue South, between Broadway and Demonbreun Street, the honorary name \"Johnny Cash Way\" and repeals Ordinance No. BL2026-1300, which had named part of the street. Addresses do not change, and the transportation department is to put up the signs.",
  "topic": "Honors and recognitions",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0526,
+ "batch_cost_usd": 0.035,
  "judge": {
-  "key": "e694aa5faf6939ff",
+  "key": "e3a12ee056f82842",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0081
+  "cost_usd": 0.01
  }
 }

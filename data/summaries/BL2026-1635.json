@@ -1,0 +1,19 @@
+{
+ "file": "BL2026-1635",
+ "source_hash": "36268cefb5dfb310",
+ "model": "sonnet",
+ "summary": "Amends the Planned Unit Development at 5001 and 5003 Gallatin Pike (0.90 acres) to allow nonresidential uses including a drive-through restaurant. Limits uses to retail, restaurant, personal care services, office, and medical office, and caps total building space at 6,250 square feet.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0427,
+ "judge": {
+  "key": "7fcff9ebf3da3e58",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0096,
+  "alone": true
+ }
+}

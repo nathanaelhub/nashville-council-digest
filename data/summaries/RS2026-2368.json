@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2368",
+ "source_hash": "98337838b9e24da7",
+ "model": "sonnet",
+ "summary": "Accepts an in-kind grant worth up to $7,000 from the Tennessee Scenic Rivers Association to build a canoe and kayak access structure at Whitsett Park along Mill Creek. The association pays for the work directly, so no money goes to Metro Parks.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0366,
+ "judge": {
+  "key": "4315ee71b258f99d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0053
+ }
+}

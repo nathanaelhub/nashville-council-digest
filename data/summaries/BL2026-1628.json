@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1628",
+ "source_hash": "9849b870fd2845f7",
+ "model": "sonnet",
+ "summary": "Gives the honorary street name \"Pastor Barton Harris Way\" to Albion Street between 25th Avenue North and 26th Avenue North, in front of Westwood Baptist Church. No resident or business has to change its address, and the Nashville Department of Transportation and Multimodal Infrastructure is told to put up the signs.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0488,
+ "judge": {
+  "key": "c92dcfaf080be401",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

@@ -119,11 +119,12 @@ async def confirm_flagged(items: list[Item], model: str = "sonnet", concurrency:
     for it in items:
         if it.file in seen:
             continue
-        seen.add(it.file)
-        s = summarize.cached(it)
+        s = summarize.cached(it)  # None for a reading whose text doesn't match the stored summary
         v = verdict(it, s)
-        if v and not v["faithful"] and not v.get("alone"):
-            todo.append(it)
+        if v:
+            seen.add(it.file)
+            if not v["faithful"] and not v.get("alone"):
+                todo.append(it)
     sem = asyncio.Semaphore(concurrency)
     done = []
 

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1647",
+ "source_hash": "31abf49a8ef0beb1",
+ "model": "sonnet",
+ "summary": "Rezones 0.3 acres on Hagan Street (unnumbered), at the corner of Hagan Street and Merritt Avenue, from MUL-A-NS to SP to allow a mixed use development. Uses are limited to those of MUL-A, and short-term rentals, bars or night clubs, alternative financial services, and beer and cigarette markets are not allowed.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0497,
+ "judge": {
+  "key": "6c1ffbc481a027ab",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0088
+ }
+}

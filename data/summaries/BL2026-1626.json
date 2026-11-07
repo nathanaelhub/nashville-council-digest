@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1626",
+ "source_hash": "d1c5290ebe13e4b9",
+ "model": "sonnet",
+ "summary": "Approves giving up the 30th Avenue North right-of-way and all utility easements from Delaware Avenue to Alley #945, as requested by applicant Joseph DeFatta of DeFatta Custom Homes. The text says all abutting property owners consented and Metro no longer needs the right-of-way.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0419,
+ "judge": {
+  "key": "6c68b1daaa6f378f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

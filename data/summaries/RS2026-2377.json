@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2377",
+ "source_hash": "88101c173e6e2989",
+ "model": "sonnet",
+ "summary": "Lets Metro accept about 854 feet of new eight-inch sewer main (DIP), about 730 feet of new eight-inch SDR26 sewer main (PVC) and eight sewer manholes at Pennington Bend Road (unnumbered). Also authorizes the Directors of Water and Sewerage Services and Public Property Administration to sign the needed documents.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0451,
+ "judge": {
+  "key": "19faf1e1b590a501",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0054
+ }
+}

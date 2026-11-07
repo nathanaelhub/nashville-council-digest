@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1624",
+ "source_hash": "fbe5afbe2b5ad895",
+ "model": "sonnet",
+ "summary": "Allows Metro to acquire easements and property rights, by negotiation or condemnation, for sidewalk improvements on Cliff Drive, 30th Avenue North and Harris Street (NDOT Project NDT 526). Costs are paid from Business Unit No. 42406826.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0419,
+ "judge": {
+  "key": "26a4f01c26058f01",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

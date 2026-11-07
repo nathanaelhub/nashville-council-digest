@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2366",
+ "source_hash": "39194d949921e735",
+ "model": "sonnet",
+ "summary": "Approves a change to the Nashville Public Library's grant contract with Aspiring Youth Enrichment Services for out-of-school programs through the Nashville After Zone Alliance. It cuts the grant from $497,300 to $429,550 because there will be 50 fewer afterschool slots.",
+ "topic": "Budget, grants and contracts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0366,
+ "judge": {
+  "key": "8d8b2fcde2348cd1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0053
+ }
+}

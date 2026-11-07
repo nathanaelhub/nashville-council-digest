@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1625",
+ "source_hash": "b0d5ee46e013bceb",
+ "model": "sonnet",
+ "summary": "Allows Metro to acquire easements and property rights, by negotiation or condemnation, for sidewalk improvements on Nashboro Boulevard from Murfreesboro Pike to Longhunter Court (NDOT Project NDT 530). Costs are paid from Business Unit No. 42406826.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0419,
+ "judge": {
+  "key": "e1e8a01c8fb6801d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

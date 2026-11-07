@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1634",
+ "source_hash": "6611400fb3f5f167",
+ "model": "sonnet",
+ "summary": "Rezones 3907 and 3908 Southview Drive, about 230 feet north of West Hamilton Road (0.88 acres), from RS15 to R10.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0427,
+ "judge": {
+  "key": "87abed1b7c06b35f",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2374",
+ "source_hash": "740d9070eaddbb6c",
+ "model": "sonnet",
+ "summary": "Accepts a grant of up to $99,500 from the American Heart Association to help the Metro police department buy 63 automated external defibrillators and carrying cases to help officers with overdose incidents. No cash match is required.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "ef4bdd9583851e7c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0054
+ }
+}

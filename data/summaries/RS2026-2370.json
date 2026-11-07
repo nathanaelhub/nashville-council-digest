@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2370",
+ "source_hash": "b9c45c8228004d17",
+ "model": "sonnet",
+ "summary": "Accepts a gift from the Friends of Metro Parks Disabilities Programs, worth up to $3,325, to buy jerseys for people in the Metro Parks disABILITIES Sports Leagues. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "a4f3537e1aa32def",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0053
+ }
+}

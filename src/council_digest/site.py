@@ -113,7 +113,9 @@ def shown_summary(item: Item, s: dict | None) -> tuple[bool, bool]:
     """(shown, flagged): show the summary only if it passed the fact check and wasn't flagged,
     by the judge or by hand. A hand hold applies only to the summary text it names, so a
     rewritten summary is judged afresh."""
-    verified = bool(s and s.get("verified") and s.get("summary"))
+    # A summary describes one version of the text: an earlier reading of a bill whose text
+    # later changed shows its title, not a summary of the newer text.
+    verified = bool(s and s.get("verified") and s.get("summary") and s.get("source_hash") == summarize.key(item))
     v = judge.verdict(item, s) if verified else None
     h = held().get(item.file)
     flagged = bool(v and not v["faithful"]) or bool(verified and h and h["summary"] == s["summary"])
