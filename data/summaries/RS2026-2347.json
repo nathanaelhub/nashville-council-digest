@@ -1,19 +1,19 @@
 {
  "file": "RS2026-2347",
- "source_hash": "1f975053ae12b73a",
+ "source_hash": "4d1a3803b661cc91",
  "model": "sonnet",
- "summary": "Asks the Nashville Department of Transportation and Multimodal Infrastructure and Metro Parks to review injuries and safety measures at greenway crosswalks and street crossings, and to give cost estimates for improvements. It also asks them to fix urgent problem spots within three months and report to the Council within six months.",
+ "summary": "Asks the Nashville Department of Transportation and Multimodal Infrastructure and Metro Parks to look at injuries, deaths and near misses at greenway crosswalks and street crossings from the past twelve months, propose safety fixes, and give cost estimates. It also asks them to put safety measures in place within three months at crossings they find urgent, and to report back to the Council within six months.",
  "topic": "Streets and transportation",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0447,
+ "batch_cost_usd": 0.0346,
  "judge": {
-  "key": "276eb24884028039",
+  "key": "8e3976e83f7e62fb",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.009,
+  "cost_usd": 0.0091,
   "alone": true
  }
 }

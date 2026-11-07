@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2357",
+ "source_hash": "bbd490f5a05b6beb",
+ "model": "sonnet",
+ "summary": "Appropriates a U.S. Department of Health and Human Services grant of up to $17,999,350 to the Metropolitan Action Commission for Head Start and Early Head Start activities for disadvantaged children, food service, and equipment for the seven sites. The grant needs a cash match of $4,499,837.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0646,
+ "judge": {
+  "key": "21802913ca4c5d08",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0087
+ }
+}

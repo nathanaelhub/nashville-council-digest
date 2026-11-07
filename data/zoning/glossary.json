@@ -156,6 +156,13 @@
    "file": "180125sr.txt.gz"
   },
   {
+   "code": "RM40",
+   "name": "Multi-Family Residential",
+   "quote": "high density residential, intended for multi-family dwellings at 40 units per acre",
+   "source": "https://www.nashville.gov/departments/planning/land-development/rezone-my-property/zoning-classifications",
+   "file": "zoning-classifications.txt.gz"
+  },
+  {
    "code": "MUN-A",
    "name": "Mixed Use Neighborhood-Alternative",
    "quote": "is intended for a low intensity mixture of residential, retail, and office uses and is designed to create walkable neighborhoods through the use of appropriate building placement and bulk standards",

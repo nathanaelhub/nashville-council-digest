@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1645",
+ "source_hash": "1ec3865b7980f3b4",
+ "model": "sonnet",
+ "summary": "Rezones 0.34 acres at 3010 Ambrose Avenue, about 330 feet south of North Hill Drive, from IR to RL2.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0497,
+ "judge": {
+  "key": "a10c684de9bd0c79",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0088
+ }
+}

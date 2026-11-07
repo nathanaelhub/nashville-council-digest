@@ -1,0 +1,19 @@
+{
+ "file": "BL2026-1638",
+ "source_hash": "feea687ec09b8dba",
+ "model": "sonnet",
+ "summary": "Rezones properties on Brandau Road (47.08 acres), about 1,528 feet northeast of Hoggett Ford Road, from RS15 to SP for a mixed-use development. Caps it at 120,000 square feet of building floor area, bans digital, video and billboard signs, and requires live and amplified music to end by 8:00 p.m.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0427,
+ "judge": {
+  "key": "5708e50bce2c2ca7",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0153,
+  "alone": true
+ }
+}

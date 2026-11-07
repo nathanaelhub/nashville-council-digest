@@ -1,0 +1,19 @@
+{
+ "file": "RS2026-2372",
+ "source_hash": "406267f90687d3e2",
+ "model": "sonnet",
+ "summary": "Approves an application for a $1,425,776 Urban Area Security Initiative grant for the Office of Emergency Management, to help prevent, prepare for, and respond to acts of terrorism. No cash match is required, and Metro will not take part in immigration enforcement and border security activities.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "8f99d5044df9b4b0",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0079,
+  "alone": true
+ }
+}

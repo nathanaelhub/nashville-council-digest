@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2375",
+ "source_hash": "502c3f83dc7bab6c",
+ "model": "sonnet",
+ "summary": "Approves two agreements and an amendment with the Tennessee Department of Transportation to share the cost of road work on Cowan Street/Marine Drive and James Robertson Parkway, and lets the Mayor sign them. Metro's share is 50 percent of the $208 million Cowan Street/Marine Drive project ($104 million), and up to $119 million of the $185 million James Robertson Parkway project, paid in four installments each. It also backs early planning for a connection between the East Bank and the Ellington Parkway pedestrian bridge.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0586,
+ "judge": {
+  "key": "ccbdb742c52c9298",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0084
+ }
+}

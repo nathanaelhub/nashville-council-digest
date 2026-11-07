@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2362",
+ "source_hash": "687cf4823b665857",
+ "model": "sonnet",
+ "summary": "Approves an agreement letting the Metropolitan Public Health Department park and run a mobile unit on the Tennessee State University campus to provide health services to students as current and potential sexual health clinic patients. The unit would be parked one day per week from August 19, 2026 to June 30, 2031.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0646,
+ "judge": {
+  "key": "d34f3904d22fbae5",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0087
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2379",
+ "source_hash": "3a8938d48c4bd44b",
+ "model": "sonnet",
+ "summary": "Mourns the death of Philip \"Phil\" Chazal Ponder, who died on September 30, 2026, at age 93, and honors his life as an artist who made more than 700 works of Nashville scenes, a District 12 Council member from 1995 until 2003, and a longtime civic volunteer. The Council Office is to prepare a copy for his family.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0586,
+ "judge": {
+  "key": "e31e5f2dc5736c5c",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0084
+ }
+}

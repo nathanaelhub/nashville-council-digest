@@ -1,18 +1,18 @@
 {
  "file": "BL2026-1602",
- "source_hash": "e395b819942447b7",
+ "source_hash": "bbe2f67ddd13edbe",
  "model": "sonnet",
- "summary": "Rezones 0.6 acres on Hydes Ferry Road (unnumbered), about 1000 feet southeast of Ashland City Highway, from RS7.5 to R8.",
+ "summary": "Rezones 0.6 acres on Hydes Ferry Road (unnumbered), about 1000 feet southeast of Ashland City Highway, from RS7.5 to R8 zoning.",
  "topic": "Housing and zoning",
  "verified": true,
  "problems": [],
  "attempts": 1,
- "batch_cost_usd": 0.0335,
+ "batch_cost_usd": 0.0346,
  "judge": {
-  "key": "8a1d4219b6b43f73",
+  "key": "7c7da70dcdc7ed3f",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0047
+  "cost_usd": 0.0058
  }
 }

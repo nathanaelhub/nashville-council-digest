@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1621",
+ "source_hash": "15c5cea7204c136a",
+ "model": "sonnet",
+ "summary": "Rewrites the rules for the Metro Beautification and Environment Commission, with one member per council district appointed by the mayor, and sets up a tree advisory committee that reports to it. Also changes the title \"metropolitan beautification commission horticulturist\" to \"metropolitan horticulturist\" in three other sections of the Metro Code.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0419,
+ "judge": {
+  "key": "ba4077c7345a2abe",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0063
+ }
+}

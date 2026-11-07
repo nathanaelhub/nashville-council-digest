@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2380",
+ "source_hash": "0110a13bbe255556",
+ "model": "sonnet",
+ "summary": "Honors the life and legacy of Jack Cawthon, founder of Jack's Bar-B-Que, who died on October 21, 2026, at age 80. It recalls that he opened the restaurant on Broadway in 1991 and helped grow Broadway into the destination it is now.",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0586,
+ "judge": {
+  "key": "7cf983cb5f9082de",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0084
+ }
+}

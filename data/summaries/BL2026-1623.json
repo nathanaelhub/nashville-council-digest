@@ -1,0 +1,19 @@
+{
+ "file": "BL2026-1623",
+ "source_hash": "7c14a862dac0ab01",
+ "model": "sonnet",
+ "summary": "Approves giving up about 0.08 acres of extra right of way next to Jefferson Street and conveying Metro's interest in about 0.18 acres of slip lanes where Junior Gilliam Way meets Second and Third Avenues to 305 Jefferson, LLC. The owner plans to redevelop its property, remove the slip lanes, and pay Metro $500,000.",
+ "topic": "Streets and transportation",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0419,
+ "judge": {
+  "key": "3fb7c036f8b3785d",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0098,
+  "alone": true
+ }
+}

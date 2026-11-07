@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1643",
+ "source_hash": "ea1719ed9b9be105",
+ "model": "sonnet",
+ "summary": "Rezones 5608 California Avenue, about 84 feet east of 57th Avenue North (0.19 acres), from RM40-A-NS to OL. The property is within The Nations Urban Design Overlay.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0311,
+ "judge": {
+  "key": "0e977f42862e9d3b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

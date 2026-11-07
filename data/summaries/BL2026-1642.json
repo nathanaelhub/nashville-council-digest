@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1642",
+ "source_hash": "b30c19fa5ceadbd8",
+ "model": "sonnet",
+ "summary": "Rezones 306 Oriel Avenue, about 185 feet west of Burbank Avenue (0.23 acres), from RS5 to R6-A.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0311,
+ "judge": {
+  "key": "55e7ba6c5a5fbef1",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0056
+ }
+}

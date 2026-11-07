@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2353",
+ "source_hash": "6b666047bd83d89a",
+ "model": "sonnet",
+ "summary": "Gives $1.5 million to Vanderbilt University Medical Center and approves a grant contract with it. The money pays for technology and services to screen and refer emergency department patients and coordinate their care for opiate use disorder using community health workers.",
+ "topic": "Health and social services",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0346,
+ "judge": {
+  "key": "6d23cea7ab998673",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0058
+ }
+}

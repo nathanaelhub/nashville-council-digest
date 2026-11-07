@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2373",
+ "source_hash": "0364b12f94413394",
+ "model": "sonnet",
+ "summary": "Accepts a Homeland Security Grant of up to $92,820 from the Tennessee Emergency Management Agency for the Office of Emergency Management. It pays for planning, equipment, training, and exercise needs to prevent, respond to, and recover from acts of terrorism, with no cash match required.",
+ "topic": "Public safety",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "a44eaedd7bc7ec78",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0054
+ }
+}

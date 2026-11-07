@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2358",
+ "source_hash": "10763958e8cb321d",
+ "model": "sonnet",
+ "summary": "Lets the Metropolitan Development and Housing Agency make a deal to accept payments in place of property taxes for Skyline Heights, a project of about 280 apartments at 915 and 927 Skyline Ridge Drive for people earning 60% or less of the area median income. The first-year payment difference counted against the $5 million yearly cap is $851,035.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0646,
+ "judge": {
+  "key": "48d6323356f29706",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0087
+ }
+}

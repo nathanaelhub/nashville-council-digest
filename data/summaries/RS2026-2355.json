@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2355",
+ "source_hash": "1558659dc03eef77",
+ "model": "sonnet",
+ "summary": "Lets the Vice Mayor hire Thomas H. Lee as full-time Special Counsel and Legislative Services Division Director for the Metropolitan Council Office, and approves his employment contract. The contract starts no later than December 14, 2026, and ends December 14, 2029.",
+ "topic": "How Metro runs",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0586,
+ "judge": {
+  "key": "ff5d7f5ee734c516",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0084
+ }
+}

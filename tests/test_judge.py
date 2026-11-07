@@ -55,5 +55,24 @@ def test_batched_flag_is_replaced_by_the_verdict_judged_alone(tmp_path, monkeypa
 def test_hand_hold_applies_only_to_the_summary_it_names(monkeypatch):
     it = item()
     monkeypatch.setattr(site, "held", lambda: {"RS2026-1": {"summary": "Gives $5 to A.", "reason": "x"}})
-    assert site.shown_summary(it, {"summary": "Gives $5 to A.", "verified": True}) == (False, True)
-    assert site.shown_summary(it, {"summary": "Grants $5 to A.", "verified": True}) == (True, False)
+    h = summarize.key(it)
+    assert site.shown_summary(it, {"summary": "Gives $5 to A.", "verified": True, "source_hash": h}) == (False, True)
+    assert site.shown_summary(it, {"summary": "Grants $5 to A.", "verified": True, "source_hash": h}) == (True, False)
+    assert site.shown_summary(it, {"summary": "Grants $5 to A.", "verified": True, "source_hash": "older"}) == (False, False)
+
+
+def test_confirm_finds_a_flag_on_a_later_reading_of_the_same_bill(tmp_path, monkeypatch):
+    it = item()
+    older = Item(**{**it.__dict__, "text": "..title x ..body An earlier draft."})
+    monkeypatch.setattr(summarize, "CACHE", tmp_path)
+    flagged = {"key": judge.judge_key(summarize.source(it), "Gives $5 to A."), "faithful": False}
+    (tmp_path / "RS2026-1.json").write_text(json.dumps({"summary": "Gives $5 to A.", "source_hash": summarize.key(it), "judge": flagged}))
+    calls = []
+
+    async def fake(pairs, model):
+        calls.append(len(pairs))
+        return {p["id"]: {"faithful": True, "cost": 0.01} for p in pairs}
+
+    monkeypatch.setattr(judge, "judge", fake)
+    asyncio.run(judge.confirm_flagged([older, it], log=lambda s: None))
+    assert calls == [1]

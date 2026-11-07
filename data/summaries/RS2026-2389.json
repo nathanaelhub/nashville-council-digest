@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2389",
+ "source_hash": "7073f9e236a832d1",
+ "model": "sonnet",
+ "summary": "Approves an eighth change to Metro's grant contract with Affordable Housing Resources for building affordable housing, extending the contract and updating the number of units proposed. Lets the Mayor sign it.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0487,
+ "judge": {
+  "key": "3a6c61a6904f7e7b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

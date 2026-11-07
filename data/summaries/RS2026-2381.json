@@ -1,0 +1,19 @@
+{
+ "file": "RS2026-2381",
+ "source_hash": "07704921c4bf82d0",
+ "model": "sonnet",
+ "summary": "Recognizes M. Simone Boyd and her family for their commitment and dedication to North Nashville, including her community art project Art Against Violence, her work with neighbors on a city investment that grew from $500,000 to $3 million, and her podcast \"We Are North Nashville.\"",
+ "topic": "Honors and recognitions",
+ "verified": true,
+ "problems": [],
+ "attempts": 2,
+ "batch_cost_usd": 0.0451,
+ "judge": {
+  "key": "9fda3c1980b079ff",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0081,
+  "alone": true
+ }
+}

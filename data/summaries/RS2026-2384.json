@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2384",
+ "source_hash": "c76130628aeb9fa5",
+ "model": "sonnet",
+ "summary": "Puts the Council on record supporting Nashville and Davidson County being recognized as a Bird City through the Bird City Network, and encourages departments and community groups to keep working together on bird-friendly practices.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0487,
+ "judge": {
+  "key": "114adb977412daf9",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.005
+ }
+}

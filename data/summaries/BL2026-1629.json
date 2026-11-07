@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1629",
+ "source_hash": "086ff1c6523e742d",
+ "model": "sonnet",
+ "summary": "Lets Metro give up a seven and a half-foot by 20-foot piece of a 15-foot by 20-foot storm drainage easement at 2320 B Elliott Avenue, which is no longer needed. The request came from Barge Civil Associates on behalf of the owner.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0488,
+ "judge": {
+  "key": "2efc647a726ff15b",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

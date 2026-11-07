@@ -1,18 +1,18 @@
 {
  "file": "RS2026-2324",
- "source_hash": "0ff2cf17b26334ca",
+ "source_hash": "9e9c073903a67d81",
  "model": "sonnet",
- "summary": "Requests that the Board of Commissioners of the Metropolitan Nashville Airport Authority work with the Federal Aviation Administration to review how flight patterns affect neighborhoods, and keep residents informed of updates. The Metropolitan Clerk is to send a copy to MNAA Board Chair Nancy Sullivan and the Board of Commissioners.",
+ "summary": "Asks the Metropolitan Nashville Airport Authority's board to keep giving the FAA residents' concerns about flights over their neighborhoods, share reliable information on aircraft activity and noise, tell residents about any future FAA proposals to change departure procedures, and work with the FAA to review how flight patterns affect those neighborhoods. The Clerk is to send a copy to the Airport Authority Board Chair Nancy Sullivan and the board.",
  "topic": "Streets and transportation",
  "verified": true,
  "problems": [],
- "attempts": 2,
- "batch_cost_usd": 0.0632,
+ "attempts": 1,
+ "batch_cost_usd": 0.0586,
  "judge": {
-  "key": "eb3a6d01b4896282",
+  "key": "6531b345cfa62b3e",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0079
+  "cost_usd": 0.0084
  }
 }

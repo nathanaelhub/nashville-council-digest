@@ -1,18 +1,19 @@
 {
  "file": "BL2026-1566",
- "source_hash": "6c79a2bef49a6328",
+ "source_hash": "4864e7e07845397d",
  "model": "sonnet",
- "summary": "Allows door-to-door solicitation only from 10:00 a.m. to 8:00 p.m. during daylight saving time and from 10:00 a.m. to sunset during standard time. It also requires permit holders to check the no-solicitation registry at least once every thirty days, and lets Metro issue warnings and penalties and suspend or revoke permits for repeat violations.",
+ "summary": "Changes the door-to-door solicitation rules: solicitors may only knock from 10:00 a.m. to 8:00 p.m. during daylight saving time or 10:00 a.m. to sunset during standard time, must check the no-solicitation registry at least every thirty days, and must visibly display their permit or badge. Lets residents file complaints, sets steps from warnings to civil penalties to permit suspension or revocation for repeat violations within twelve months, and makes permit holders responsible for the people soliciting for them.",
  "topic": "Other",
  "verified": true,
  "problems": [],
- "attempts": 2,
- "batch_cost_usd": 0.0925,
+ "attempts": 1,
+ "batch_cost_usd": 0.0497,
  "judge": {
-  "key": "8bff07babfffec8e",
+  "key": "1548f7d77d8bf416",
   "model": "sonnet",
   "faithful": true,
   "problem": "",
-  "cost_usd": 0.0082
+  "cost_usd": 0.0202,
+  "alone": true
  }
 }

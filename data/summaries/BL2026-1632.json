@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1632",
+ "source_hash": "316db48c64aad749",
+ "model": "sonnet",
+ "summary": "Rezones 916 and 922 W. Trinity Lane (2.82 acres), about 221 feet east of Old Buena Vista Road, from R8 to SP to allow a mixed use development. It allows up to 19 multi-family homes and up to 5,000 square feet of shops, restaurants, offices or similar uses, and bans short term rentals.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0488,
+ "judge": {
+  "key": "8156fb5d92c2af71",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1646",
+ "source_hash": "e5cc8ad310c1e862",
+ "model": "sonnet",
+ "summary": "Rezones 8.91 acres at 5237 Rice Road, at the corner of Rice Road and Bell Road, from SP to RM15-NS.",
+ "topic": "Housing and zoning",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0497,
+ "judge": {
+  "key": "22fea45037f6a334",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0088
+ }
+}

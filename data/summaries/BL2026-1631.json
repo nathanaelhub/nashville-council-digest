@@ -1,0 +1,18 @@
+{
+ "file": "BL2026-1631",
+ "source_hash": "a898ca8c923cae94",
+ "model": "sonnet",
+ "summary": "Lets Metro accept new water and sewer lines at 3161 Hamilton Church Road (Hamilton Church Townhomes): about 853 feet of eight-inch water main, about 2,996 feet of eight-inch sewer main, two fire hydrant assemblies, 20 sewer manholes and easements.",
+ "topic": "Water, power and environment",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.0488,
+ "judge": {
+  "key": "c975b1347effc317",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0057
+ }
+}

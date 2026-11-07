@@ -1,0 +1,18 @@
+{
+ "file": "RS2026-2369",
+ "source_hash": "209773fedeb6b87d",
+ "model": "sonnet",
+ "summary": "Accepts a gift of work from the Friends of Warner Parks, worth up to $2.5 million, to restore and renovate the Warner Parks Headquarters and Bob Brown Field Station. No cash match is required.",
+ "topic": "Parks, libraries and arts",
+ "verified": true,
+ "problems": [],
+ "attempts": 1,
+ "batch_cost_usd": 0.033,
+ "judge": {
+  "key": "f06aedd1161cca01",
+  "model": "sonnet",
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0053
+ }
+}

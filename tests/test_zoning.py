@@ -20,7 +20,8 @@ def test_codes_are_explained_by_base_and_suffixes():
     assert [x["code"] for x in explain("R6-A")] == ["R6-A", "-A"]
     assert [x["code"] for x in explain("MUN-A-NS")] == ["MUN-A", "-NS"]
     assert [x["code"] for x in explain("RM15-A-NS")] == ["RM15", "-A", "-NS"]
-    assert [x["code"] for x in explain("RM40")] == []  # no cited definition
+    assert [x["code"] for x in explain("RM40-A-NS")] == ["RM40", "-A", "-NS"]
+    assert [x["code"] for x in explain("RM60")] == []  # no cited definition
     assert explain("DTC") == []
 
 
