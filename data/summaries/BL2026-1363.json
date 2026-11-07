@@ -9,10 +9,10 @@
  "attempts": 2,
  "batch_cost_usd": 0.1241,
  "judge": {
-  "key": "97c60db05603c838",
+  "key": "1983820a481b7e42",
   "model": "sonnet",
-  "faithful": false,
-  "problem": "The summary ends the list with 'unless approved by CMA or Metro', which makes the exception cover firearms, knives and drones. The text allows no such exception for those items. Firearms, knives and fighting devices are flatly banned, and the zone is a 'no fly zone'. Vehicles are allowed as directed by police, not by CMA approval.",
-  "cost_usd": 0.0125
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0133
  }
 }

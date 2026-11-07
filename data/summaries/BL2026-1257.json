@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.0445,
  "judge": {
-  "key": "d7eb7447eab09ac6",
+  "key": "73b42dfe0712934b",
   "model": "sonnet",
   "faithful": false,
-  "problem": "The summary says the DADU is built 'behind' the single-family home. Nothing in the text places the DADU behind the house. It only allows a DADU as an accessory to a single-family structure, subject to Subsection 17.16.030.G and other Code requirements.",
-  "cost_usd": 0.0078
+  "problem": "The summary says the DADU is built \"behind\" the single-family home. The ordinance says only that the DADU is an accessory to a single-family structure and must meet Section 17.16.030.G and other Code requirements. It sets no placement behind the house. The 3,750 sq ft minimum and the requirement to meet other Code rules are accurate.",
+  "cost_usd": 0.0117,
+  "alone": true
  }
 }

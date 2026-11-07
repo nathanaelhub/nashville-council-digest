@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.0684,
  "judge": {
-  "key": "5ccd27dfbe3d9af4",
+  "key": "2a91a21d340a0c3a",
   "model": "sonnet",
-  "faithful": false,
-  "problem": "The summary says the notes are sold to the Water & Sewerage Services Fund and General Fund Reserve, which matches the Lending Fund definition, so that part is fine. However, it says they 'must be paid back by June 30, 2027', while the text says maturity is 'not later' than June 30, 2027 and the notes may be prepaid at any time; this is consistent. The real problem is that the summary says the notes cover spending in the General Fund and 'three debt service funds', which matches the text (GSD, Schools, USD). No substantive error found on closer check.",
-  "cost_usd": 0.0086
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0216,
+  "alone": true
  }
 }

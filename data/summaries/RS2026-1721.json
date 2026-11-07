@@ -9,10 +9,10 @@
  "attempts": 1,
  "batch_cost_usd": 0.0464,
  "judge": {
-  "key": "03d321b953b539de",
+  "key": "a69e3d2b45823066",
   "model": "sonnet",
-  "faithful": false,
-  "problem": "The $42,000,000 cap applies to property tax abatement for the affordable senior housing facility only if its owner participates in MDHA's abatement plan; the summary states it unconditionally. It also says the amendment 'covers' a land swap, but the swap is only a possibility the developer may elect (the summary says 'possible', so this is minor). The main issue is the conditional cap presented as a flat rule.",
-  "cost_usd": 0.0066
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0085
  }
 }

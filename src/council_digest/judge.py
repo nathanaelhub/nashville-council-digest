@@ -7,7 +7,17 @@ only hold a summary back, never put one up: a flagged summary is replaced on
 the site by the official title, the same as one that fails the checker.
 
 Verdicts are stored in the summary's own file under "judge", keyed by a hash
-of the text and the summary, so a rewritten summary is judged again.
+of the rule, the text and the summary, so a rewritten summary, or a change to the
+rule, means it is judged again.
+
+Pairs are judged eight to a call, which is cheap but noisy: a batched verdict
+sometimes flags a summary and then argues itself out of it ("on re-check, it is
+faithful"). So every batched flag is confirmed by judging that summary again on
+its own, and the solo verdict is the one kept ("alone": true). Judged alone,
+those false alarms pass (judge-audit, "Second dataset").
+
+data/held.json lists summaries held back by hand, with the reason, for problems
+the judge misses.
 """
 
 from __future__ import annotations
@@ -23,14 +33,16 @@ BATCH = 8
 SYSTEM = """You check plain-language summaries of Nashville Metro Council legislation against the official text.
 
 For each pair, decide whether the summary is faithful: everything it says is supported by the text,
-nothing is reversed or attached to the wrong party, place or amount. Leaving details out is fine;
-saying something the text doesn't support, or the opposite of what it says, is not.
+nothing is reversed or attached to the wrong party, place or amount. Leaving details out is fine,
+unless what is left out changes what the item does: a condition, limit or exception that the
+summary's statement depends on. Saying something the text doesn't support, or the opposite of what
+it says, is not.
 
 Reply with only JSON: {"verdicts": [{"id": "...", "faithful": true|false, "problem": "... or empty"}]}"""
 
 
 def judge_key(source: str, summary: str) -> str:
-    return hashlib.sha256(f"{source}\n--\n{summary}".encode("utf-8")).hexdigest()[:16]
+    return hashlib.sha256(f"{SYSTEM}\n--\n{source}\n--\n{summary}".encode("utf-8")).hexdigest()[:16]
 
 
 async def judge(pairs: list[dict], model: str) -> dict[str, dict]:
@@ -81,16 +93,52 @@ async def judge_all(items: list[Item], model: str = "sonnet", concurrency: int =
                 v = got.get(it.file)
                 if v is None:
                     continue
-                p = summarize.CACHE / f"{it.file}.json"
-                d = json.loads(p.read_text(encoding="utf-8"))
-                d["judge"] = {"key": judge_key(pairs[it.file]["source"], pairs[it.file]["summary"]),
-                              "model": model, "faithful": bool(v["faithful"]),
-                              "problem": v.get("problem") or "", "cost_usd": round(v["cost"], 4)}
-                tmp = p.with_suffix(".json.tmp")
-                tmp.write_text(json.dumps(d, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
-                tmp.replace(p)
-                done.append(d)
+                done.append(store(it, pairs[it.file], v, model))
             log(f"{len(done)}/{len(todo)} judged ({sum(not d['judge']['faithful'] for d in done)} flagged so far)")
 
     await asyncio.gather(*(run(b) for b in batches))
+    await confirm_flagged(items, model, concurrency, log)
+    return [json.loads((summarize.CACHE / f"{d['file']}.json").read_text(encoding="utf-8")) for d in done]
+
+
+def store(it: Item, pair: dict, v: dict, model: str, alone: bool = False) -> dict:
+    p = summarize.CACHE / f"{it.file}.json"
+    d = json.loads(p.read_text(encoding="utf-8"))
+    d["judge"] = {"key": judge_key(pair["source"], pair["summary"]), "model": model,
+                  "faithful": bool(v["faithful"]), "problem": v.get("problem") or "",
+                  "cost_usd": round(v["cost"], 4)} | ({"alone": True} if alone else {})
+    tmp = p.with_suffix(".json.tmp")
+    tmp.write_text(json.dumps(d, indent=1, ensure_ascii=False) + "\n", encoding="utf-8")
+    tmp.replace(p)
+    return d | {"file": it.file}
+
+
+async def confirm_flagged(items: list[Item], model: str = "sonnet", concurrency: int = 2, log=print) -> list[dict]:
+    """Judge each batch-flagged summary again on its own; the solo verdict replaces the batched one."""
+    todo, seen = [], set()
+    for it in items:
+        if it.file in seen:
+            continue
+        seen.add(it.file)
+        s = summarize.cached(it)
+        v = verdict(it, s)
+        if v and not v["faithful"] and not v.get("alone"):
+            todo.append(it)
+    sem = asyncio.Semaphore(concurrency)
+    done = []
+
+    async def run(it):
+        async with sem:
+            pair = {"id": it.file, "source": summarize.source(it), "summary": summarize.cached(it)["summary"]}
+            try:
+                got = await judge([pair], model)
+            except Exception as e:  # noqa: BLE001
+                log(f"confirm {it.file}: {e}")
+                return
+            if it.file in got:
+                done.append(store(it, pair, got[it.file], model, alone=True))
+
+    await asyncio.gather(*(run(it) for it in todo))
+    if todo:
+        log(f"confirmed alone: {sum(not d['judge']['faithful'] for d in done)} of {len(todo)} flags held up")
     return done

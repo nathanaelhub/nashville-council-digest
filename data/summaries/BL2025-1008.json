@@ -9,10 +9,11 @@
  "attempts": 1,
  "batch_cost_usd": 0.0603,
  "judge": {
-  "key": "cae7a4decb102c6e",
+  "key": "96e8a884f91e6c55",
   "model": "sonnet",
-  "faithful": false,
-  "problem": "The summary says the program applies to units income-restricted at 'no more than 120% of AMI'. The text sets the limit at the AMI limit established for the applicable zoning district, which may be lower and can never exceed 120% AMI. The summary treats the 120% ceiling as the fixed limit.",
-  "cost_usd": 0.0081
+  "faithful": true,
+  "problem": "",
+  "cost_usd": 0.0222,
+  "alone": true
  }
 }
