@@ -7,6 +7,8 @@ meetings, in plain language, with what happened to it and which council district
 
 Each meeting has a page, each council district has a page and a feed to follow, and each bill or
 resolution has a page with every reading: when it came up, what happened, and links to each meeting.
+Don't know your district? Type your address on the home page: it's looked up in the same public parcel
+map the site uses to place bills, right from your browser.
 
 Council agendas run to 100–170 items, written in legal language ("An ordinance to amend Title 17
 of the Metropolitan Code of Laws... by changing from RS10 to R10 zoning for property located

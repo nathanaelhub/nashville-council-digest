@@ -305,9 +305,17 @@ text, and read again by Claude for meaning; outcomes come straight from the city
 <h2>By council district</h2>
 <p class="hint">Items whose property or address is in the district. Each district page has a feed you can
 follow to hear about new items.</p>
+<form id="lookup" class="filters lookup" role="search">
+  <label>Don't know your district? Type your address
+    <input name="address" type="text" autocomplete="street-address" placeholder="1 Public Square" required></label>
+  <button type="submit">Find my district</button>
+</form>
+<p id="lookup-result" class="lookup-result" aria-live="polite"></p>
+<noscript><p class="hint">The address lookup needs JavaScript.</p></noscript>
 <div class="chips">{ds}</div>
 {follow("feed.xml", "every item", 0)}
-<p class="hint">Zoning codes like RS5 or RM20-A-NS are explained on the <a href="zoning.html">zoning terms</a> page.</p>"""
+<p class="hint">Zoning codes like RS5 or RM20-A-NS are explained on the <a href="zoning.html">zoning terms</a> page.</p>
+<script src="lookup.js"></script>"""
     return page("Nashville Council Digest", body, feed="feed.xml")
 
 

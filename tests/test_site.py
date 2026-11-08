@@ -117,3 +117,11 @@ def test_feeds_are_valid_atom_and_follow_the_card_rules(site):
             else:
                 assert text == item.title
     assert total > 100
+
+
+def test_home_page_has_the_address_lookup(site):
+    index = (site / "index.html").read_text(encoding="utf-8")
+    assert '<form id="lookup"' in index and 'id="lookup-result"' in index
+    assert '<script src="lookup.js"></script>' in index and (site / "lookup.js").exists()
+    # it links to district pages that exist
+    assert "district/${d}.html" in (site / "lookup.js").read_text(encoding="utf-8")
