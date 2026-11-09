@@ -31,7 +31,8 @@ def test_parse_normalizes_street_type_direction_and_zip():
 def test_quotes_in_street_names_cannot_break_the_query():
     p = js('m.parse("700 O\'Brien Ave")')
     assert "'" not in p["street"]
-    w = js(f'm.where({json.dumps({"house": "1", "street": "A\'\'B", "zip": ""})}, "x")')
+    p = json.dumps({"house": "1", "street": "A''B", "zip": ""})
+    w = js(f'm.where({p}, "x")')
     assert w.count("'") % 2 == 0
 
 
